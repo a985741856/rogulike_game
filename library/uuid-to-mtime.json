@@ -620,98 +620,98 @@
     "relativePath": "bundleRes\\prefab_zombie_skill\\zombieSkill_sjgx.prefab"
   },
   "8e9902c4-a4b8-437f-a32a-06fd703989b7": {
-    "asset": 1691741390744,
-    "meta": 1691741390745,
+    "asset": 1691741560498,
+    "meta": 1691741560498,
     "relativePath": "bundleRes\\prefab_zombie\\boss1.prefab"
   },
   "653fd6cf-adbc-43b3-aeff-4af4db1bfde6": {
-    "asset": 1691458561169,
-    "meta": 1691458561170,
+    "asset": 1691741593738,
+    "meta": 1691741593739,
     "relativePath": "bundleRes\\prefab_zombie\\boss10.prefab"
   },
   "0d4a7f26-490c-4b10-969d-aaa2e05be330": {
-    "asset": 1691458571035,
-    "meta": 1691458571036,
+    "asset": 1691741597182,
+    "meta": 1691741597185,
     "relativePath": "bundleRes\\prefab_zombie\\boss11.prefab"
   },
   "cfedf777-de43-4f94-8041-624f6ae3b3b6": {
-    "asset": 1691458582968,
-    "meta": 1691458582969,
+    "asset": 1691741600453,
+    "meta": 1691741600453,
     "relativePath": "bundleRes\\prefab_zombie\\boss12.prefab"
   },
   "ab66a0dd-afd5-4e98-b3ba-79685ede9c43": {
-    "asset": 1691458598560,
-    "meta": 1691458598561,
+    "asset": 1691741604389,
+    "meta": 1691741604390,
     "relativePath": "bundleRes\\prefab_zombie\\boss13.prefab"
   },
   "12b48a3e-d908-4a81-beaf-095656d87e12": {
-    "asset": 1691458460966,
-    "meta": 1691458460967,
+    "asset": 1691741564750,
+    "meta": 1691741564751,
     "relativePath": "bundleRes\\prefab_zombie\\boss2.prefab"
   },
   "77db3c13-c3c4-4d63-959f-8e0a20b0d335": {
-    "asset": 1691458474914,
-    "meta": 1691458474915,
+    "asset": 1691741568472,
+    "meta": 1691741568472,
     "relativePath": "bundleRes\\prefab_zombie\\boss3.prefab"
   },
   "f1dc6570-7344-4719-822a-2e6a3f743837": {
-    "asset": 1691458486249,
-    "meta": 1691458486250,
+    "asset": 1691741572170,
+    "meta": 1691741572171,
     "relativePath": "bundleRes\\prefab_zombie\\boss4.prefab"
   },
   "763af52e-3441-4f3d-bd7f-dbdcbe76af0c": {
-    "asset": 1691458498485,
-    "meta": 1691458498486,
+    "asset": 1691741575385,
+    "meta": 1691741575386,
     "relativePath": "bundleRes\\prefab_zombie\\boss5.prefab"
   },
   "b0d7accd-9845-45b7-8f15-13dcad23b9a0": {
-    "asset": 1691458513395,
-    "meta": 1691458513397,
+    "asset": 1691741578602,
+    "meta": 1691741578603,
     "relativePath": "bundleRes\\prefab_zombie\\boss6.prefab"
   },
   "ea522065-f96b-42bd-a247-f387cbbf0b4d": {
-    "asset": 1691458525121,
-    "meta": 1691458525122,
+    "asset": 1691741582150,
+    "meta": 1691741582151,
     "relativePath": "bundleRes\\prefab_zombie\\boss7.prefab"
   },
   "dd39df79-4381-45a0-8f76-2f7880c48440": {
-    "asset": 1691458536370,
-    "meta": 1691458536371,
+    "asset": 1691741585728,
+    "meta": 1691741585729,
     "relativePath": "bundleRes\\prefab_zombie\\boss8.prefab"
   },
   "383f7a8f-030c-471a-90b5-a602c9670936": {
-    "asset": 1691458548674,
-    "meta": 1691458548675,
+    "asset": 1691741589224,
+    "meta": 1691741589225,
     "relativePath": "bundleRes\\prefab_zombie\\boss9.prefab"
   },
   "3c0e04c9-75a5-427c-8b65-cfdb2ed6fec8": {
-    "asset": 1691562408974,
-    "meta": 1691562408974,
+    "asset": 1691741609051,
+    "meta": 1691741609051,
     "relativePath": "bundleRes\\prefab_zombie\\zombie_basic.prefab"
   },
   "2117aafd-bef4-4d50-9b64-84a9652b8d66": {
-    "asset": 1691140089436,
-    "meta": 1691140089437,
+    "asset": 1691741613231,
+    "meta": 1691741613233,
     "relativePath": "bundleRes\\prefab_zombie\\zombie_bomb.prefab"
   },
   "2f72a9e6-01f6-4db2-847c-6c12c9d6c293": {
-    "asset": 1691140097943,
-    "meta": 1691140097943,
+    "asset": 1691741617259,
+    "meta": 1691741617259,
     "relativePath": "bundleRes\\prefab_zombie\\zombie_drum.prefab"
   },
   "e72e1bc9-1113-4b8b-bfdb-3aa55013693d": {
-    "asset": 1691140105069,
-    "meta": 1691140105070,
+    "asset": 1691741621066,
+    "meta": 1691741621067,
     "relativePath": "bundleRes\\prefab_zombie\\zombie_jump.prefab"
   },
   "52f93701-3e54-4d9e-b9ab-3a014cf9e343": {
-    "asset": 1691140123280,
-    "meta": 1691140123280,
+    "asset": 1691741630678,
+    "meta": 1691741630680,
     "relativePath": "bundleRes\\prefab_zombie\\zombie_run.prefab"
   },
   "ce0de520-727b-4a11-a534-ea94e4231d4e": {
-    "asset": 1691140112689,
-    "meta": 1691140112690,
+    "asset": 1691741626681,
+    "meta": 1691741626682,
     "relativePath": "bundleRes\\prefab_zombie\\zombie_poison.prefab"
   },
   "8f08b001-6fb3-41be-ae4f-eb4b86e8ecfc": {
@@ -725,8 +725,8 @@
     "relativePath": "bundleRes\\tex_common\\icon.plist"
   },
   "daaa89a4-8a0c-41cf-b9be-b50b38572e44": {
-    "asset": 1691140141587,
-    "meta": 1691140141588,
+    "asset": 1691741636516,
+    "meta": 1691741636517,
     "relativePath": "bundleRes\\prefab_zombie\\zombie_tank.prefab"
   },
   "e7666dad-8732-4984-a233-8dd6451a6585": {
@@ -5065,8 +5065,8 @@
     "relativePath": "scene\\Load.fire"
   },
   "2eebca53-f35d-4668-81b9-f34b97756660": {
-    "asset": 1691480884072,
-    "meta": 1691480884080,
+    "asset": 1691741639519,
+    "meta": 1691741639532,
     "relativePath": "scene\\Home.fire"
   },
   "e17dc11d-62d1-433f-96ce-b173b1a84ff1": {
@@ -5798,11 +5798,6 @@
     "asset": 1691462619399,
     "meta": 1691462620834,
     "relativePath": "scripts\\Game\\UpgradeMgr.ts"
-  },
-  "4f9b3ac1-35d3-4fcb-a5aa-2eb36ed37640": {
-    "asset": 1691463535315,
-    "meta": 1691463543174,
-    "relativePath": "scripts\\Game\\ZombieBase.ts"
   },
   "eec226a6-eb54-4592-9ed2-dd2dfc64eba8": {
     "asset": 1691464800559,
@@ -6708,5 +6703,10 @@
     "asset": 1686551484238,
     "meta": 1691716127290,
     "relativePath": "SpriteFrameSet.js"
+  },
+  "4f9b3ac1-35d3-4fcb-a5aa-2eb36ed37640": {
+    "asset": 1691741481174,
+    "meta": 1691741553270,
+    "relativePath": "scripts\\Game\\ZombieBase.ts"
   }
 }

@@ -58,7 +58,6 @@ var ZombieBase = /** @class */ (function (_super) {
         _this.createShotNum = 3;
         _this.reinNum = 1;
         _this._aniLayer = null;
-        _this.reinLabel = null;
         _this._spAni = null;
         _this._divToPlayer = cc.Vec2.ZERO;
         _this._time = -1;
@@ -100,14 +99,6 @@ var ZombieBase = /** @class */ (function (_super) {
         if (this._spAni) {
             this._spAni.setStartListener(function () { _this.startListenerCall(); });
             this._spAni.setCompleteListener(function () { _this.endListenerCall(); });
-        }
-        this.reinLabel = this.node.getChildByName("reinSp").getChildByName("reinLabel");
-        if (CocosZ_1.cocosz.gameMode == 6) {
-            this.node.getChildByName("reinSp").active = false;
-            this.reinLabel.getComponent(cc.Label).string = this.reinNum.toString();
-        }
-        else {
-            this.node.getChildByName("reinSp").active = false;
         }
     };
     ZombieBase.prototype.onDestroy = function () {
@@ -174,11 +165,8 @@ var ZombieBase = /** @class */ (function (_super) {
             this.totleHp = this.reinNum * 0.2 * gameDate_1.default.ZombieMess[this.zombieId].hp + gameDate_1.default.ZombieMess[this.zombieId].hp;
             this.atkRange = this.reinNum * 0.02 * gameDate_1.default.ZombieMess[this.zombieId].atkRange + gameDate_1.default.ZombieMess[this.zombieId].atkRange;
             this.MoveSpeed = this.reinNum * 0.08 * gameDate_1.default.ZombieMess[this.zombieId].speed + gameDate_1.default.ZombieMess[this.zombieId].speed;
-            this.reinLabel.getComponent(cc.Label).string = this.reinNum.toString();
-            this.node.getChildByName("reinSp").active = false;
         }
         else {
-            this.node.getChildByName("reinSp").active = false;
         }
     };
     ZombieBase.prototype.putNodePool = function () {
@@ -1074,7 +1062,6 @@ var ZombieBase = /** @class */ (function (_super) {
         this.isAtk = false;
         this.isDeath = true;
         this._spAni.timeScale = 1;
-        this.node.getChildByName("reinSp").active = false;
         // 碰撞体
         this.node.getComponents(cc.Collider).forEach(function (v) { return v.enabled = false; });
         // 隐藏销毁
