@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lusebaozha",
+    "texture": "20ae7f32-1f2c-4a73-a687-b28642ea6b57",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      853,
+      835
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      857,
+      839
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

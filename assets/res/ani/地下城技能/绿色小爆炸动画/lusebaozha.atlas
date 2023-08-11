@@ -1,0 +1,144 @@
+
+lusebaozha.png
+size: 857,839
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 86, 820
+  size: 17, 17
+  orig: 21, 21
+  offset: 2, 2
+  index: -1
+d1
+  rotate: false
+  xy: 200, 694
+  size: 251, 143
+  orig: 750, 750
+  offset: 274, 257
+  index: -1
+d2
+  rotate: false
+  xy: 453, 579
+  size: 402, 258
+  orig: 750, 750
+  offset: 184, 246
+  index: -1
+d3
+  rotate: false
+  xy: 2, 272
+  size: 506, 305
+  orig: 750, 750
+  offset: 142, 222
+  index: -1
+d4
+  rotate: false
+  xy: 2, 272
+  size: 506, 305
+  orig: 750, 750
+  offset: 142, 222
+  index: -1
+d5
+  rotate: true
+  xy: 510, 2
+  size: 575, 315
+  orig: 750, 750
+  offset: 102, 219
+  index: -1
+d6
+  rotate: true
+  xy: 510, 2
+  size: 575, 315
+  orig: 750, 750
+  offset: 102, 219
+  index: -1
+daxue
+  rotate: false
+  xy: 105, 769
+  size: 93, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+y-1
+  rotate: false
+  xy: 18, 821
+  size: 21, 16
+  orig: 22, 17
+  offset: 1, 0
+  index: -1
+y-2
+  rotate: false
+  xy: 2, 827
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+z-1
+  rotate: false
+  xy: 41, 821
+  size: 21, 16
+  orig: 22, 17
+  offset: 1, 0
+  index: -1
+z-2
+  rotate: false
+  xy: 64, 821
+  size: 20, 16
+  orig: 21, 16
+  offset: 1, 0
+  index: -1
+
+lusebaozha2.png
+size: 983,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d11
+  rotate: true
+  xy: 2, 2
+  size: 684, 373
+  orig: 750, 750
+  offset: 45, 182
+  index: -1
+d7
+  rotate: false
+  xy: 2, 688
+  size: 624, 328
+  orig: 750, 750
+  offset: 75, 215
+  index: -1
+d8
+  rotate: false
+  xy: 2, 688
+  size: 624, 328
+  orig: 750, 750
+  offset: 75, 215
+  index: -1
+d9
+  rotate: true
+  xy: 628, 354
+  size: 662, 353
+  orig: 750, 750
+  offset: 58, 199
+  index: -1
+d10
+  rotate: true
+  xy: 628, 354
+  size: 662, 353
+  orig: 750, 750
+  offset: 58, 199
+  index: -1
+
+lusebaozha3.png
+size: 707,376
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d12
+  rotate: false
+  xy: 2, 2
+  size: 703, 372
+  orig: 750, 750
+  offset: 36, 168
+  index: -1

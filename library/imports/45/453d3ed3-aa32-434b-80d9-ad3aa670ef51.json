@@ -1,0 +1,295 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "boss",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "neyeH03RifZvewCy9O2ndfQNLHU",
+      "spine": "3.8.99",
+      "x": -102.47,
+      "y": -41.85,
+      "width": 204,
+      "height": 289,
+      "images": "",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "guangquan",
+        "parent": "root",
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "fx306",
+        "parent": "guangquan",
+        "y": -18.14,
+        "scaleX": 2,
+        "scaleY": 2
+      },
+      {
+        "name": "fxsk302",
+        "parent": "guangquan"
+      }
+    ],
+    "slots": [
+      {
+        "name": "fx306a",
+        "bone": "fx306",
+        "attachment": "fx306a"
+      },
+      {
+        "name": "fxsk302",
+        "bone": "fxsk302"
+      },
+      {
+        "name": "fx306",
+        "bone": "fx306",
+        "attachment": "fx306_0003",
+        "blend": "additive"
+      },
+      {
+        "name": "fx01",
+        "bone": "fx306",
+        "attachment": "fx01",
+        "blend": "additive"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "fx01": {
+            "fx01": {
+              "x": -0.12,
+              "y": 26.99,
+              "scaleX": 0.25,
+              "scaleY": 0.25,
+              "width": 204,
+              "height": 227
+            }
+          },
+          "fx306": {
+            "fx306_0001": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0002": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0003": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0004": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0005": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0006": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0007": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0008": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0009": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0010": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0011": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0012": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0013": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0014": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            },
+            "fx306_0015": {
+              "y": 30.86,
+              "width": 60,
+              "height": 80
+            }
+          },
+          "fx306a": {
+            "fx306a": {
+              "type": "clipping",
+              "end": "fx306",
+              "vertexCount": 12,
+              "vertices": [
+                -25.02,
+                4.21,
+                -25.01,
+                2.37,
+                -20.98,
+                0.94,
+                -13.61,
+                -0.5,
+                -4.95,
+                -1.14,
+                -0.01,
+                -1.24,
+                12.39,
+                -0.67,
+                17.28,
+                -0.2,
+                23.09,
+                1.1,
+                25.01,
+                2.75,
+                25.02,
+                96.68,
+                -25.11,
+                96.69
+              ],
+              "color": "ce3a3aff"
+            }
+          },
+          "fxsk302": {
+            "fxsk302": {
+              "width": 144,
+              "height": 104
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "fx306": {
+            "attachment": [
+              {
+                "name": "fx306_0001"
+              },
+              {
+                "time": 0.0333,
+                "name": "fx306_0002"
+              },
+              {
+                "time": 0.0667,
+                "name": "fx306_0003"
+              },
+              {
+                "time": 0.1,
+                "name": "fx306_0004"
+              },
+              {
+                "time": 0.1333,
+                "name": "fx306_0005"
+              },
+              {
+                "time": 0.1667,
+                "name": "fx306_0006"
+              },
+              {
+                "time": 0.2,
+                "name": "fx306_0007"
+              },
+              {
+                "time": 0.2333,
+                "name": "fx306_0008"
+              },
+              {
+                "time": 0.2667,
+                "name": "fx306_0009"
+              },
+              {
+                "time": 0.3,
+                "name": "fx306_0010"
+              },
+              {
+                "time": 0.3333,
+                "name": "fx306_0011"
+              },
+              {
+                "time": 0.3667,
+                "name": "fx306_0012"
+              },
+              {
+                "time": 0.4,
+                "name": "fx306_0013"
+              },
+              {
+                "time": 0.4333,
+                "name": "fx306_0014"
+              },
+              {
+                "time": 0.4667,
+                "name": "fx306_0015"
+              },
+              {
+                "time": 0.5,
+                "name": "fx306_0001"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "fxsk302": {
+            "scale": [
+              {},
+              {
+                "time": 0.2,
+                "x": 1.2,
+                "y": 1.2
+              },
+              {
+                "time": 0.5
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nboss.png\nsize: 518,211\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nfx01\n  rotate: true\n  xy: 2, 8\n  size: 201, 227\n  orig: 204, 227\n  offset: 2, 0\n  index: -1\nfx306_0001\n  rotate: true\n  xy: 463, 158\n  size: 51, 52\n  orig: 60, 80\n  offset: 5, 0\n  index: -1\nfx306_0002\n  rotate: true\n  xy: 407, 158\n  size: 51, 54\n  orig: 60, 80\n  offset: 5, 0\n  index: -1\nfx306_0003\n  rotate: false\n  xy: 340, 35\n  size: 50, 57\n  orig: 60, 80\n  offset: 6, 0\n  index: -1\nfx306_0004\n  rotate: true\n  xy: 392, 2\n  size: 46, 48\n  orig: 60, 80\n  offset: 7, 0\n  index: -1\nfx306_0005\n  rotate: false\n  xy: 466, 2\n  size: 49, 49\n  orig: 60, 80\n  offset: 7, 0\n  index: -1\nfx306_0006\n  rotate: false\n  xy: 466, 53\n  size: 50, 50\n  orig: 60, 80\n  offset: 6, 0\n  index: -1\nfx306_0007\n  rotate: false\n  xy: 284, 11\n  size: 50, 51\n  orig: 60, 80\n  offset: 6, 0\n  index: -1\nfx306_0008\n  rotate: true\n  xy: 412, 50\n  size: 51, 52\n  orig: 60, 80\n  offset: 5, 0\n  index: -1\nfx306_0009\n  rotate: false\n  xy: 465, 105\n  size: 51, 51\n  orig: 60, 80\n  offset: 6, 0\n  index: -1\nfx306_0010\n  rotate: false\n  xy: 412, 103\n  size: 51, 53\n  orig: 60, 80\n  offset: 6, 0\n  index: -1\nfx306_0011\n  rotate: false\n  xy: 231, 71\n  size: 53, 55\n  orig: 60, 80\n  offset: 4, 0\n  index: -1\nfx306_0012\n  rotate: true\n  xy: 352, 94\n  size: 53, 58\n  orig: 60, 80\n  offset: 4, 0\n  index: -1\nfx306_0013\n  rotate: false\n  xy: 352, 149\n  size: 53, 60\n  orig: 60, 80\n  offset: 4, 0\n  index: -1\nfx306_0014\n  rotate: false\n  xy: 286, 64\n  size: 52, 62\n  orig: 60, 80\n  offset: 5, 0\n  index: -1\nfx306_0015\n  rotate: false\n  xy: 231, 5\n  size: 51, 64\n  orig: 60, 80\n  offset: 5, 0\n  index: -1\nfxsk302\n  rotate: false\n  xy: 231, 128\n  size: 119, 81\n  orig: 144, 104\n  offset: 11, 14\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "6a0ee75d-c72a-48e5-8e1a-bdf140eb76bd"
+    }
+  ],
+  "textureNames": [
+    "boss.png"
+  ],
+  "scale": 1
+}

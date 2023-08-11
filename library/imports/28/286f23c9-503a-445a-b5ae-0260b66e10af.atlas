@@ -1,0 +1,111 @@
+
+lhuo.png
+size: 895,358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/kr_0000_1
+  rotate: true
+  xy: 524, 245
+  size: 111, 166
+  orig: 133, 184
+  offset: 13, 2
+  index: -1
+images/kr_0001_2
+  rotate: true
+  xy: 2, 132
+  size: 113, 166
+  orig: 133, 184
+  offset: 11, 2
+  index: -1
+images/kr_0002_3
+  rotate: true
+  xy: 692, 244
+  size: 112, 168
+  orig: 133, 184
+  offset: 12, 2
+  index: -1
+images/kr_0003_4
+  rotate: true
+  xy: 349, 245
+  size: 111, 173
+  orig: 133, 184
+  offset: 14, 0
+  index: -1
+images/kr_0004_5
+  rotate: true
+  xy: 171, 246
+  size: 110, 176
+  orig: 133, 184
+  offset: 13, 2
+  index: -1
+images/kr_0005_6
+  rotate: true
+  xy: 2, 11
+  size: 117, 181
+  orig: 133, 184
+  offset: 7, 2
+  index: -1
+images/kr_0006_7
+  rotate: true
+  xy: 533, 127
+  size: 115, 181
+  orig: 133, 184
+  offset: 10, 2
+  index: -1
+images/kr_0007_8
+  rotate: true
+  xy: 170, 130
+  size: 113, 181
+  orig: 133, 184
+  offset: 11, 2
+  index: -1
+images/kr_0008_9
+  rotate: true
+  xy: 364, 6
+  size: 119, 177
+  orig: 133, 184
+  offset: 5, 1
+  index: -1
+images/kr_0009_10
+  rotate: true
+  xy: 717, 2
+  size: 123, 176
+  orig: 133, 184
+  offset: 1, 2
+  index: -1
+images/kr_0010_11
+  rotate: true
+  xy: 543, 3
+  size: 122, 172
+  orig: 133, 184
+  offset: 2, 2
+  index: -1
+images/kr_0011_12
+  rotate: true
+  xy: 353, 129
+  size: 114, 178
+  orig: 133, 184
+  offset: 11, 2
+  index: -1
+images/kr_0012_13
+  rotate: true
+  xy: 185, 9
+  size: 118, 177
+  orig: 133, 184
+  offset: 10, 0
+  index: -1
+images/kr_0013_14
+  rotate: true
+  xy: 716, 127
+  size: 115, 170
+  orig: 133, 184
+  offset: 11, 2
+  index: -1
+images/kr_0014_15
+  rotate: true
+  xy: 2, 247
+  size: 109, 167
+  orig: 133, 184
+  offset: 14, 2
+  index: -1

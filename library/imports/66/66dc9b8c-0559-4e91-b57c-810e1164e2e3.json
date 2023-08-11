@@ -1,0 +1,74 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "zombie_over.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "bg_kuang": {
+      "__uuid__": "c480de4e-25ea-4630-8644-ec822be2ce7e"
+    },
+    "hong": {
+      "__uuid__": "e42a6b68-66b5-43f2-9bae-53f8c0519154"
+    },
+    "hong2": {
+      "__uuid__": "77d3bdb6-989c-471b-ac4c-42f542063ce3"
+    },
+    "huang": {
+      "__uuid__": "d1782793-3287-4be2-a351-4185d5b72f35"
+    },
+    "newRecard": {
+      "__uuid__": "fd327cf2-4d45-49f3-b7cf-e2344dfb24c4"
+    },
+    "title_fail": {
+      "__uuid__": "9a6e1e4b-3482-4dcf-9071-233b2dace32d"
+    },
+    "title_win": {
+      "__uuid__": "eac42fb4-b2a6-45bb-9d20-55a83dd8adb9"
+    },
+    "txt-xiayiguan": {
+      "__uuid__": "050276c8-a1d2-4226-b0cf-3f86ddf6a8a9"
+    },
+    "zombie_over1": {
+      "__uuid__": "e81bfebd-aa9c-42d9-b000-59c859feec64"
+    },
+    "zombie_over10": {
+      "__uuid__": "4494cf57-8ce0-4a55-a967-40aa90194656"
+    },
+    "zombie_over12": {
+      "__uuid__": "c4b6ce23-475e-47f6-8d2d-ecde3d5ea46b"
+    },
+    "zombie_over13": {
+      "__uuid__": "21ccf266-fb1d-4c3a-83a3-c14b6741d53c"
+    },
+    "zombie_over14": {
+      "__uuid__": "61a5dc1f-5259-4f4f-b0e3-4f4f2af7219f"
+    },
+    "zombie_over15": {
+      "__uuid__": "6639badd-c0c4-43ff-94d0-ce6e30cf51fd"
+    },
+    "zombie_over16": {
+      "__uuid__": "df49002e-7d55-4086-95b4-e703dd184a38"
+    },
+    "zombie_over18": {
+      "__uuid__": "e255416b-6dc1-4125-8ea4-e1b7e213c1c7"
+    },
+    "zombie_over2": {
+      "__uuid__": "d14f0a45-2843-4419-ae86-aa182b9cc256"
+    },
+    "zombie_over3": {
+      "__uuid__": "f0965eef-7598-4dfa-957c-afa963ce6ad8"
+    },
+    "zombie_over4": {
+      "__uuid__": "ffe5f040-ddf9-433a-a5b7-b7d6f63553af"
+    },
+    "zombie_over7": {
+      "__uuid__": "c4588b3c-be1b-43bf-aad4-1e09b6e3fddf"
+    },
+    "zombie_over8": {
+      "__uuid__": "60ad87cb-ea92-4d8c-93dd-cb0f864411b4"
+    },
+    "zombie_over9": {
+      "__uuid__": "e9a83837-ea8d-40ad-8140-b8406dddb4f9"
+    }
+  }
+}

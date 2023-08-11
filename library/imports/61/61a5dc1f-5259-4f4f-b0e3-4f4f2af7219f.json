@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zombie_over14",
+    "texture": "62796394-b3c1-426e-8189-9414cfb62c8d",
+    "atlas": "66dc9b8c-0559-4e91-b57c-810e1164e2e3",
+    "rect": [
+      837,
+      1061,
+      126,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

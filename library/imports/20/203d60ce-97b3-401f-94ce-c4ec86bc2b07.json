@@ -1,0 +1,180 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "rs",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "Da9/q8cF6peis/KwUhmq99VRNj8",
+      "spine": "3.8.99",
+      "x": -67.5,
+      "y": -28.79,
+      "width": 135,
+      "height": 240.94
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "huoyan",
+        "parent": "root",
+        "x": -3.14,
+        "y": 74.69,
+        "scaleX": 1.8617,
+        "scaleY": 2.6317
+      },
+      {
+        "name": "honghuo2",
+        "parent": "huoyan",
+        "length": 18.65,
+        "rotation": 91.47,
+        "x": 0.73,
+        "y": 1.53
+      }
+    ],
+    "slots": [
+      {
+        "name": "honghuo2",
+        "bone": "honghuo2"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "honghuo2": {
+            "honghuo0001": {
+              "x": 8.42,
+              "y": 0.39,
+              "rotation": -91.47,
+              "width": 58,
+              "height": 88
+            },
+            "honghuo0002": {
+              "x": 8.42,
+              "y": 0.39,
+              "rotation": -91.47,
+              "width": 58,
+              "height": 88
+            },
+            "honghuo0003": {
+              "x": 8.42,
+              "y": 0.39,
+              "rotation": -91.47,
+              "width": 58,
+              "height": 88
+            },
+            "honghuo0004": {
+              "x": 8.42,
+              "y": 0.39,
+              "rotation": -91.47,
+              "width": 58,
+              "height": 88
+            },
+            "honghuo0005": {
+              "x": 8.42,
+              "y": 0.39,
+              "rotation": -91.47,
+              "width": 58,
+              "height": 88
+            },
+            "honghuo0006": {
+              "x": 8.42,
+              "y": 0.39,
+              "rotation": -91.47,
+              "width": 58,
+              "height": 88
+            },
+            "honghuo0007": {
+              "x": 8.42,
+              "y": 0.39,
+              "rotation": -91.47,
+              "width": 58,
+              "height": 88
+            },
+            "honghuo0008": {
+              "x": 8.42,
+              "y": 0.39,
+              "rotation": -91.47,
+              "width": 58,
+              "height": 88
+            },
+            "honghuo0009": {
+              "x": 8.42,
+              "y": 0.39,
+              "rotation": -91.47,
+              "width": 58,
+              "height": 88
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "honghuo2": {
+            "attachment": [
+              {
+                "name": "honghuo0001"
+              },
+              {
+                "time": 0.0667,
+                "name": "honghuo0002"
+              },
+              {
+                "time": 0.1333,
+                "name": "honghuo0003"
+              },
+              {
+                "time": 0.2,
+                "name": "honghuo0004"
+              },
+              {
+                "time": 0.2667,
+                "name": "honghuo0005"
+              },
+              {
+                "time": 0.3333,
+                "name": "honghuo0006"
+              },
+              {
+                "time": 0.4,
+                "name": "honghuo0007"
+              },
+              {
+                "time": 0.4667,
+                "name": "honghuo0008"
+              },
+              {
+                "time": 0.5333,
+                "name": "honghuo0009"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "honghuo2": {
+            "translate": [
+              {
+                "x": 1.55,
+                "y": 2.59
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nrs.png\nsize: 141,276\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nhonghuo0001\n  rotate: true\n  xy: 77, 51\n  size: 54, 61\n  orig: 58, 88\n  offset: 3, 3\n  index: -1\nhonghuo0002\n  rotate: true\n  xy: 2, 5\n  size: 53, 61\n  orig: 58, 88\n  offset: 3, 2\n  index: -1\nhonghuo0003\n  rotate: false\n  xy: 85, 107\n  size: 47, 85\n  orig: 58, 88\n  offset: 6, 3\n  index: -1\nhonghuo0004\n  rotate: true\n  xy: 2, 223\n  size: 51, 83\n  orig: 58, 88\n  offset: 4, 4\n  index: -1\nhonghuo0005\n  rotate: true\n  xy: 2, 112\n  size: 57, 65\n  orig: 58, 88\n  offset: 0, 3\n  index: -1\nhonghuo0006\n  rotate: true\n  xy: 2, 60\n  size: 50, 73\n  orig: 58, 88\n  offset: 6, 3\n  index: -1\nhonghuo0007\n  rotate: true\n  xy: 2, 171\n  size: 50, 81\n  orig: 58, 88\n  offset: 5, 2\n  index: -1\nhonghuo0008\n  rotate: false\n  xy: 87, 194\n  size: 52, 80\n  orig: 58, 88\n  offset: 6, 4\n  index: -1\nhonghuo0009\n  rotate: true\n  xy: 65, 2\n  size: 47, 61\n  orig: 58, 88\n  offset: 9, 4\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "c0caf11b-8e20-451b-9bce-d04b7a0fc376"
+    }
+  ],
+  "textureNames": [
+    "rs.png"
+  ],
+  "scale": 1
+}

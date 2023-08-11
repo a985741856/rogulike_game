@@ -1,0 +1,30 @@
+{
+  "ver": "1.2.0",
+  "uuid": "c387c8a4-d1fb-426c-8079-40ae015f3dc5",
+  "maxWidth": 1024,
+  "maxHeight": 1024,
+  "padding": 2,
+  "allowRotation": true,
+  "forceSquared": false,
+  "powerOfTwo": false,
+  "algorithm": "MaxRects",
+  "format": "png",
+  "quality": 80,
+  "contourBleed": true,
+  "paddingBleed": true,
+  "filterUnused": false,
+  "packable": false,
+  "premultiplyAlpha": false,
+  "filterMode": "bilinear",
+  "platformSettings": {
+    "android": {
+      "formats": [
+        {
+          "name": "etc1",
+          "quality": "fast"
+        }
+      ]
+    }
+  },
+  "subMetas": {}
+}

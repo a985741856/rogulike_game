@@ -1,0 +1,167 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "gamePage.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "btn_bullet_mask": {
+      "__uuid__": "0969eb36-4f75-47b2-8c89-a0426529a46c"
+    },
+    "btn_bullet_pro": {
+      "__uuid__": "09a80dea-c939-47e3-8102-6f7619f718b0"
+    },
+    "gamePage1": {
+      "__uuid__": "0d078cd4-f2e2-45de-aa18-04efd01b6adb"
+    },
+    "gamePage10": {
+      "__uuid__": "de902890-f3a3-4bc4-97b9-93df606b415e"
+    },
+    "gamePage11": {
+      "__uuid__": "14aef9ca-1d22-4f4d-bb36-460326b51fb4"
+    },
+    "gamePage12": {
+      "__uuid__": "a94df1a3-3919-4fb4-82d8-5de9e88eacb8"
+    },
+    "gamePage13": {
+      "__uuid__": "ba65f2be-2529-40d9-aa17-2b9725455955"
+    },
+    "gamePage14": {
+      "__uuid__": "6221fa00-01d1-48c0-b099-1936626d4ec1"
+    },
+    "gamePage15": {
+      "__uuid__": "f199a8ee-a29e-48fe-863c-000f6a52b3db"
+    },
+    "gamePage16": {
+      "__uuid__": "d08e2327-614b-4e0f-b712-4f4501cc255f"
+    },
+    "gamePage17": {
+      "__uuid__": "42a16432-bae7-49fe-83bc-66916afe0995"
+    },
+    "gamePage18": {
+      "__uuid__": "473dd6ae-b7ed-4bfb-bfe8-a6bc4bcc2e28"
+    },
+    "gamePage19": {
+      "__uuid__": "ce2bbbea-2900-429b-bffb-d7f487e1f5cb"
+    },
+    "gamePage2": {
+      "__uuid__": "47384638-21a8-4c7a-9737-aa9d479da4d8"
+    },
+    "gamePage20": {
+      "__uuid__": "9fbd4e5d-42fb-4c91-aefb-ff42b0bb8498"
+    },
+    "gamePage21": {
+      "__uuid__": "25d0d3a4-a719-4627-a1b4-4deedf60d59a"
+    },
+    "gamePage22": {
+      "__uuid__": "7d5d5adb-7d36-46a6-bdd0-b76544c7c9fe"
+    },
+    "gamePage23": {
+      "__uuid__": "7b083e9d-5aa4-4ddf-b5c9-4c2b77ab48b0"
+    },
+    "gamePage24": {
+      "__uuid__": "afe5c3df-11ac-438b-ad65-2f776d28131c"
+    },
+    "gamePage25": {
+      "__uuid__": "f17c42f1-16a5-4665-a122-ff03925a5672"
+    },
+    "gamePage26": {
+      "__uuid__": "23163004-2afd-4445-9532-7d8f13183f5c"
+    },
+    "gamePage27": {
+      "__uuid__": "13852455-8a9f-4887-a149-7eb7d1fdf105"
+    },
+    "gamePage28": {
+      "__uuid__": "297ba8db-28f6-4948-b6d9-b0303b178783"
+    },
+    "gamePage29": {
+      "__uuid__": "efdde717-1273-4569-a343-e5a9ef08831b"
+    },
+    "gamePage3": {
+      "__uuid__": "f4384445-9f80-4768-aef7-bd5077dd5c5e"
+    },
+    "gamePage30": {
+      "__uuid__": "f220d1e8-e381-448b-97e1-a05df76807d1"
+    },
+    "gamePage31": {
+      "__uuid__": "a6e841f6-692e-46ec-85ed-d96cb820c693"
+    },
+    "gamePage32": {
+      "__uuid__": "2d8f78dc-1ec7-4287-8424-f30a453a6007"
+    },
+    "gamePage33": {
+      "__uuid__": "71b82de8-ce3b-4dbf-94db-c01c247d2633"
+    },
+    "gamePage34": {
+      "__uuid__": "a4a0545c-6896-4ce7-9197-c658184bf3e9"
+    },
+    "gamePage35": {
+      "__uuid__": "e941cf3b-ea85-4f84-b73a-e50c0977488e"
+    },
+    "gamePage36": {
+      "__uuid__": "7191c8e1-7b4b-4497-96c4-7194026c8a03"
+    },
+    "gamePage37": {
+      "__uuid__": "db5885ef-7d73-450a-813b-16793b884360"
+    },
+    "gamePage38": {
+      "__uuid__": "e0c8e464-66a2-4d90-8877-25bf53efd194"
+    },
+    "gamePage39": {
+      "__uuid__": "a48c21d5-8e95-42d8-8b2e-3011d8b77e41"
+    },
+    "gamePage4": {
+      "__uuid__": "bded722e-b18d-4d1b-b18a-0d79c16875ff"
+    },
+    "gamePage40": {
+      "__uuid__": "acd69727-2830-4c45-9472-a8bc28d5f343"
+    },
+    "gamePage41": {
+      "__uuid__": "584011cb-b445-4a81-941f-4df26081cfc7"
+    },
+    "gamePage42": {
+      "__uuid__": "38a80bdb-1434-4009-ae42-b6e3c6ed7e20"
+    },
+    "gamePage43": {
+      "__uuid__": "03d86521-c043-423e-a1d5-8e7a3e1e4918"
+    },
+    "gamePage44": {
+      "__uuid__": "ddc104b0-2d0e-4d1a-a28f-3d0ca5b0935a"
+    },
+    "gamePage45": {
+      "__uuid__": "a784079b-057d-4004-990c-e0f181e89a5e"
+    },
+    "gamePage46": {
+      "__uuid__": "9860e249-ed97-4fef-a272-17d2bc2532b6"
+    },
+    "gamePage47": {
+      "__uuid__": "2d9cf402-f556-4e76-976a-3467aeab3e22"
+    },
+    "gamePage48": {
+      "__uuid__": "1402251d-a664-4416-99d3-28512f54ca39"
+    },
+    "gamePage49": {
+      "__uuid__": "697e02f0-7b3a-479c-a29e-804fdb4881ea"
+    },
+    "gamePage5": {
+      "__uuid__": "a5293b57-b72b-4596-bc9f-f3e0a14e8809"
+    },
+    "gamePage50": {
+      "__uuid__": "e481bdbd-9c21-4f9e-b75a-bfd6a693dfce"
+    },
+    "gamePage51": {
+      "__uuid__": "370184c5-3192-446c-860e-a9d4c52745d9"
+    },
+    "gamePage6": {
+      "__uuid__": "0be8da92-b997-4ddc-99e0-8d11d9d4fc38"
+    },
+    "gamePage7": {
+      "__uuid__": "6977c37e-9318-4401-a4a8-b722c645d8f2"
+    },
+    "gamePage8": {
+      "__uuid__": "47122f29-ff8c-4265-94d9-fa196d68e34d"
+    },
+    "gamePage9": {
+      "__uuid__": "1b491c49-642a-47f1-af17-42a78d954fae"
+    }
+  }
+}
