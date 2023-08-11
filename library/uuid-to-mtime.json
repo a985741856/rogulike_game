@@ -1,12 +1,12 @@
 {
   "4658be01-4f7a-4435-816f-f20d67432853": {
-    "asset": 1686551485964,
-    "meta": 1686551510169,
+    "asset": 1691739965316,
+    "meta": 1691741351249,
     "relativePath": "bundleLoad"
   },
   "03f58be5-ea52-43d0-9f03-5b15c243d439": {
-    "asset": 1686551485965,
-    "meta": 1686551510169,
+    "asset": 1691739965319,
+    "meta": 1691741351250,
     "relativePath": "bundleLoad\\ui"
   },
   "1eb1a199-011e-42d1-a166-aa0fa3f8c9dc": {
@@ -15,13 +15,13 @@
     "relativePath": "bundleLoad\\ui\\UILoadingPage.prefab"
   },
   "534f53b1-27cc-42a8-94dd-0f1de87e3b8a": {
-    "asset": 1688549568351,
-    "meta": 1688605339194,
+    "asset": 1691739965638,
+    "meta": 1691741351253,
     "relativePath": "bundleRes"
   },
   "869af8d2-11a8-4043-bbac-553ba3958d7b": {
-    "asset": 1686551485938,
-    "meta": 1686551510174,
+    "asset": 1691739965348,
+    "meta": 1691741351254,
     "relativePath": "bundleRes\\audio_common"
   },
   "a243bdaf-b660-4aef-b8ee-1447e36c0b61": {
@@ -70,8 +70,8 @@
     "relativePath": "bundleRes\\audio_common\\ui_caidai.mp3"
   },
   "52252f47-ea65-4a96-a951-e13440b799fb": {
-    "asset": 1686551485923,
-    "meta": 1686551510526,
+    "asset": 1691739965395,
+    "meta": 1691741351256,
     "relativePath": "bundleRes\\audio_game"
   },
   "b306b578-051c-4c60-8203-edece02625aa": {
@@ -220,8 +220,8 @@
     "relativePath": "bundleRes\\audio_game\\shot_szg.mp3"
   },
   "2e3117c4-366a-4a7c-832b-3e9bda1d7919": {
-    "asset": 1686551485879,
-    "meta": 1686551510603,
+    "asset": 1691739965419,
+    "meta": 1691741351257,
     "relativePath": "bundleRes\\audio_zombie"
   },
   "861f6255-1f6e-4b51-800d-7da2850dccec": {
@@ -295,8 +295,8 @@
     "relativePath": "bundleRes\\audio_zombie\\zombie_win.mp3"
   },
   "7873b271-dc13-44d4-b45c-2ef4adac1a26": {
-    "asset": 1686551485851,
-    "meta": 1686551510643,
+    "asset": 1691739965441,
+    "meta": 1691741351258,
     "relativePath": "bundleRes\\prefab_heads"
   },
   "b29a446a-4753-4c5b-a0bc-1f212b0d94de": {
@@ -360,8 +360,8 @@
     "relativePath": "bundleRes\\prefab_heads\\head8.prefab"
   },
   "dea566ba-e72b-4237-a7d7-82befd6096e2": {
-    "asset": 1686551485832,
-    "meta": 1686551510667,
+    "asset": 1691739965462,
+    "meta": 1691741351259,
     "relativePath": "bundleRes\\prefab_skin"
   },
   "4ab14b18-de8d-46e1-bd68-22686b5d35de": {
@@ -425,8 +425,8 @@
     "relativePath": "bundleRes\\prefab_skin\\skin8.prefab"
   },
   "bafedde9-bb06-4208-9479-0215d0e41afc": {
-    "asset": 1689039873707,
-    "meta": 1689124442289,
+    "asset": 1691739965501,
+    "meta": 1691741351259,
     "relativePath": "bundleRes\\prefab_weapon"
   },
   "18a86dcc-1d2b-4af9-a1da-fb497363d2fb": {
@@ -540,8 +540,8 @@
     "relativePath": "bundleRes\\prefab_weapon\\weapon_tb.prefab"
   },
   "f6c74e8f-2033-4f8c-a019-5c1d4e383f9a": {
-    "asset": 1686551485779,
-    "meta": 1686551510744,
+    "asset": 1691739965535,
+    "meta": 1691741351260,
     "relativePath": "bundleRes\\prefab_zombie"
   },
   "ddbd2b0e-4345-4ae5-b082-aaa53d3d34bf": {
@@ -550,8 +550,8 @@
     "relativePath": "bundleRes\\prefab_weapon\\weapon_tj.prefab"
   },
   "7e81f4d8-28fd-440e-88e1-51c7938a2c59": {
-    "asset": 1689039854492,
-    "meta": 1689124442290,
+    "asset": 1691739965557,
+    "meta": 1691741351261,
     "relativePath": "bundleRes\\prefab_zombie_skill"
   },
   "29fae169-4c10-4524-9558-e877364cf401": {
@@ -620,8 +620,8 @@
     "relativePath": "bundleRes\\prefab_zombie_skill\\zombieSkill_sjgx.prefab"
   },
   "8e9902c4-a4b8-437f-a32a-06fd703989b7": {
-    "asset": 1691458444528,
-    "meta": 1691458444528,
+    "asset": 1691741390744,
+    "meta": 1691741390745,
     "relativePath": "bundleRes\\prefab_zombie\\boss1.prefab"
   },
   "653fd6cf-adbc-43b3-aeff-4af4db1bfde6": {
@@ -715,8 +715,8 @@
     "relativePath": "bundleRes\\prefab_zombie\\zombie_poison.prefab"
   },
   "8f08b001-6fb3-41be-ae4f-eb4b86e8ecfc": {
-    "asset": 1686551485726,
-    "meta": 1686551510810,
+    "asset": 1691739965573,
+    "meta": 1691741351262,
     "relativePath": "bundleRes\\tex_common"
   },
   "353dbcbd-b642-44b3-b5c4-041f0734a225": {
@@ -730,8 +730,8 @@
     "relativePath": "bundleRes\\prefab_zombie\\zombie_tank.prefab"
   },
   "e7666dad-8732-4984-a233-8dd6451a6585": {
-    "asset": 1691479172276,
-    "meta": 1691480907875,
+    "asset": 1691739965637,
+    "meta": 1691741351263,
     "relativePath": "bundleRes\\tex_zombie"
   },
   "26152c6d-bd59-45a0-9145-d57026b676b0": {
@@ -740,8 +740,8 @@
     "relativePath": "bundleRes\\tex_common\\icon.png"
   },
   "ce288ed3-e69a-4e38-a154-7789ac2b5892": {
-    "asset": 1690362125588,
-    "meta": 1690420269897,
+    "asset": 1691739965670,
+    "meta": 1691741351263,
     "relativePath": "bundleRes\\UI"
   },
   "5f066fc5-b150-4798-94f8-0f417caa0436": {
@@ -815,13 +815,13 @@
     "relativePath": "bundleRes\\UI\\UIUpgradePanel.prefab"
   },
   "f087d321-307b-46fc-a6a8-a18b5885470d": {
-    "asset": 1686551485662,
-    "meta": 1686551511051,
+    "asset": 1691739965967,
+    "meta": 1691741351264,
     "relativePath": "common-plugin"
   },
   "e9966ab8-e619-464a-9cf6-a497c5eb8ba5": {
-    "asset": 1686551485674,
-    "meta": 1686551511052,
+    "asset": 1691739965694,
+    "meta": 1691741351265,
     "relativePath": "common-plugin\\Fonts"
   },
   "35d5d110-519d-49e5-a507-e2fcfee3d533": {
@@ -870,8 +870,8 @@
     "relativePath": "common-plugin\\Fonts\\truntable_trip_font.png"
   },
   "b9b142d6-eb8f-466a-af84-0e1e512aec08": {
-    "asset": 1686551485661,
-    "meta": 1686551511078,
+    "asset": 1691739965759,
+    "meta": 1691741351266,
     "relativePath": "common-plugin\\Prefabs"
   },
   "e793d716-6673-4f14-a983-8904128a6d4b": {
@@ -1070,8 +1070,8 @@
     "relativePath": "common-plugin\\README.en.md"
   },
   "89eb5afb-f92b-479c-b9fa-1950fe55ccd7": {
-    "asset": 1686551485601,
-    "meta": 1686551511184,
+    "asset": 1691739965960,
+    "meta": 1691741351266,
     "relativePath": "common-plugin\\Scripts"
   },
   "c007bdbf-d236-4f27-b5b3-bb2805653806": {
@@ -1210,8 +1210,8 @@
     "relativePath": "common-plugin\\Scripts\\CompatibleTool.ts"
   },
   "93248d8f-9966-4e49-acc4-97fd35f59df6": {
-    "asset": 1686551485561,
-    "meta": 1686551512638,
+    "asset": 1691739965948,
+    "meta": 1691741351267,
     "relativePath": "common-plugin\\Scripts\\Encrypt"
   },
   "9c578ace-7a3c-4dc1-8c80-fcecb0603899": {
@@ -1220,8 +1220,8 @@
     "relativePath": "common-plugin\\Scripts\\Encrypt\\CryptoJS.js"
   },
   "b690ccfd-c49d-4aec-ae3f-a7b945f07f89": {
-    "asset": 1686551485558,
-    "meta": 1686551512766,
+    "asset": 1691739965955,
+    "meta": 1691741351268,
     "relativePath": "common-plugin\\Scripts\\FaceBookSdk"
   },
   "1da799f5-6e62-4de6-aaef-ff22f6c186c0": {
@@ -1395,13 +1395,13 @@
     "relativePath": "common-plugin\\Scripts\\TryGamesWidget.ts"
   },
   "e4e0eba3-367d-4620-aa26-bd1ec1cc91a5": {
-    "asset": 1686551485504,
-    "meta": 1686551513560,
+    "asset": 1691739965957,
+    "meta": 1691741351269,
     "relativePath": "common-plugin\\Scripts\\UMengSDK"
   },
   "fb0a677a-ab46-4104-8d82-3c06dedf23b6": {
-    "asset": 1686551485505,
-    "meta": 1686551513561,
+    "asset": 1691739965959,
+    "meta": 1691741351269,
     "relativePath": "common-plugin\\Scripts\\UMengSDK\\quickGame"
   },
   "8af0d3b5-9a75-4ffc-824c-767c8c3b8fe3": {
@@ -1435,8 +1435,8 @@
     "relativePath": "common-plugin\\Scripts\\WithdrawalWidget.ts"
   },
   "f00d3205-b27a-407e-8980-f802f9c72036": {
-    "asset": 1686551485439,
-    "meta": 1686551514182,
+    "asset": 1691739965963,
+    "meta": 1691741351270,
     "relativePath": "common-plugin\\Scripts\\YouWanSDK"
   },
   "4488abac-3f54-4b93-a09a-f4d74405568e": {
@@ -1660,13 +1660,13 @@
     "relativePath": "common-plugin\\Scripts\\YzUserPrivacyPanel.ts"
   },
   "dce9b6fd-98a2-4bc0-a6c3-216aac610d14": {
-    "asset": 1686551485426,
-    "meta": 1686551515035,
+    "asset": 1691739965966,
+    "meta": 1691741351271,
     "relativePath": "common-plugin\\Sounds"
   },
   "6964cec6-c20d-4882-bbfa-5ed4e6dcda50": {
-    "asset": 1688549568281,
-    "meta": 1688605339197,
+    "asset": 1691739966105,
+    "meta": 1691741351271,
     "relativePath": "common-plugin\\Textures"
   },
   "c152c015-c0cb-493a-b3fb-1ecf207241a3": {
@@ -1740,8 +1740,8 @@
     "relativePath": "common-plugin\\Textures\\gold_view_6.png"
   },
   "bea76ced-f4e9-4da6-a790-97ed8ecaa483": {
-    "asset": 1686551485424,
-    "meta": 1686551515136,
+    "asset": 1691739966074,
+    "meta": 1691741351272,
     "relativePath": "common-plugin\\Textures\\InsertAd"
   },
   "b3e208d9-c430-4bb8-a16a-295f8234cd29": {
@@ -1760,8 +1760,8 @@
     "relativePath": "common-plugin\\Textures\\InsertAd\\v.png"
   },
   "1706fbf0-3348-47cf-9be6-f74e5928a70c": {
-    "asset": 1686551485418,
-    "meta": 1686551515153,
+    "asset": 1691739966095,
+    "meta": 1691741351273,
     "relativePath": "common-plugin\\Textures\\LuckBox"
   },
   "029081fe-f6e7-43d5-af98-0fd30ba9edc2": {
@@ -1855,8 +1855,8 @@
     "relativePath": "common-plugin\\Textures\\native_banner_3.png"
   },
   "c4246ba6-40a6-4fd4-bb9d-71845cbec51e": {
-    "asset": 1686551485402,
-    "meta": 1686551515237,
+    "asset": 1691739966100,
+    "meta": 1691741351273,
     "relativePath": "common-plugin\\Textures\\NativeSplash"
   },
   "3f453e79-8ef4-42d2-9204-93154043104a": {
@@ -1895,8 +1895,8 @@
     "relativePath": "common-plugin\\Textures\\pro_icon.png"
   },
   "961ec5c1-3bd9-4aa7-bac0-bdb4134678f3": {
-    "asset": 1686551485397,
-    "meta": 1686551515273,
+    "asset": 1691739966104,
+    "meta": 1691741351274,
     "relativePath": "common-plugin\\Textures\\RealNameAuth"
   },
   "5008ca11-6f62-415a-831c-3f7638e975bb": {
@@ -2055,8 +2055,8 @@
     "relativePath": "common-plugin\\Textures\\toutiao_8.png"
   },
   "b3cdf282-c0d8-497d-af88-b7c2cc62285e": {
-    "asset": 1686551485393,
-    "meta": 1686551515436,
+    "asset": 1691739966126,
+    "meta": 1691741351274,
     "relativePath": "common-plugin\\Textures\\TurnTable"
   },
   "a46fc531-77fc-4b14-a5e2-d326a22386b3": {
@@ -2165,8 +2165,8 @@
     "relativePath": "common-plugin\\Textures\\xiaokuang.png"
   },
   "215ab5a3-464e-4832-b325-5b6d84167fff": {
-    "asset": 1686551485288,
-    "meta": 1686551515529,
+    "asset": 1691739966129,
+    "meta": 1691741351275,
     "relativePath": "config"
   },
   "d67648d0-425a-4064-8aae-555bc06278ca": {
@@ -2180,23 +2180,23 @@
     "relativePath": "common-plugin\\Textures\\xm_ad_mask.png"
   },
   "0f76ded9-22cf-4b93-8b85-c493cd0dbe65": {
-    "asset": 1691562272450,
-    "meta": 1691636188601,
+    "asset": 1691739967049,
+    "meta": 1691741351276,
     "relativePath": "res"
   },
   "c1a20121-a382-40a4-bc99-c0d13064d890": {
-    "asset": 1686551485196,
-    "meta": 1686551515545,
+    "asset": 1691739966573,
+    "meta": 1691741351277,
     "relativePath": "res\\ani"
   },
   "4d6786cc-c971-4dff-8496-774be42d285e": {
-    "asset": 1686551485080,
-    "meta": 1686551515546,
+    "asset": 1691739966511,
+    "meta": 1691741351278,
     "relativePath": "res\\ani\\地下城技能"
   },
   "2a03e416-6045-4fac-a752-544f2508a168": {
-    "asset": 1691458737486,
-    "meta": 1691465493823,
+    "asset": 1691739966412,
+    "meta": 1691741351279,
     "relativePath": "res\\ani\\地下城技能\\保护罩"
   },
   "60834aad-a057-4534-8af5-153b185721e2": {
@@ -2205,8 +2205,8 @@
     "relativePath": "first.jpg"
   },
   "d64593cb-1864-46cd-ad26-b2defbba2f01": {
-    "asset": 1686551485057,
-    "meta": 1686551515554,
+    "asset": 1691739966432,
+    "meta": 1691741351279,
     "relativePath": "res\\ani\\地下城技能\\匕首"
   },
   "46c71a4f-fba5-4a81-b5e4-2e1c6fe6d39a": {
@@ -2215,8 +2215,8 @@
     "relativePath": "res\\ani\\地下城技能\\匕首\\bishou.png"
   },
   "d6b28e57-191a-4932-b2ed-aa5c77710e0d": {
-    "asset": 1686551485062,
-    "meta": 1686551515562,
+    "asset": 1691739966429,
+    "meta": 1691741351280,
     "relativePath": "res\\ani\\地下城技能\\冰霜"
   },
   "6a8a71cf-80ab-4a27-a51b-9514f10101c0": {
@@ -2230,8 +2230,8 @@
     "relativePath": "res\\ani\\地下城技能\\冰霜\\bs.png"
   },
   "e4e50553-dc02-4c23-9aca-12f0b7eba711": {
-    "asset": 1691459306331,
-    "meta": 1691465493824,
+    "asset": 1691739966463,
+    "meta": 1691741351281,
     "relativePath": "res\\ani\\地下城技能\\毒气特效"
   },
   "19576104-dfea-4ff8-9c2c-484e892d7098": {
@@ -2240,33 +2240,33 @@
     "relativePath": "res\\ani\\地下城技能\\冰霜\\bs2.png"
   },
   "c4af35a0-498c-493a-a3cc-77f94af57f3c": {
-    "asset": 1691459355132,
-    "meta": 1691465493825,
+    "asset": 1691739966472,
+    "meta": 1691741351281,
     "relativePath": "res\\ani\\地下城技能\\火焰燃烧"
   },
   "75700eeb-114d-449d-b22c-cf796f225f2b": {
-    "asset": 1691459421660,
-    "meta": 1691465493825,
+    "asset": 1691739966519,
+    "meta": 1691741351282,
     "relativePath": "res\\ani\\地下城技能\\雷电"
   },
   "f01db25e-95b9-492a-b6d9-a3fc7c39b9c3": {
-    "asset": 1691459647377,
-    "meta": 1691465493826,
+    "asset": 1691739966510,
+    "meta": 1691741351282,
     "relativePath": "res\\ani\\地下城技能\\绿色小爆炸动画"
   },
   "b3523f24-e6f6-4e22-8358-1b628f4ca03f": {
-    "asset": 1691458918127,
-    "meta": 1691465493826,
+    "asset": 1691739966421,
+    "meta": 1691741351283,
     "relativePath": "res\\ani\\地下城技能\\全屏轰炸"
   },
   "658ae8f7-14b7-4b69-9df0-d6494c39e52e": {
-    "asset": 1686551485028,
-    "meta": 1686551515699,
+    "asset": 1691739966493,
+    "meta": 1691741351284,
     "relativePath": "res\\ani\\地下城技能\\燃烧瓶"
   },
   "c7fffece-9d07-41ca-b903-7e8e7bcc8f9f": {
-    "asset": 1691459746906,
-    "meta": 1691465493827,
+    "asset": 1691739966499,
+    "meta": 1691741351284,
     "relativePath": "res\\ani\\地下城技能\\燃烧瓶\\火"
   },
   "ed0a7a27-18a6-41a6-a6be-0fcad5b604c3": {
@@ -2275,8 +2275,8 @@
     "relativePath": "res\\ani\\地下城技能\\燃烧瓶\\bullet_ranshao2.png"
   },
   "68a4c797-ab81-4de7-8658-57401acf818d": {
-    "asset": 1686551485049,
-    "meta": 1686551515732,
+    "asset": 1691739966447,
+    "meta": 1691741351285,
     "relativePath": "res\\ani\\地下城技能\\审判"
   },
   "48a4125d-2a91-4d43-a826-29a292c90bb0": {
@@ -2290,8 +2290,8 @@
     "relativePath": "res\\ani\\地下城技能\\审判\\bj.atlas"
   },
   "796658eb-d61b-42c2-9ebc-cf774d002d21": {
-    "asset": 1691459847850,
-    "meta": 1691465493827,
+    "asset": 1691739966439,
+    "meta": 1691741351286,
     "relativePath": "res\\ani\\地下城技能\\升级光效2"
   },
   "43799159-e271-440c-ac58-250eaa2fd609": {
@@ -2305,8 +2305,8 @@
     "relativePath": "res\\ani\\地下城技能\\审判\\bj.png"
   },
   "b5ddf413-36bb-466b-bf34-169bc7d15d6e": {
-    "asset": 1691459943458,
-    "meta": 1691465493828,
+    "asset": 1691739966486,
+    "meta": 1691741351287,
     "relativePath": "res\\ani\\地下城技能\\炸弹特效"
   },
   "23a365c4-dd78-485e-ac7d-335a4930bd12": {
@@ -2315,8 +2315,8 @@
     "relativePath": "res\\ani\\地下城技能\\炸弹特效\\zd.atlas"
   },
   "33b2e284-37f6-4649-8839-672a23c30a02": {
-    "asset": 1691458429633,
-    "meta": 1691465493829,
+    "asset": 1691739966397,
+    "meta": 1691741351287,
     "relativePath": "res\\ani\\地下城技能\\boss光"
   },
   "86677984-4417-4113-beb1-c9f202d2efb0": {
@@ -2325,8 +2325,8 @@
     "relativePath": "res\\ani\\地下城技能\\炸弹特效\\zd.json"
   },
   "43b101e9-e158-4417-b44d-36b9dd579e85": {
-    "asset": 1691458672066,
-    "meta": 1691465493830,
+    "asset": 1691739966404,
+    "meta": 1691741351288,
     "relativePath": "res\\ani\\地下城技能\\boss提示"
   },
   "114363d9-aa77-4a40-b664-bad95493f512": {
@@ -2335,13 +2335,13 @@
     "relativePath": "res\\ani\\地下城技能\\炸弹特效\\zd.png"
   },
   "7da30995-4ada-47a0-8dbe-cfcfd6d4730c": {
-    "asset": 1686551485188,
-    "meta": 1686551515779,
+    "asset": 1691739966366,
+    "meta": 1691741351289,
     "relativePath": "res\\ani\\僵尸合集"
   },
   "10a9b3a7-f028-4283-925c-8d7d84241ae5": {
-    "asset": 1686551485090,
-    "meta": 1686551515780,
+    "asset": 1691739966373,
+    "meta": 1691741351289,
     "relativePath": "res\\ani\\僵尸合集\\墓碑"
   },
   "0785870f-2ce9-419c-8334-76c3c5af9f93": {
@@ -2350,8 +2350,8 @@
     "relativePath": "res\\ani\\僵尸合集\\墓碑\\mb.atlas"
   },
   "957d6dee-07d9-4384-b9d8-88a16370b97b": {
-    "asset": 1686551485102,
-    "meta": 1686551515790,
+    "asset": 1691739966309,
+    "meta": 1691741351290,
     "relativePath": "res\\ani\\僵尸合集\\boss_bao_ve"
   },
   "a0292cb5-34a9-438e-a140-ea92fa831914": {
@@ -2370,8 +2370,8 @@
     "relativePath": "res\\ani\\僵尸合集\\墓碑\\mb.png"
   },
   "6b1179ee-bae3-4a18-9e28-1eea53bb52c8": {
-    "asset": 1686551485161,
-    "meta": 1686551515806,
+    "asset": 1691739966232,
+    "meta": 1691741351291,
     "relativePath": "res\\ani\\僵尸合集\\boss10"
   },
   "d75780b7-79cb-4465-b60d-b5710263be80": {
@@ -2395,8 +2395,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss_bao_ve\\boss_bao_ve.json"
   },
   "97c28746-c924-41b5-b2ee-9c3fd1513af0": {
-    "asset": 1686551485156,
-    "meta": 1686551515832,
+    "asset": 1691739966240,
+    "meta": 1691741351291,
     "relativePath": "res\\ani\\僵尸合集\\boss11"
   },
   "4f09e8fd-e31f-48fa-b6b7-f23adf9fd906": {
@@ -2410,8 +2410,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss10\\boss10.png"
   },
   "9d8f91ec-a3d3-479f-8d60-cbd9faed6b98": {
-    "asset": 1686551485150,
-    "meta": 1686551515851,
+    "asset": 1691739966247,
+    "meta": 1691741351292,
     "relativePath": "res\\ani\\僵尸合集\\boss12"
   },
   "1d19a2ff-0a3b-4869-98d8-07fbe93f8ffb": {
@@ -2430,8 +2430,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss11\\boss11.png"
   },
   "1520d04a-d556-4c69-a62d-303dbc05201e": {
-    "asset": 1686551485145,
-    "meta": 1686551515871,
+    "asset": 1691739966254,
+    "meta": 1691741351293,
     "relativePath": "res\\ani\\僵尸合集\\boss13"
   },
   "2940ca5f-4c89-4da6-b2c1-4dee44710a0f": {
@@ -2450,8 +2450,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss12\\boss12.png"
   },
   "6b6b8f96-497d-4f74-89e3-fd560607dd09": {
-    "asset": 1686551485140,
-    "meta": 1686551515889,
+    "asset": 1691739966260,
+    "meta": 1691741351294,
     "relativePath": "res\\ani\\僵尸合集\\boss14"
   },
   "c92a22fb-1719-468c-a001-6c3d98b0d0ef": {
@@ -2470,8 +2470,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss13\\boss13.png"
   },
   "80e92011-b348-4fcd-a4f7-228ba4586434": {
-    "asset": 1686551485134,
-    "meta": 1686551515927,
+    "asset": 1691739966267,
+    "meta": 1691741351294,
     "relativePath": "res\\ani\\僵尸合集\\boss15"
   },
   "82387b6e-a08f-4ad5-a9ab-00a8e15d6c43": {
@@ -2490,8 +2490,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss14\\boss14.json"
   },
   "f71a5554-0649-45f6-b374-dbb8468a63af": {
-    "asset": 1686551485129,
-    "meta": 1686551515950,
+    "asset": 1691739966273,
+    "meta": 1691741351295,
     "relativePath": "res\\ani\\僵尸合集\\boss2"
   },
   "51b90787-b783-46d0-bd92-9a89294aac23": {
@@ -2510,8 +2510,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss2\\boss2.png"
   },
   "4246f526-e559-47cd-9ea3-14948aa006e6": {
-    "asset": 1686551485124,
-    "meta": 1686551516002,
+    "asset": 1691739966282,
+    "meta": 1691741351296,
     "relativePath": "res\\ani\\僵尸合集\\boss3"
   },
   "ea4df1dc-c90b-4f0b-b0f6-2f2ab2d02cbb": {
@@ -2530,8 +2530,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss3\\boss3.atlas"
   },
   "c4598232-c92d-4a46-b03a-697cded35507": {
-    "asset": 1686551485118,
-    "meta": 1686551516016,
+    "asset": 1691739966288,
+    "meta": 1691741351297,
     "relativePath": "res\\ani\\僵尸合集\\boss5"
   },
   "12d9a129-651c-4836-9680-ef617f50df91": {
@@ -2550,8 +2550,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss5\\boss5.png"
   },
   "5efa77fb-9058-40cc-a6fb-d58e34bc3920": {
-    "asset": 1686551485113,
-    "meta": 1686551516047,
+    "asset": 1691739966296,
+    "meta": 1691741351297,
     "relativePath": "res\\ani\\僵尸合集\\boss7_spine"
   },
   "f43363a4-b7dc-4a61-9098-286942c634cd": {
@@ -2570,8 +2570,8 @@
     "relativePath": "res\\ani\\僵尸合集\\boss3\\boss3.json"
   },
   "e3c3b174-79a6-484a-854d-748fc947be53": {
-    "asset": 1686551485107,
-    "meta": 1686551516064,
+    "asset": 1691739966302,
+    "meta": 1691741351298,
     "relativePath": "res\\ani\\僵尸合集\\boss8"
   },
   "46f0c8c6-065f-4a92-b874-3a24924db0dd": {
@@ -2590,13 +2590,13 @@
     "relativePath": "res\\ani\\僵尸合集\\boss8\\boss8.png"
   },
   "653b6ad5-db31-4c50-8862-72750720ab97": {
-    "asset": 1686551485193,
-    "meta": 1686551516092,
+    "asset": 1691739966317,
+    "meta": 1691741351299,
     "relativePath": "res\\ani\\僵尸合集\\Zombie_basic"
   },
   "0baab00d-8e6d-45c3-a44a-8d84222d3e61": {
-    "asset": 1686551485187,
-    "meta": 1686551516093,
+    "asset": 1691739966323,
+    "meta": 1691741351300,
     "relativePath": "res\\ani\\僵尸合集\\Zombie_basic_plus"
   },
   "7c105152-3375-438e-950f-71886a4f478c": {
@@ -2630,8 +2630,8 @@
     "relativePath": "res\\ani\\僵尸合集\\Zombie_basic_plus\\Zombie_basic_plus.png"
   },
   "3f6f8a4e-a1b4-4774-8cd3-4f1103a08685": {
-    "asset": 1686551485096,
-    "meta": 1686551516129,
+    "asset": 1691739966332,
+    "meta": 1691741351300,
     "relativePath": "res\\ani\\僵尸合集\\zombie_bomb"
   },
   "44082dff-1674-41b2-9db3-217a9f5c978d": {
@@ -2650,8 +2650,8 @@
     "relativePath": "res\\ani\\僵尸合集\\Zombie_basic\\Zombie_basic.json"
   },
   "843c6a37-3125-4f40-a9db-d937e2ef10b2": {
-    "asset": 1686551485182,
-    "meta": 1686551516142,
+    "asset": 1691739966341,
+    "meta": 1691741351301,
     "relativePath": "res\\ani\\僵尸合集\\Zombie_jump"
   },
   "8b802bbe-45cb-420b-8405-85c0fdc7b5d8": {
@@ -2670,8 +2670,8 @@
     "relativePath": "res\\ani\\僵尸合集\\zombie_bomb\\zombie_bomb.png"
   },
   "d2b5f1f2-ca51-40f4-8c74-7d3d9924b303": {
-    "asset": 1686551485177,
-    "meta": 1686551516158,
+    "asset": 1691739966348,
+    "meta": 1691741351302,
     "relativePath": "res\\ani\\僵尸合集\\Zombie_poison"
   },
   "f94105b0-e86a-405a-8cf3-2c7a942f6c8e": {
@@ -2690,8 +2690,8 @@
     "relativePath": "res\\ani\\僵尸合集\\Zombie_jump\\Zombie_jump.png"
   },
   "37b962e4-f3b5-426a-94a6-87e6ad5bc14a": {
-    "asset": 1686551485171,
-    "meta": 1686551516168,
+    "asset": 1691739966356,
+    "meta": 1691741351302,
     "relativePath": "res\\ani\\僵尸合集\\Zombie_run"
   },
   "7e418dae-f93b-42c2-8b2b-84f90b8b080e": {
@@ -2710,8 +2710,8 @@
     "relativePath": "res\\ani\\僵尸合集\\Zombie_poison\\Zombie_poison.png"
   },
   "efd2ae3c-8ba8-43b1-aab2-1dc79e285b6c": {
-    "asset": 1686551485166,
-    "meta": 1686551516187,
+    "asset": 1691739966365,
+    "meta": 1691741351303,
     "relativePath": "res\\ani\\僵尸合集\\Zombie_tank"
   },
   "79d87675-9ca0-4348-b105-ac1d7beefecd": {
@@ -2730,13 +2730,13 @@
     "relativePath": "res\\ani\\僵尸合集\\Zombie_run\\Zombie_run.png"
   },
   "ee0c4b39-2d57-4866-850e-0abb086b7ffb": {
-    "asset": 1686551484965,
-    "meta": 1686551516201,
+    "asset": 1691739966705,
+    "meta": 1691741351303,
     "relativePath": "res\\ani\\特效"
   },
   "8db37e76-fccf-4794-9a62-1216fe966e12": {
-    "asset": 1686551484922,
-    "meta": 1686551516201,
+    "asset": 1691739966655,
+    "meta": 1691741351304,
     "relativePath": "res\\ani\\特效\\攻击特效_镭射枪"
   },
   "ebdf0cb9-e713-4a48-9028-38810244ecee": {
@@ -2755,8 +2755,8 @@
     "relativePath": "res\\ani\\特效\\攻击特效_镭射枪\\lsq.png"
   },
   "6a2ba6a7-ecc3-43d7-b0d3-8b918e4a98b0": {
-    "asset": 1686551484942,
-    "meta": 1686551516216,
+    "asset": 1691739966629,
+    "meta": 1691741351305,
     "relativePath": "res\\ani\\特效\\攻击特效_ak"
   },
   "120767e3-f379-4eb7-9a36-a37c11a624b6": {
@@ -2775,8 +2775,8 @@
     "relativePath": "res\\ani\\特效\\攻击特效_ak\\ak.atlas"
   },
   "bf1f9961-9e19-4a35-a8e2-4bcf733c4e3c": {
-    "asset": 1686551484937,
-    "meta": 1686551516223,
+    "asset": 1691739966636,
+    "meta": 1691741351305,
     "relativePath": "res\\ani\\特效\\攻击特效_cjj"
   },
   "c815ce87-fe5e-49a8-9e04-49c36c599b98": {
@@ -2795,8 +2795,8 @@
     "relativePath": "res\\ani\\特效\\攻击特效_ak\\ak.png"
   },
   "3475de57-a7d9-4c8d-9a02-3890f7aae3ad": {
-    "asset": 1686551484931,
-    "meta": 1686551516231,
+    "asset": 1691739966642,
+    "meta": 1691741351306,
     "relativePath": "res\\ani\\特效\\攻击特效_gj"
   },
   "6ba7ae95-0629-4b41-96aa-1cc31af0fc1f": {
@@ -2815,8 +2815,8 @@
     "relativePath": "res\\ani\\特效\\攻击特效_cjj\\cjj.png"
   },
   "1496b71c-3067-442b-a6ed-bb2796fd105e": {
-    "asset": 1686551484927,
-    "meta": 1686551516243,
+    "asset": 1691739966648,
+    "meta": 1691741351307,
     "relativePath": "res\\ani\\特效\\攻击特效_sd"
   },
   "4a89b6b3-50c4-4d93-bba1-8c8af644a222": {
@@ -2835,8 +2835,8 @@
     "relativePath": "res\\ani\\特效\\攻击特效_gj\\w.json"
   },
   "78742fe1-f888-4a8c-8427-23da58099d04": {
-    "asset": 1686551484953,
-    "meta": 1686551516250,
+    "asset": 1691739966616,
+    "meta": 1691741351307,
     "relativePath": "res\\ani\\特效\\击中特效_棒"
   },
   "eccd36a8-ce1c-47f3-8ed6-cea182f511c8": {
@@ -2855,8 +2855,8 @@
     "relativePath": "res\\ani\\特效\\击中特效_棒\\mbtx.png"
   },
   "04e4a35b-4f33-4ebc-8b4b-0ab047830aa3": {
-    "asset": 1686551484958,
-    "meta": 1686551516266,
+    "asset": 1691739966610,
+    "meta": 1691741351308,
     "relativePath": "res\\ani\\特效\\击中特效_刀"
   },
   "99d15518-00fc-49e6-ae7f-286f0f3d9ca2": {
@@ -2875,8 +2875,8 @@
     "relativePath": "res\\ani\\特效\\击中特效_刀\\j.atlas"
   },
   "f296a0ce-d441-42a2-9776-65992e5935c6": {
-    "asset": 1686551484963,
-    "meta": 1686551516274,
+    "asset": 1691739966603,
+    "meta": 1691741351309,
     "relativePath": "res\\ani\\特效\\击中特效_击晕"
   },
   "a43469b0-84e3-4a1d-9794-84fd95e06373": {
@@ -2895,8 +2895,8 @@
     "relativePath": "res\\ani\\特效\\击中特效_刀\\j.png"
   },
   "bce95c3a-8130-4745-bb6d-2e6b9a5126de": {
-    "asset": 1686551484946,
-    "meta": 1686551516282,
+    "asset": 1691739966623,
+    "meta": 1691741351310,
     "relativePath": "res\\ani\\特效\\击中特效_激光"
   },
   "5f31f94d-63f8-4420-8f9d-ee7e69820eb7": {
@@ -2915,8 +2915,8 @@
     "relativePath": "res\\ani\\特效\\击中特效_击晕\\jy.png"
   },
   "e65bf8a2-8229-4ce2-8e5a-36c8c52e2994": {
-    "asset": 1686551484969,
-    "meta": 1686551516289,
+    "asset": 1691739966596,
+    "meta": 1691741351310,
     "relativePath": "res\\ani\\特效\\击中效果_子弹"
   },
   "b970838f-ba1c-4c14-a4c0-89746f88388f": {
@@ -2935,8 +2935,8 @@
     "relativePath": "res\\ani\\特效\\击中特效_激光\\jgjz.png"
   },
   "49453363-a95e-4b7f-9c63-ac475657c072": {
-    "asset": 1686551484901,
-    "meta": 1686551516297,
+    "asset": 1691739966679,
+    "meta": 1691741351311,
     "relativePath": "res\\ani\\特效\\特效_爆炸"
   },
   "0d456009-b10a-4938-9b60-e6d4a3800b51": {
@@ -2955,8 +2955,8 @@
     "relativePath": "res\\ani\\特效\\击中效果_子弹\\zd.png"
   },
   "93c91ef3-ada9-4bb3-8d20-34ecdace85ab": {
-    "asset": 1686551484896,
-    "meta": 1686551516304,
+    "asset": 1691739966686,
+    "meta": 1691741351311,
     "relativePath": "res\\ani\\特效\\特效_爆炸1"
   },
   "c48ea04f-d7fe-4ca9-80e1-9d9fa54cfde8": {
@@ -2975,8 +2975,8 @@
     "relativePath": "res\\ani\\特效\\特效_爆炸1\\baozha.png"
   },
   "f6b5989b-5f48-4d9e-9f71-76157b16c9da": {
-    "asset": 1686551484907,
-    "meta": 1686551516324,
+    "asset": 1691739966673,
+    "meta": 1691741351312,
     "relativePath": "res\\ani\\特效\\特效_变身"
   },
   "0557ab33-871f-401f-9c0e-87811195a82e": {
@@ -2995,8 +2995,8 @@
     "relativePath": "res\\ani\\特效\\特效_爆炸\\bz.png"
   },
   "52be8952-d5bd-41b6-b657-c3029680f4cf": {
-    "asset": 1686551484875,
-    "meta": 1686551516335,
+    "asset": 1691739966710,
+    "meta": 1691741351313,
     "relativePath": "res\\ani\\特效\\特效_飙血"
   },
   "590aadc6-c28f-4e21-8569-c5d4e3551751": {
@@ -3015,8 +3015,8 @@
     "relativePath": "res\\ani\\特效\\特效_变身\\bs.png"
   },
   "b0f85d3b-d9aa-4027-b047-0ddb412f4d63": {
-    "asset": 1686551484880,
-    "meta": 1686551516347,
+    "asset": 1691739966704,
+    "meta": 1691741351313,
     "relativePath": "res\\ani\\特效\\特效_获取道具"
   },
   "196f4920-8e51-43fe-8589-830c7c27c2fb": {
@@ -3035,8 +3035,8 @@
     "relativePath": "res\\ani\\特效\\特效_获取道具\\djtx.atlas"
   },
   "f580a86c-f165-4106-94de-7bce7fbd8045": {
-    "asset": 1686551484885,
-    "meta": 1686551516353,
+    "asset": 1691739966699,
+    "meta": 1691741351314,
     "relativePath": "res\\ani\\特效\\特效_获取枪"
   },
   "16363b49-2fee-4641-b2d3-3981392bd93c": {
@@ -3055,8 +3055,8 @@
     "relativePath": "res\\ani\\特效\\特效_获取道具\\djtx.png"
   },
   "54c59bdc-098a-4bbb-98fc-944cf6b62e45": {
-    "asset": 1686551484912,
-    "meta": 1686551516363,
+    "asset": 1691739966666,
+    "meta": 1691741351315,
     "relativePath": "res\\ani\\特效\\特效_击中障碍物"
   },
   "1bb27e21-b63d-49a4-a606-e351ffd11177": {
@@ -3075,8 +3075,8 @@
     "relativePath": "res\\ani\\特效\\特效_获取枪\\hqq.png"
   },
   "a61ff61c-8a5a-4050-a862-87ac6a27fac7": {
-    "asset": 1686551484891,
-    "meta": 1686551516369,
+    "asset": 1691739966692,
+    "meta": 1691741351315,
     "relativePath": "res\\ani\\特效\\特效_羽毛"
   },
   "0c33571c-e789-4921-bc46-da85b17bafeb": {
@@ -3095,8 +3095,8 @@
     "relativePath": "res\\ani\\特效\\特效_击中障碍物\\jzzaw.png"
   },
   "65821506-3628-4e0f-b66f-564e7335645d": {
-    "asset": 1686551484917,
-    "meta": 1686551516379,
+    "asset": 1691739966660,
+    "meta": 1691741351316,
     "relativePath": "res\\ani\\特效\\特效_中毒"
   },
   "b331c24d-0d50-43b4-a421-124c61471dbb": {
@@ -3115,13 +3115,13 @@
     "relativePath": "res\\ani\\特效\\特效_羽毛\\ym.json"
   },
   "6ef42c5b-e8ba-4c62-a0cd-dec9598a84c1": {
-    "asset": 1686551485003,
-    "meta": 1686551516387,
+    "asset": 1691739966567,
+    "meta": 1691741351317,
     "relativePath": "res\\ani\\游戏道具"
   },
   "250c2946-31e8-4fe8-b13c-fc2628d5673e": {
-    "asset": 1686551484975,
-    "meta": 1686551516388,
+    "asset": 1691739966572,
+    "meta": 1691741351317,
     "relativePath": "res\\ani\\游戏道具\\飞机"
   },
   "ddc553f8-f57c-4fe9-9f59-7baa357e23b4": {
@@ -3140,8 +3140,8 @@
     "relativePath": "res\\ani\\特效\\特效_中毒\\zd.png"
   },
   "62f059b4-b88b-4b4e-97e2-bc8b1b73c748": {
-    "asset": 1686551484980,
-    "meta": 1686551516397,
+    "asset": 1691739966566,
+    "meta": 1691741351317,
     "relativePath": "res\\ani\\游戏道具\\轰炸圈"
   },
   "767e75aa-f0e6-41f3-a17e-89889967b036": {
@@ -3160,8 +3160,8 @@
     "relativePath": "res\\ani\\游戏道具\\飞机\\fj.png"
   },
   "2c2b54b3-547b-4d82-b0ab-1c2a3a66093b": {
-    "asset": 1686551485006,
-    "meta": 1686551516414,
+    "asset": 1691739966534,
+    "meta": 1691741351318,
     "relativePath": "res\\ani\\游戏道具\\升级光环"
   },
   "a6ba95fa-f3c2-4b08-a77b-daa340ea7628": {
@@ -3180,8 +3180,8 @@
     "relativePath": "res\\ani\\游戏道具\\升级光环\\gh.atlas"
   },
   "9e12390d-a5ab-488b-abe2-c0fd3c506b70": {
-    "asset": 1686551484996,
-    "meta": 1686551516421,
+    "asset": 1691739966547,
+    "meta": 1691741351319,
     "relativePath": "res\\ani\\游戏道具\\升级碰撞火花"
   },
   "b9f1c2e7-8f50-4ef1-85e0-541b76e5acb7": {
@@ -3200,8 +3200,8 @@
     "relativePath": "res\\ani\\游戏道具\\升级光环\\gh.png"
   },
   "33240dea-a514-4acd-b3d9-80a1a1cb4188": {
-    "asset": 1686551485002,
-    "meta": 1686551516442,
+    "asset": 1691739966540,
+    "meta": 1691741351319,
     "relativePath": "res\\ani\\游戏道具\\升级枪口火花"
   },
   "3d5e0ac7-f96c-4e15-bef6-22d95e67cfb0": {
@@ -3220,8 +3220,8 @@
     "relativePath": "res\\ani\\游戏道具\\升级枪口火花\\hh.atlas"
   },
   "ae6f146e-19e2-4065-9a03-9a22e44f743b": {
-    "asset": 1686551484991,
-    "meta": 1686551516449,
+    "asset": 1691739966553,
+    "meta": 1691741351320,
     "relativePath": "res\\ani\\游戏道具\\武器闪电"
   },
   "baa3ad68-7b95-4f93-b4b6-f7bdf53a0e0a": {
@@ -3240,8 +3240,8 @@
     "relativePath": "res\\ani\\游戏道具\\升级枪口火花\\hh.png"
   },
   "8a142a96-3082-44e0-a8c4-5a2de3691def": {
-    "asset": 1686551484986,
-    "meta": 1686551516463,
+    "asset": 1691739966560,
+    "meta": 1691741351320,
     "relativePath": "res\\ani\\游戏道具\\烟尘"
   },
   "4a63f17d-e792-40ca-adc3-785ea41b6ad9": {
@@ -3270,13 +3270,13 @@
     "relativePath": "res\\ani\\rain.png"
   },
   "16e1662b-2cb2-467d-a831-ae4b5daed877": {
-    "asset": 1686551485231,
-    "meta": 1686551516479,
+    "asset": 1691739966185,
+    "meta": 1691741351321,
     "relativePath": "res\\ani\\UI"
   },
   "9d22f0d3-b3fb-4f61-875c-54a5a9f1b1de": {
-    "asset": 1691458091454,
-    "meta": 1691465493830,
+    "asset": 1691739966172,
+    "meta": 1691741351322,
     "relativePath": "res\\ani\\UI\\彩带"
   },
   "f7e09bdd-6bfa-49d5-ae04-ef44ff7b2bce": {
@@ -3290,8 +3290,8 @@
     "relativePath": "res\\ani\\rain.plist"
   },
   "5076e849-2eff-4ff9-aed6-0602685a114f": {
-    "asset": 1686551485206,
-    "meta": 1686551516507,
+    "asset": 1691739966195,
+    "meta": 1691741351323,
     "relativePath": "res\\ani\\UI\\段位结算"
   },
   "3ca6d285-0831-4fa5-8fe8-81015e1d96cc": {
@@ -3315,8 +3315,8 @@
     "relativePath": "res\\ani\\UI\\段位结算\\duanwei.png"
   },
   "75609525-b78e-4791-aa78-c387e4b243cf": {
-    "asset": 1686551485229,
-    "meta": 1686551516576,
+    "asset": 1691739966166,
+    "meta": 1691741351323,
     "relativePath": "res\\ani\\UI\\加载页面"
   },
   "3e3f33a3-8df5-4713-9ccb-12b33d9409a9": {
@@ -3340,8 +3340,8 @@
     "relativePath": "res\\ani\\UI\\加载页面\\zym.png"
   },
   "90d83bed-cea5-4175-a933-39632725d4ea": {
-    "asset": 1691457953104,
-    "meta": 1691465493831,
+    "asset": 1691739966158,
+    "meta": 1691741351324,
     "relativePath": "res\\ani\\UI\\人物升级动画"
   },
   "bd3a99a7-9b77-427c-8754-764c36884822": {
@@ -3350,8 +3350,8 @@
     "relativePath": "res\\ani\\UI\\加载页面\\jzym_bg.png"
   },
   "5a461398-c9a8-4c6c-bede-a25c1a03935b": {
-    "asset": 1686551485216,
-    "meta": 1686551516625,
+    "asset": 1691739966178,
+    "meta": 1691741351325,
     "relativePath": "res\\ani\\UI\\手指"
   },
   "ec4beb68-6c78-40c7-a20e-fb18d9918378": {
@@ -3365,8 +3365,8 @@
     "relativePath": "res\\ani\\UI\\加载页面\\zym.json"
   },
   "fd4c6855-5621-411e-865c-3ceaf7ae9543": {
-    "asset": 1691458164376,
-    "meta": 1691465493832,
+    "asset": 1691739966184,
+    "meta": 1691741351326,
     "relativePath": "res\\ani\\UI\\武器升级特效"
   },
   "d6ca0509-13da-4ab5-b967-2aab88234caf": {
@@ -3380,13 +3380,13 @@
     "relativePath": "res\\ani\\UI\\手指\\dian.json"
   },
   "d2c70519-0555-4871-8b55-fa9e82c61e83": {
-    "asset": 1686551484835,
-    "meta": 1686551516646,
+    "asset": 1691739966713,
+    "meta": 1691741351326,
     "relativePath": "res\\audio"
   },
   "34544982-5306-4528-9604-5f5f338b3953": {
-    "asset": 1686551484867,
-    "meta": 1686551516646,
+    "asset": 1691739966747,
+    "meta": 1691741351327,
     "relativePath": "res\\audio\\audio_zombie"
   },
   "a02d4293-bb14-443a-bae1-62780328fbff": {
@@ -3480,8 +3480,8 @@
     "relativePath": "res\\audio\\audio_zombie\\ZombieNormalAttack2.mp3"
   },
   "d6f50db1-0c87-43fb-a638-585d8e86ed1a": {
-    "asset": 1690187182522,
-    "meta": 1690247471648,
+    "asset": 1691739966765,
+    "meta": 1691741351327,
     "relativePath": "res\\clip"
   },
   "0b780f29-3012-40ac-8843-b28e708ce0c2": {
@@ -3535,8 +3535,8 @@
     "relativePath": "res\\clip\\swim.anim"
   },
   "f8b0b0bf-75a9-4046-b1e0-dcf665a997b4": {
-    "asset": 1686551484817,
-    "meta": 1686551516717,
+    "asset": 1691739966795,
+    "meta": 1691741351328,
     "relativePath": "res\\effects"
   },
   "953ac1a3-b553-4ca0-ab3a-42e019f36acf": {
@@ -3615,8 +3615,8 @@
     "relativePath": "res\\effects\\write.png"
   },
   "92f45ff9-c7e4-4150-8bfb-89ba58fbf94d": {
-    "asset": 1686551484794,
-    "meta": 1686551516786,
+    "asset": 1691739966809,
+    "meta": 1691741351329,
     "relativePath": "res\\font"
   },
   "1f79945d-a774-40b4-81a6-80e63638c099": {
@@ -3665,13 +3665,13 @@
     "relativePath": "res\\font\\model.png"
   },
   "49eb99fe-d233-451e-b594-2ce55e7a56bb": {
-    "asset": 1686551484726,
-    "meta": 1686551516814,
+    "asset": 1691739966887,
+    "meta": 1691741351329,
     "relativePath": "res\\prefab"
   },
   "2c5b5e98-ad04-4a35-8447-8ee6684c4c2b": {
-    "asset": 1691459183630,
-    "meta": 1691465493833,
+    "asset": 1691739966886,
+    "meta": 1691741351330,
     "relativePath": "res\\prefab\\game"
   },
   "6a2b7d86-693d-4b9e-aa6f-7a352437335d": {
@@ -3860,8 +3860,8 @@
     "relativePath": "res\\prefab\\game\\shellCase.prefab"
   },
   "fb527626-9ae7-4714-a492-103ff429d03d": {
-    "asset": 1686551484724,
-    "meta": 1686551516884,
+    "asset": 1691739966889,
+    "meta": 1691741351331,
     "relativePath": "res\\prefab\\role"
   },
   "81a58fd5-73fd-4d51-90e4-5e1214d06f0d": {
@@ -3870,13 +3870,13 @@
     "relativePath": "res\\prefab\\game\\testPoint.prefab"
   },
   "450d83af-98fd-4f1e-b822-4c19bc0b17ac": {
-    "asset": 1686551484719,
-    "meta": 1686551516887,
+    "asset": 1691739966953,
+    "meta": 1691741351333,
     "relativePath": "res\\texture"
   },
   "79b1cc12-6b18-4272-beb7-1f0960a6256f": {
-    "asset": 1686551484721,
-    "meta": 1686551516888,
+    "asset": 1691739966951,
+    "meta": 1691741351333,
     "relativePath": "res\\texture\\item"
   },
   "33e40797-4f82-4fad-8fb0-7442599d3994": {
@@ -3890,8 +3890,8 @@
     "relativePath": "res\\texture\\item\\H003_shizi.png"
   },
   "c69e6d94-dd43-436b-b87d-ff161cee78a5": {
-    "asset": 1686551484718,
-    "meta": 1686551516899,
+    "asset": 1691739966981,
+    "meta": 1691741351334,
     "relativePath": "res\\texture\\weapon"
   },
   "f775ba70-68c0-42d6-a779-92c176732621": {
@@ -3990,8 +3990,8 @@
     "relativePath": "res\\texture\\xhr_animation.png"
   },
   "71740d96-b4db-419a-8156-3bad2ed95d9a": {
-    "asset": 1691465458341,
-    "meta": 1691465493833,
+    "asset": 1691739967043,
+    "meta": 1691741351335,
     "relativePath": "res\\UI"
   },
   "a2cabaeb-bc7b-4ee4-8a7b-62adc162202d": {
@@ -4005,8 +4005,8 @@
     "relativePath": "res\\texture\\weapon\\streak.png"
   },
   "08f1875b-57e7-4266-a968-0b00c89509e1": {
-    "asset": 1691052500113,
-    "meta": 1691111049014,
+    "asset": 1691739967042,
+    "meta": 1691741351335,
     "relativePath": "res\\UI\\common"
   },
   "1dfaf099-a798-4a20-8755-52b55f73a8ea": {
@@ -4020,8 +4020,8 @@
     "relativePath": "res\\UI\\common\\shipin.png"
   },
   "f9c484dc-2a10-4ad9-b38c-d7d2306a88f4": {
-    "asset": 1686551485267,
-    "meta": 1686551517035,
+    "asset": 1691739967048,
+    "meta": 1691741351336,
     "relativePath": "res\\UI\\gameScene"
   },
   "ae6c25cb-de36-4620-a369-8869b44d73a0": {
@@ -4110,13 +4110,13 @@
     "relativePath": "res\\UI\\UITurntablePage.png"
   },
   "3a9ef9f0-14b6-453d-9f18-b335c4c678fd": {
-    "asset": 1686551484672,
-    "meta": 1686551517099,
+    "asset": 1691739967057,
+    "meta": 1691741351336,
     "relativePath": "res\\zombie"
   },
   "679831a3-fb4d-41c3-9d4e-b8e049ee1d82": {
-    "asset": 1686551484691,
-    "meta": 1686551517100,
+    "asset": 1691739967081,
+    "meta": 1691741351337,
     "relativePath": "res\\zombie\\block"
   },
   "3f5d8d6c-8557-454e-8e96-76656ae9d065": {
@@ -4205,13 +4205,13 @@
     "relativePath": "res\\zombie\\feilun2.png"
   },
   "9045719c-5479-427d-b619-ac2bb8f29137": {
-    "asset": 1686551484434,
-    "meta": 1686551517197,
+    "asset": 1691739967369,
+    "meta": 1691741351338,
     "relativePath": "resources"
   },
   "db4b669f-155a-4cb9-8576-c3bbc89e0d5c": {
-    "asset": 1686551484661,
-    "meta": 1686551517198,
+    "asset": 1691739967104,
+    "meta": 1691741351338,
     "relativePath": "resources\\i18n"
   },
   "d9d7c653-50d4-40a2-8e75-c579c386062d": {
@@ -4225,13 +4225,13 @@
     "relativePath": "resources\\i18n\\en.js"
   },
   "06d5640a-b085-4473-bf4f-13ac48e2923e": {
-    "asset": 1686551484657,
-    "meta": 1686551517210,
+    "asset": 1691739967099,
+    "meta": 1691741351339,
     "relativePath": "resources\\i18n\\tex_name"
   },
   "e21d2f80-c262-47d3-9345-a0595ce2af28": {
-    "asset": 1686551484659,
-    "meta": 1686551517211,
+    "asset": 1691739967098,
+    "meta": 1691741351340,
     "relativePath": "resources\\i18n\\tex_name\\en"
   },
   "cf3dd4ca-aa7c-4d0a-8d92-890a0acc4f4b": {
@@ -4240,8 +4240,8 @@
     "relativePath": "resources\\i18n\\tex_name\\en\\name.plist"
   },
   "e2f7f211-e71d-4332-8fdc-eee0f67b1f41": {
-    "asset": 1686551484656,
-    "meta": 1686551517218,
+    "asset": 1691739967103,
+    "meta": 1691741351340,
     "relativePath": "resources\\i18n\\tex_name\\zh"
   },
   "16713996-b9c0-4a63-b80a-cafe88ef4b0d": {
@@ -4255,13 +4255,13 @@
     "relativePath": "resources\\i18n\\tex_name\\zh\\name.png"
   },
   "faae8495-4ec1-468f-a35c-2a5b7d564327": {
-    "asset": 1686551484547,
-    "meta": 1686551517230,
+    "asset": 1691739967238,
+    "meta": 1691741351341,
     "relativePath": "resources\\i18n\\tex_zombie"
   },
   "a304d0ba-a3c7-45cf-a4ce-65a6fb06c63f": {
-    "asset": 1686551484649,
-    "meta": 1686551517232,
+    "asset": 1691739967237,
+    "meta": 1691741351341,
     "relativePath": "resources\\i18n\\tex_zombie\\en"
   },
   "778fb4de-a0fb-4e06-ab27-9dfcad60f050": {
@@ -4645,8 +4645,8 @@
     "relativePath": "resources\\i18n\\tex_zombie\\en\\zombieSkill_name_8.png"
   },
   "2521d987-951d-4d55-8af5-daadb908814d": {
-    "asset": 1686551484546,
-    "meta": 1686551517561,
+    "asset": 1691739967367,
+    "meta": 1691741351342,
     "relativePath": "resources\\i18n\\tex_zombie\\zh"
   },
   "7ee1364c-f557-4455-9dfb-d65768f1e4d1": {
@@ -5035,8 +5035,8 @@
     "relativePath": "resources\\i18n\\zh.js"
   },
   "690eefdb-42da-43de-a00a-f9ded42e36a0": {
-    "asset": 1686551484432,
-    "meta": 1686551517899,
+    "asset": 1691739967371,
+    "meta": 1691741351342,
     "relativePath": "resources\\maps"
   },
   "1ab36edf-a3b6-4ce8-ba77-1a749528ca7a": {
@@ -5045,8 +5045,8 @@
     "relativePath": "resources\\maps\\mapzombie.prefab"
   },
   "22419439-db07-4953-bd54-0f755c680a09": {
-    "asset": 1690942991530,
-    "meta": 1691025061031,
+    "asset": 1691739967386,
+    "meta": 1691741351343,
     "relativePath": "scene"
   },
   "9c636ce9-8389-42c4-a017-679265d4d92f": {
@@ -5070,13 +5070,13 @@
     "relativePath": "scene\\Home.fire"
   },
   "e17dc11d-62d1-433f-96ce-b173b1a84ff1": {
-    "asset": 1688625785805,
-    "meta": 1688635230469,
+    "asset": 1691739967475,
+    "meta": 1691741351344,
     "relativePath": "scripts"
   },
   "9f26a387-75ad-41f1-a592-05d34a1f283e": {
-    "asset": 1691477649160,
-    "meta": 1691480907876,
+    "asset": 1691739967443,
+    "meta": 1691741351345,
     "relativePath": "scripts\\Framework"
   },
   "ed6851d4-7618-410c-97ec-6266c31b0705": {
@@ -5125,8 +5125,8 @@
     "relativePath": "scripts\\Framework\\TweenEffect.ts"
   },
   "03f2c97e-cf72-48c1-8a87-3bce6f410397": {
-    "asset": 1689041821666,
-    "meta": 1689124442291,
+    "asset": 1691739967474,
+    "meta": 1691741351346,
     "relativePath": "scripts\\Game"
   },
   "9dc9611c-f29e-45d6-993e-c02e4ee32f74": {
@@ -5155,8 +5155,8 @@
     "relativePath": "scripts\\Game\\testPoint.ts"
   },
   "aad3cc9a-001c-432f-ae45-f2ff4dfe513b": {
-    "asset": 1690362091026,
-    "meta": 1690420269898,
+    "asset": 1691739967512,
+    "meta": 1691741351346,
     "relativePath": "scripts\\UI"
   },
   "c5a1d088-5ff5-404c-98db-68be4e8af173": {
@@ -5245,13 +5245,13 @@
     "relativePath": "bundleRes\\UI\\UIRankingPanel.prefab"
   },
   "e6c0830d-0e65-4251-b10d-6d2052cb5069": {
-    "asset": 1688550168641,
-    "meta": 1688605339195,
+    "asset": 1691739965422,
+    "meta": 1691741351258,
     "relativePath": "bundleRes\\head"
   },
   "8b83c2aa-f5db-4f5b-abec-85b7a25bf1e1": {
-    "asset": 1691054409551,
-    "meta": 1691111049012,
+    "asset": 1691739965569,
+    "meta": 1691741351261,
     "relativePath": "bundleRes\\ranking"
   },
   "c387c8a4-d1fb-426c-8079-40ae015f3dc5": {
@@ -5270,8 +5270,8 @@
     "relativePath": "common-plugin\\Scripts\\List.ts"
   },
   "1732eae7-5afe-4db8-9e88-7c045382b599": {
-    "asset": 1688625819133,
-    "meta": 1688635230470,
+    "asset": 1691739967396,
+    "meta": 1691741351344,
     "relativePath": "scripts\\commonUi"
   },
   "a9fb92d3-c94d-4365-ab61-0db44df28175": {
@@ -6540,13 +6540,13 @@
     "relativePath": "resources\\materials\\builtin-unlit.mtl"
   },
   "a43a0ae7-41b7-4012-aedd-ce3b53860929": {
-    "asset": 1691562268763,
-    "meta": 1691562272584,
+    "asset": 1691739966917,
+    "meta": 1691741351331,
     "relativePath": "res\\shader"
   },
   "64503b6d-6b64-41f6-81f9-8fa6843ff3e6": {
-    "asset": 1691562268762,
-    "meta": 1691562272584,
+    "asset": 1691739966916,
+    "meta": 1691741351331,
     "relativePath": "res\\shader\\effects"
   },
   "8f277982-dc0a-4030-90cc-b336a928a372": {
@@ -6615,8 +6615,8 @@
     "relativePath": "res\\shader\\effects\\sprite-round-corner-crop-v2.effect"
   },
   "d1607aed-aa03-4be0-bc9c-428c308604bf": {
-    "asset": 1691562268783,
-    "meta": 1691562272823,
+    "asset": 1691739966941,
+    "meta": 1691741351332,
     "relativePath": "res\\shader\\materials"
   },
   "eec795f7-f6a2-42e1-99f6-2762f663b508": {

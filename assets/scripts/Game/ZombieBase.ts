@@ -47,7 +47,6 @@ export default class ZombieBase extends Person {
     reinNum : number = 1;
 
     protected _aniLayer: cc.Node = null;
-    protected reinLabel : cc.Node = null;
     protected _spAni: sp.Skeleton = null;
 
     protected onLoad(): void {
@@ -78,14 +77,6 @@ export default class ZombieBase extends Person {
         if (this._spAni) {
             this._spAni.setStartListener(() => { this.startListenerCall() });
             this._spAni.setCompleteListener(() => { this.endListenerCall() });
-        }
-
-        this.reinLabel = this.node.getChildByName("reinSp").getChildByName("reinLabel");
-        if(cocosz.gameMode == 6){
-            this.node.getChildByName("reinSp").active = false;
-            this.reinLabel.getComponent(cc.Label).string = this.reinNum.toString();
-        }else{
-            this.node.getChildByName("reinSp").active = false;
         }
     }
 
@@ -152,10 +143,8 @@ export default class ZombieBase extends Person {
             this.totleHp = this.reinNum * 0.2 * GameDate.ZombieMess[this.zombieId].hp + GameDate.ZombieMess[this.zombieId].hp;
             this.atkRange = this.reinNum * 0.02 * GameDate.ZombieMess[this.zombieId].atkRange + GameDate.ZombieMess[this.zombieId].atkRange;
             this.MoveSpeed = this.reinNum * 0.08 * GameDate.ZombieMess[this.zombieId].speed + GameDate.ZombieMess[this.zombieId].speed;
-            this.reinLabel.getComponent(cc.Label).string = this.reinNum.toString();
-            this.node.getChildByName("reinSp").active = false;
         }else{
-            this.node.getChildByName("reinSp").active = false;
+         
         }
     }
 
@@ -1036,7 +1025,6 @@ export default class ZombieBase extends Person {
         this.isAtk = false;
         this.isDeath = true;
         this._spAni.timeScale = 1;
-        this.node.getChildByName("reinSp").active = false;
         // 碰撞体
         this.node.getComponents(cc.Collider).forEach(v => v.enabled = false);
         // 隐藏销毁
