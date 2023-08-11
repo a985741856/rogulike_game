@@ -1,5 +1,5 @@
 {
-  "projectPath": "D:\\GameProject\\test\\Roguelike_game",
+  "projectPath": "E:\\sourceTreeProject\\rogulike_game",
   "mtimes": {
     "c387c8a4-d1fb-426c-8079-40ae015f3dc5": {
       "assetMtime": 1625817898000,
@@ -146,7 +146,7 @@
             "name": "23",
             "uuid": "582cd375-ad4b-4e31-9dd2-eebfd0c73e6e",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_8.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_8.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -159,7 +159,7 @@
             "rawHeight": 117,
             "width": 338,
             "height": 123,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 0,
             "y": 0,
             "rotatedWidth": 338,
@@ -169,7 +169,7 @@
             "name": "22",
             "uuid": "4cd3135b-43ec-45ea-950b-43741dd02fc2",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_7.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_7.png",
             "trim": {
               "x": 341,
               "y": 3,
@@ -182,7 +182,7 @@
             "rawHeight": 73,
             "width": 672,
             "height": 79,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 338,
             "y": 0,
             "rotated": true,
@@ -193,7 +193,7 @@
             "name": "17",
             "uuid": "214b1521-1d2a-41ad-aad7-8cc875a941f9",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_2.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_2.png",
             "trim": {
               "x": 3,
               "y": 126,
@@ -206,7 +206,7 @@
             "rawHeight": 30,
             "width": 658,
             "height": 36,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 0,
             "y": 123,
             "rotated": true,
@@ -217,7 +217,7 @@
             "name": "24",
             "uuid": "89a51e9d-6a52-42ca-94c3-ed3aebf6f262",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_12.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_12.png",
             "trim": {
               "x": 39,
               "y": 126,
@@ -230,7 +230,7 @@
             "rawHeight": 117,
             "width": 338,
             "height": 123,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 36,
             "y": 123,
             "rotated": true,
@@ -241,7 +241,7 @@
             "name": "niu2",
             "uuid": "81790be2-e1de-41e9-92fd-50d5abedf59b",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_10.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_10.png",
             "trim": {
               "x": 39,
               "y": 464,
@@ -254,7 +254,7 @@
             "rawHeight": 36,
             "width": 296,
             "height": 42,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 36,
             "y": 461,
             "rotated": true,
@@ -265,7 +265,7 @@
             "name": "1",
             "uuid": "88bbd407-8478-4144-bf40-78fd7297c906",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_11.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_11.png",
             "trim": {
               "x": 81,
               "y": 464,
@@ -278,7 +278,7 @@
             "rawHeight": 80,
             "width": 248,
             "height": 86,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 78,
             "y": 461,
             "rotated": true,
@@ -289,7 +289,7 @@
             "name": "niu4",
             "uuid": "0da45e62-7097-40c0-b201-c1f8fdb1cd03",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241190_image_0.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948562_image_0.png",
             "trim": {
               "x": 162,
               "y": 126,
@@ -302,7 +302,7 @@
             "rawHeight": 58,
             "width": 219,
             "height": 64,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 159,
             "y": 123,
             "rotated": true,
@@ -313,7 +313,7 @@
             "name": "niu8",
             "uuid": "c702932d-dbc4-4dd4-b541-943330c7c9d8",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_17.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948564_image_17.png",
             "trim": {
               "x": 162,
               "y": 345,
@@ -326,7 +326,7 @@
             "rawHeight": 43,
             "width": 179,
             "height": 49,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 159,
             "y": 342,
             "rotatedWidth": 179,
@@ -336,7 +336,7 @@
             "name": "2",
             "uuid": "a69bac6d-2e94-421e-86e0-ab41712a5336",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_13.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_13.png",
             "trim": {
               "x": 226,
               "y": 126,
@@ -349,7 +349,7 @@
             "rawHeight": 57,
             "width": 209,
             "height": 63,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 223,
             "y": 123,
             "rotated": true,
@@ -360,7 +360,7 @@
             "name": "niu7",
             "uuid": "ef299f17-5b8b-4e70-a28f-42e2ffd96a9c",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_19.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948564_image_19.png",
             "trim": {
               "x": 162,
               "y": 394,
@@ -373,7 +373,7 @@
             "rawHeight": 43,
             "width": 96,
             "height": 49,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 159,
             "y": 391,
             "rotatedWidth": 96,
@@ -383,7 +383,7 @@
             "name": "niu6",
             "uuid": "bc102eaf-11d9-4a04-a842-88c45eccc02e",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_15.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_15.png",
             "trim": {
               "x": 289,
               "y": 126,
@@ -396,7 +396,7 @@
             "rawHeight": 43,
             "width": 94,
             "height": 49,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 286,
             "y": 123,
             "rotated": true,
@@ -407,7 +407,7 @@
             "name": "jiangli",
             "uuid": "2ca8bd21-7261-4640-8b44-065edb974d53",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_5.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_5.png",
             "trim": {
               "x": 289,
               "y": 220,
@@ -420,7 +420,7 @@
             "rawHeight": 41,
             "width": 94,
             "height": 47,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 286,
             "y": 217,
             "rotated": true,
@@ -431,7 +431,7 @@
             "name": "niu3",
             "uuid": "3e7d2174-60b9-4aa0-95b6-1d503e265b3e",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_6.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_6.png",
             "trim": {
               "x": 167,
               "y": 443,
@@ -444,7 +444,7 @@
             "rawHeight": 56,
             "width": 215,
             "height": 62,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 164,
             "y": 440,
             "rotated": true,
@@ -455,7 +455,7 @@
             "name": "niu5",
             "uuid": "21921867-6df5-4dd1-b32c-6dfc12513d4d",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_4.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_4.png",
             "trim": {
               "x": 167,
               "y": 658,
@@ -468,7 +468,7 @@
             "rawHeight": 56,
             "width": 214,
             "height": 62,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 164,
             "y": 655,
             "rotated": true,
@@ -479,7 +479,7 @@
             "name": "3",
             "uuid": "75310a85-20f3-4dfd-a92e-13c7d6076557",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_9.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_9.png",
             "trim": {
               "x": 39,
               "y": 760,
@@ -492,7 +492,7 @@
             "rawHeight": 56,
             "width": 211,
             "height": 62,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 36,
             "y": 757,
             "rotated": true,
@@ -503,7 +503,7 @@
             "name": "0",
             "uuid": "1b5dd562-00b5-41b3-b62f-1c0b3796ce69",
             "textureUuid": "4221b000-d804-4dee-bcdf-6bfa28679788",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_1.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_1.png",
             "trim": {
               "x": 229,
               "y": 443,
@@ -516,7 +516,7 @@
             "rawHeight": 75,
             "width": 103,
             "height": 81,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/42/4221b000-d804-4dee-bcdf-6bfa28679788.png",
             "x": 226,
             "y": 440,
             "rotated": true,
@@ -527,7 +527,7 @@
             "name": "top_2",
             "uuid": "d87b766f-ea5c-46c3-b38f-85d9148e5e1e",
             "textureUuid": "ae3113bc-0514-4b6b-88b6-ade3f618311f",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_18.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948564_image_18.png",
             "trim": {
               "x": 229,
               "y": 546,
@@ -540,7 +540,7 @@
             "rawHeight": 80,
             "width": 92,
             "height": 86,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/ae/ae3113bc-0514-4b6b-88b6-ade3f618311f.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/ae/ae3113bc-0514-4b6b-88b6-ade3f618311f.png",
             "x": 226,
             "y": 543,
             "rotated": true,
@@ -551,7 +551,7 @@
             "name": "top_1",
             "uuid": "215839f6-058c-4e45-8f8e-b5978118f2f2",
             "textureUuid": "cfb8bd14-dab2-4e22-bdfa-a7adae9623db",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_3.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_3.png",
             "trim": {
               "x": 229,
               "y": 638,
@@ -564,7 +564,7 @@
             "rawHeight": 77,
             "width": 91,
             "height": 83,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/cf/cfb8bd14-dab2-4e22-bdfa-a7adae9623db.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/cf/cfb8bd14-dab2-4e22-bdfa-a7adae9623db.png",
             "x": 226,
             "y": 635,
             "rotated": true,
@@ -575,7 +575,7 @@
             "name": "top_3",
             "uuid": "c48433cb-5aa1-4eae-9888-fc8e598764d9",
             "textureUuid": "e7603603-45fd-4794-bc3f-3514ecf9d2a6",
-            "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_16.png",
+            "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948564_image_16.png",
             "trim": {
               "x": 312,
               "y": 675,
@@ -588,7 +588,7 @@
             "rawHeight": 77,
             "width": 91,
             "height": 83,
-            "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/e7/e7603603-45fd-4794-bc3f-3514ecf9d2a6.png",
+            "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/e7/e7603603-45fd-4794-bc3f-3514ecf9d2a6.png",
             "x": 309,
             "y": 672,
             "rotatedWidth": 91,
@@ -598,12 +598,12 @@
         "width": 417,
         "height": 968,
         "name": "AutoAtlas-1",
-        "imagePath": "D:\\GameProject\\test\\Roguelike_game\\temp\\TexturePacker\\build\\native\\bundleRes\\ranking\\AutoAtlas.pac\\AutoAtlas-1.png",
+        "imagePath": "E:\\sourceTreeProject\\rogulike_game\\temp\\TexturePacker\\build\\native\\bundleRes\\ranking\\AutoAtlas.pac\\AutoAtlas-1.png",
         "compressd": {
           "suffix": [
             ".pkm@1026"
           ],
-          "imagePathNoExt": "D:\\GameProject\\test\\Roguelike_game\\temp\\TexturePacker\\build\\native\\bundleRes\\ranking\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
+          "imagePathNoExt": "E:\\sourceTreeProject\\rogulike_game\\temp\\TexturePacker\\build\\native\\bundleRes\\ranking\\AutoAtlas.pac\\compressed\\AutoAtlas-1"
         }
       }
     ],
@@ -612,7 +612,7 @@
         "name": "rankBg",
         "uuid": "b8124411-4cc9-4681-8de1-b6a2011e2ada",
         "textureUuid": "acc278d0-f4b5-4e95-9443-6f1615a86cba",
-        "path": "D:\\GameProject\\test\\Roguelike_game\\temp\\trimImages\\spritesheet_js_1691636241191_image_14.png",
+        "path": "E:\\sourceTreeProject\\rogulike_game\\temp\\trimImages\\spritesheet_js_1691743948563_image_14.png",
         "trim": {
           "x": 0,
           "y": 0,
@@ -625,7 +625,7 @@
         "rawHeight": 1057,
         "width": 854,
         "height": 1063,
-        "originalPath": "D:/GameProject/test/Roguelike_game/library/imports/ac/acc278d0-f4b5-4e95-9443-6f1615a86cba.png"
+        "originalPath": "E:/sourceTreeProject/rogulike_game/library/imports/ac/acc278d0-f4b5-4e95-9443-6f1615a86cba.png"
       }
     ]
   }

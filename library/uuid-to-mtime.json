@@ -719,11 +719,6 @@
     "meta": 1691741351262,
     "relativePath": "bundleRes\\tex_common"
   },
-  "353dbcbd-b642-44b3-b5c4-041f0734a225": {
-    "asset": 1686551482981,
-    "meta": 1686551519060,
-    "relativePath": "bundleRes\\tex_common\\icon.plist"
-  },
   "daaa89a4-8a0c-41cf-b9be-b50b38572e44": {
     "asset": 1691741636516,
     "meta": 1691741636517,
@@ -733,11 +728,6 @@
     "asset": 1691739965637,
     "meta": 1691741351263,
     "relativePath": "bundleRes\\tex_zombie"
-  },
-  "26152c6d-bd59-45a0-9145-d57026b676b0": {
-    "asset": 1686551482984,
-    "meta": 1686551510822,
-    "relativePath": "bundleRes\\tex_common\\icon.png"
   },
   "ce288ed3-e69a-4e38-a154-7789ac2b5892": {
     "asset": 1691739965670,
@@ -765,8 +755,8 @@
     "relativePath": "bundleRes\\UI\\UIADPanel.prefab"
   },
   "5728cc76-fcd9-4c15-b8f2-643f71ce9ddf": {
-    "asset": 1691485314493,
-    "meta": 1691485314497,
+    "asset": 1691746744643,
+    "meta": 1691746744649,
     "relativePath": "bundleRes\\UI\\UIGamePage.prefab"
   },
   "14c51558-f3df-45c9-a5e4-c398a63e8297": {
@@ -5065,8 +5055,8 @@
     "relativePath": "scene\\Load.fire"
   },
   "2eebca53-f35d-4668-81b9-f34b97756660": {
-    "asset": 1691741639519,
-    "meta": 1691741639532,
+    "asset": 1691742437678,
+    "meta": 1691742437687,
     "relativePath": "scene\\Home.fire"
   },
   "e17dc11d-62d1-433f-96ce-b173b1a84ff1": {
@@ -5290,8 +5280,8 @@
     "relativePath": "scripts\\Framework\\Msg.ts"
   },
   "8d11e8a7-7dbe-453a-895c-fb41d472ba76": {
-    "asset": 1691372295283,
-    "meta": 1691372295284,
+    "asset": 1691742436613,
+    "meta": 1691742436613,
     "relativePath": "bundleRes\\prefab_weapon\\weaponPop.prefab"
   },
   "093134bc-0976-4253-8969-b43c10b89220": {
@@ -5365,8 +5355,8 @@
     "relativePath": "scripts\\Framework\\StartScene.ts"
   },
   "cc0249a9-e903-45f5-aeb0-2e8401fe8463": {
-    "asset": 1690942339891,
-    "meta": 1690942339903,
+    "asset": 1691746522886,
+    "meta": 1691746522894,
     "relativePath": "scene\\GameStart.fire"
   },
   "33548353-1f1a-4f9d-bb4c-0d4aec26c704": {
@@ -6679,34 +6669,44 @@
     "meta": 1691562272863,
     "relativePath": "res\\shader\\materials\\sprite-round-corner-crop-v2.mtl"
   },
-  "61de0eb6-9f87-49ed-933d-fd776e9a8ce7": {
-    "asset": 1686551484236,
-    "meta": 1691716127161,
-    "relativePath": "LanguageData.js"
-  },
-  "744dcb38-0c27-4da6-b361-1b4c70aba14a": {
-    "asset": 1686551484237,
-    "meta": 1691716127198,
-    "relativePath": "LocalizedLabel.js"
-  },
-  "f34acd86-1a25-4e05-b1ba-5e57ef8183f8": {
-    "asset": 1686551484237,
-    "meta": 1691716127222,
-    "relativePath": "LocalizedSprite.js"
-  },
-  "e26fdf72-cbae-40e2-adff-264a559c5620": {
-    "asset": 1686551484239,
-    "meta": 1691716127272,
-    "relativePath": "polyglot.min.js"
-  },
-  "9701943c-d23a-44d9-87f3-e336ee09906a": {
-    "asset": 1686551484238,
-    "meta": 1691716127290,
-    "relativePath": "SpriteFrameSet.js"
-  },
   "4f9b3ac1-35d3-4fcb-a5aa-2eb36ed37640": {
     "asset": 1691741481174,
     "meta": 1691741553270,
     "relativePath": "scripts\\Game\\ZombieBase.ts"
+  },
+  "353dbcbd-b642-44b3-b5c4-041f0734a225": {
+    "asset": 1691742346819,
+    "meta": 1691742347066,
+    "relativePath": "bundleRes\\tex_common\\icon.plist"
+  },
+  "26152c6d-bd59-45a0-9145-d57026b676b0": {
+    "asset": 1691742346821,
+    "meta": 1691742347033,
+    "relativePath": "bundleRes\\tex_common\\icon.png"
+  },
+  "61de0eb6-9f87-49ed-933d-fd776e9a8ce7": {
+    "asset": 1686551484236,
+    "meta": 1691743938234,
+    "relativePath": "LanguageData.js"
+  },
+  "744dcb38-0c27-4da6-b361-1b4c70aba14a": {
+    "asset": 1686551484237,
+    "meta": 1691743938250,
+    "relativePath": "LocalizedLabel.js"
+  },
+  "f34acd86-1a25-4e05-b1ba-5e57ef8183f8": {
+    "asset": 1686551484237,
+    "meta": 1691743938264,
+    "relativePath": "LocalizedSprite.js"
+  },
+  "e26fdf72-cbae-40e2-adff-264a559c5620": {
+    "asset": 1686551484239,
+    "meta": 1691743938291,
+    "relativePath": "polyglot.min.js"
+  },
+  "9701943c-d23a-44d9-87f3-e336ee09906a": {
+    "asset": 1686551484238,
+    "meta": 1691743938304,
+    "relativePath": "SpriteFrameSet.js"
   }
 }

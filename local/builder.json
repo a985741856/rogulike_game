@@ -13,7 +13,7 @@
   "keystorePassword": "",
   "keystoreAlias": "",
   "keystoreAliasPassword": "",
-  "apiLevel": "android-31",
+  "apiLevel": "android-26",
   "appABIs": [
     "arm64-v8a",
     "armeabi-v7a",

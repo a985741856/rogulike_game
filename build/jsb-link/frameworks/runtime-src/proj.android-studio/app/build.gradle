@@ -1,20 +1,13 @@
 import org.apache.tools.ant.taskdefs.condition.Os
-// 开关
-boolean isLib = true
-if (isLib) {
-    apply plugin: 'com.android.library'
-} else {
-    apply plugin: 'com.android.application'
-}
+
+apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion PROP_COMPILE_SDK_VERSION.toInteger()
     buildToolsVersion PROP_BUILD_TOOLS_VERSION
 
     defaultConfig {
-        if (!isLib) {
-            applicationId "yz.dxcyxtgd"
-        }
+        applicationId "yz.dxcyxtgd"
         minSdkVersion PROP_MIN_SDK_VERSION
         targetSdkVersion PROP_TARGET_SDK_VERSION
         versionCode 1
@@ -78,7 +71,7 @@ android {
             jniDebuggable false
             renderscriptDebuggable false
             minifyEnabled true
-//            shrinkResources true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             if (project.hasProperty("RELEASE_STORE_FILE")) {
                 signingConfig signingConfigs.release
@@ -104,64 +97,32 @@ android {
     }
 }
 
-if (isLib) {
-    android.libraryVariants.all { variant ->
-        // delete previous files first
-        delete "${buildDir}/intermediates/merged_assets/${variant.dirName}"
+android.applicationVariants.all { variant ->
+    // delete previous files first
+    delete "${buildDir}/intermediates/merged_assets/${variant.dirName}"
 
-        variant.mergeAssets.doLast {
-            def sourceDir = "${buildDir}/../../../../.."
+    variant.mergeAssets.doLast {
+        def sourceDir = "${buildDir}/../../../../.."
 
-            copy {
-                from "${sourceDir}/assets"
-                into "${outputDir}/assets"
-            }
-
-            copy {
-                from "${sourceDir}/src"
-                into "${outputDir}/src"
-            }
-
-            copy {
-                from "${sourceDir}/jsb-adapter"
-                into "${outputDir}/jsb-adapter"
-            }
-
-            copy {
-                from "${sourceDir}/main.js"
-                from "${sourceDir}/project.json"
-                into outputDir
-            }
+        copy {
+            from "${sourceDir}/assets"
+            into "${outputDir}/assets"
         }
-    }
-}else {
-    android.applicationVariants.all { variant ->
-        // delete previous files first
-        delete "${buildDir}/intermediates/merged_assets/${variant.dirName}"
 
-        variant.mergeAssets.doLast {
-            def sourceDir = "${buildDir}/../../../../.."
+        copy {
+            from "${sourceDir}/src"
+            into "${outputDir}/src"
+        }
 
-            copy {
-                from "${sourceDir}/assets"
-                into "${outputDir}/assets"
-            }
+        copy {
+            from "${sourceDir}/jsb-adapter"
+            into "${outputDir}/jsb-adapter"
+        }
 
-            copy {
-                from "${sourceDir}/src"
-                into "${outputDir}/src"
-            }
-
-            copy {
-                from "${sourceDir}/jsb-adapter"
-                into "${outputDir}/jsb-adapter"
-            }
-
-            copy {
-                from "${sourceDir}/main.js"
-                from "${sourceDir}/project.json"
-                into outputDir
-            }
+        copy {
+            from "${sourceDir}/main.js"
+            from "${sourceDir}/project.json"
+            into outputDir
         }
     }
 }
@@ -170,6 +131,5 @@ dependencies {
     implementation fileTree(dir: '../libs', include: ['*.jar','*.aar'])
     implementation fileTree(dir: 'libs', include: ['*.jar','*.aar'])
     implementation fileTree(dir: "C:/ProgramData/cocos/editors/Creator/2.4.2/resources/cocos2d-x/cocos/platform/android/java/libs", include: ['*.jar'])
-//    implementation("com.squareup.okhttp3:3.12.7")
     implementation project(':libcocos2dx')
 }
