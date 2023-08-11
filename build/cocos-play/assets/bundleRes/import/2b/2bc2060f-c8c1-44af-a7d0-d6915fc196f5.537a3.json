@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "txt_tittle-en",
+    "texture": "08gD8EBflKcoR3m7qcwMqX",
+    "rect": [
+      711,
+      2,
+      504,
+      69
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      546,
+      77
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

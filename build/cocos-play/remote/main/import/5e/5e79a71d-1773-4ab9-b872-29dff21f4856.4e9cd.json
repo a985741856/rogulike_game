@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "circleBg",
+    "texture": "a56C3OCjJPM5m8HqMm+CMw",
+    "rect": [
+      989,
+      2,
+      242,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      242,
+      31
+    ],
+    "rotated": 1,
+    "capInsets": [
+      39,
+      13,
+      27,
+      16
+    ]
+  }
+}

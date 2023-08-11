@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_sblq-en",
+    "texture": "f0Lxpby+pGpp1kXf+efKsS",
+    "rect": [
+      781,
+      1751,
+      187,
+      52
+    ],
+    "offset": [
+      -2,
+      1
+    ],
+    "originalSize": [
+      279,
+      56
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

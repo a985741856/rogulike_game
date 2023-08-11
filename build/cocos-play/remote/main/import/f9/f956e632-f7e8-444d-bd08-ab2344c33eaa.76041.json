@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jinenglan",
+    "texture": "a56C3OCjJPM5m8HqMm+CMw",
+    "rect": [
+      182,
+      2,
+      1055,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1055,
+      92
+    ],
+    "rotated": 1,
+    "capInsets": [
+      101,
+      0,
+      55,
+      0
+    ]
+  }
+}

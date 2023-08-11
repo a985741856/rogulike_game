@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_zjlq-en",
+    "texture": "f0Lxpby+pGpp1kXf+efKsS",
+    "rect": [
+      781,
+      1694,
+      214,
+      55
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      280,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

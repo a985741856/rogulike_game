@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btncj-en",
+    "texture": "8aK0WaI0hIabKFaEfW+Wpz",
+    "rect": [
+      915,
+      748,
+      328,
+      131
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      376,
+      221
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

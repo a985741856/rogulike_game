@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "more_game_2",
+    "texture": "3dHr1jI+hILamN6damg5v2",
+    "rect": [
+      0,
+      0,
+      916,
+      1639
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      916,
+      1639
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

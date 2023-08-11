@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "zombie_skill.plist",
+  "_spriteFrames": {
+    "bg_title": {
+      "__uuid__": "6baQnNyHZFk5SqgUXCpOxr"
+    },
+    "btn_huang": {
+      "__uuid__": "a4EPiFZlZMqIHBj3M2eXcF"
+    },
+    "btn_red": {
+      "__uuid__": "c47+cbKVhCRLoH65IR3K5e"
+    },
+    "fxjs": {
+      "__uuid__": "f91wjc6v1CTb9allePGNWu"
+    },
+    "fxjs_en": {
+      "__uuid__": "adpA6hB/1F5IBUk4l6Mw0E"
+    },
+    "share": {
+      "__uuid__": "faJ+WakTVD/IDzC2131zWe"
+    },
+    "shipin": {
+      "__uuid__": "83nIOMMI5DMrdWBWzJWuOJ"
+    },
+    "spjs-en": {
+      "__uuid__": "b6oN4sFlxG96UvHugFN2ST"
+    },
+    "spjs": {
+      "__uuid__": "12artUzIdJzY1CadBPxTbK"
+    },
+    "txt_shipionshuaxin-en": {
+      "__uuid__": "3bYteGcYNI7aj1K2P13wZQ"
+    },
+    "txt_shipionshuaxin": {
+      "__uuid__": "94mF0s9WxBKLNAKvTpZnHF"
+    },
+    "txt_tittle-en": {
+      "__uuid__": "2bwgYPyMFEr6fQ1pFfwZb1"
+    },
+    "txt_tittle": {
+      "__uuid__": "6dhNRftjZJqLhcLtXrY/6C"
+    },
+    "weixuanzhong-jinengkuang": {
+      "__uuid__": "038fQ4ju5BKpm6D8OdeqBQ"
+    },
+    "xuanzhong-jinengkuang": {
+      "__uuid__": "b38ISH37ZJMpMHbQ3kIafO"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boss-yy",
+    "texture": "a56C3OCjJPM5m8HqMm+CMw",
+    "rect": [
+      276,
+      1029,
+      164,
+      28
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      168,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

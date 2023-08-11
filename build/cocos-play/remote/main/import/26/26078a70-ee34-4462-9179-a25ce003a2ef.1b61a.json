@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "black_icon_bm",
+    "texture": "ef7UKOJUFJZ67B11fMm6nF",
+    "rect": [
+      587,
+      913,
+      156,
+      154
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      156,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

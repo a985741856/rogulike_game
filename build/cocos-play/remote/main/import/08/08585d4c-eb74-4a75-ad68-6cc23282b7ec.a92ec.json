@@ -1,0 +1,72 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "hpTip",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "hpTip",
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_string": "10000",
+        "_N$string": "10000",
+        "_N$file": {
+          "__uuid__": "26XMTXU19OIor5WXpNJOHR"
+        },
+        "_isSystemFontUsed": false,
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1,
+        "_N$fontFamily": "",
+        "_N$cacheMode": 2
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "08WF1M63RKda1obMIygrfs"
+      },
+      "fileId": "1eKs1EPl1MpozcE+bUDeYX"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 142.73,
+      "height": 40
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

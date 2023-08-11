@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "bgScroll",
+  "_effectAsset": {
+    "__uuid__": "7aCFlg9FZMZ58pAay+wiEx"
+  },
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      },
+      "props": {
+        "speed": 1
+      }
+    }
+  }
+}

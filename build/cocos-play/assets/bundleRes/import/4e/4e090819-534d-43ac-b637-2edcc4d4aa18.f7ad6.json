@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "w_rsq",
+    "texture": "26FSxtvVlFoJFF1XAmtnaw",
+    "rect": [
+      635,
+      366,
+      193,
+      120
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      193,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

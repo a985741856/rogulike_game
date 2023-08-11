@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "revive.plist",
+  "_spriteFrames": {
+    "btn_huang": {
+      "__uuid__": "81dqnv//BO46Ul1BvppwKV"
+    },
+    "btn_lan": {
+      "__uuid__": "35l8un1m1Ioqi0wBUWdgSF"
+    },
+    "btn_lijifh-en": {
+      "__uuid__": "33IP/52exNoqD3LdmC9Ztn"
+    },
+    "btn_lijifh": {
+      "__uuid__": "2flaAv+UtGH5dfHFxJCrd1"
+    },
+    "btn_txrs-en": {
+      "__uuid__": "56D/5cwfVOUaFuR8Af7npD"
+    },
+    "btn_txrs": {
+      "__uuid__": "200zLsMLtCOKlqSPlReVKO"
+    },
+    "diquan": {
+      "__uuid__": "74ktdlyJZC84TgcgPk4wZq"
+    },
+    "shangquan": {
+      "__uuid__": "4feVSU+VJLkohWvf1/GdU9"
+    },
+    "share": {
+      "__uuid__": "b1VALcQxZELowP3SqkxjwI"
+    },
+    "shipin": {
+      "__uuid__": "e4+CkhEjJLloeMdEBPTM/R"
+    }
+  }
+}

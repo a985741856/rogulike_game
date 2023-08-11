@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gold_view_13",
+    "texture": "26sHIEat1GRKGDyiXGFACi",
+    "rect": [
+      1,
+      1,
+      1077,
+      1103
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      1078,
+      1104
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

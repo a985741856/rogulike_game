@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "n_r3",
+    "texture": "77j7TeoPtOBqsnnfytYPBQ",
+    "rect": [
+      113,
+      457,
+      351,
+      48
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      359,
+      94
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

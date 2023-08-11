@@ -1,0 +1,119 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "bullet_chui",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bullet_chui",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "50404UIfWNMdr6ERRkIVC1x",
+        "node": {
+          "__id__": 1
+        },
+        "bulletId": 20,
+        "boomEffect": {
+          "__uuid__": "0fuaUz2wlOhLZqMwfhNvo7"
+        },
+        "hitAudio": null
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "32Z2YkOfBEf6/vymYf7eCV"
+      }
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_groupIndex": 2,
+    "groupIndex": 2
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "zidan",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "57H+nDEuhLhrZvQX+iaKHe"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "32Z2YkOfBEf6/vymYf7eCV"
+      },
+      "fileId": "cdjnmY/n9J8bWArgTdJXL3"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 195,
+      "height": 133
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.7,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_groupIndex": 2,
+    "groupIndex": 2
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "syrs-yy",
+    "texture": "a56C3OCjJPM5m8HqMm+CMw",
+    "rect": [
+      989,
+      246,
+      170,
+      27
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      172,
+      49
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

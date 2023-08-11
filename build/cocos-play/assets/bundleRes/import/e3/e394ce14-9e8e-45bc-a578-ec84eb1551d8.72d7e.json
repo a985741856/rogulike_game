@@ -1,0 +1,339 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "weapon_nnp",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "weapon_nnp",
+    "_children": [
+      {
+        "__id__": 2
+      },
+      {
+        "__type__": "cc.Node",
+        "_name": "startPos",
+        "_parent": {
+          "__id__": 1
+        },
+        "_active": false,
+        "_prefab": {
+          "__type__": "cc.PrefabInfo",
+          "root": {
+            "__id__": 1
+          },
+          "asset": {
+            "__uuid__": "e3lM4Uno5FvKV47ITrFVHY"
+          },
+          "fileId": "82qm/4Tq1Be5kEpQjIY+2n"
+        },
+        "_trs": {
+          "__type__": "TypedArray",
+          "ctor": "Float64Array",
+          "array": [
+            167.018,
+            -4.881,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "__id__": 5
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "76f86dlCpdKv7l4KtsVUJq2",
+        "node": {
+          "__id__": 1
+        },
+        "can_effect_hit": true,
+        "hand_effect": {
+          "__id__": 3
+        },
+        "hand_2": {
+          "__id__": 4
+        },
+        "weaponNum": 11,
+        "bullet": {
+          "__uuid__": "ebQgEM3g9MYYThmqxEYLo5"
+        },
+        "atkEffect": {
+          "__uuid__": "08iO6Uz1dNhJY04qgEVzJc"
+        },
+        "atkNum": 80,
+        "flySpeed": 1600,
+        "atkSpeed": 2
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "e3lM4Uno5FvKV47ITrFVHY"
+      }
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "w_ak",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "b5jgGPAOhGn5vQ1uEQT+mb"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "e3lM4Uno5FvKV47ITrFVHY"
+      },
+      "fileId": "8cnbq+bnZE+K/DTK/7IC1Y"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 202,
+      "height": 130
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        56.393,
+        -7.619,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "xhr_animation075",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 3
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "927nuoAbVCc5mqspfu53yA"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "e3lM4Uno5FvKV47ITrFVHY"
+      },
+      "fileId": "41VDwTLRFLta87+GLoa+C5"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 59,
+      "height": 39
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        5.64,
+        -47.562,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.5,
+        0.8,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "xhr_animation075",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 4
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "927nuoAbVCc5mqspfu53yA"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "e3lM4Uno5FvKV47ITrFVHY"
+      },
+      "fileId": "fbULp7U/JD+rO0TIt5/9c5"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 59,
+      "height": 39
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -54.354,
+        -45.269,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "sd",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "node": {
+          "__id__": 5
+        },
+        "_materials": [
+          {
+            "__uuid__": "7a/QZLET9IDreTiBfRn2PD"
+          }
+        ],
+        "defaultSkin": "p",
+        "defaultAnimation": "animation",
+        "_preCacheMode": 2,
+        "_cacheMode": 2,
+        "premultipliedAlpha": false,
+        "_animationName": "animation",
+        "_N$skeletonData": {
+          "__uuid__": "ec4GHiz1xCCIOaRE3TTZ0k"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "e3lM4Uno5FvKV47ITrFVHY"
+      },
+      "fileId": "cfbZ2jH/RH76bHGN2vNrxL"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 619,
+      "height": 301
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        20.755,
+        -46.539,
+        0,
+        0,
+        0,
+        0.08715574274765817,
+        0.9961946980917455,
+        0.2,
+        0.2,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "z": 10
+    }
+  }
+]

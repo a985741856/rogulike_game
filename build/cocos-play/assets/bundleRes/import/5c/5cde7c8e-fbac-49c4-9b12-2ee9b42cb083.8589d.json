@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "pause.plist",
+  "_spriteFrames": {
+    "continue-en": {
+      "__uuid__": "42vcPx7dRGi75yxGN9zR0Y"
+    },
+    "continue": {
+      "__uuid__": "6ahZ5pbeJOlqpkk7ywPMNO"
+    },
+    "home-en": {
+      "__uuid__": "ff1I2n1yFOSruFerKIgaxt"
+    },
+    "home": {
+      "__uuid__": "f3L+5IWpxMYLrPqXjOgl8P"
+    },
+    "restart-en": {
+      "__uuid__": "58aL3BsTdEk5JWFxBypb7c"
+    },
+    "restart": {
+      "__uuid__": "f9cGJHT8tAdbVbTw8yjvMR"
+    },
+    "txt_yxzt-en": {
+      "__uuid__": "a8INuV1ANJGIyRoNfd+Kdv"
+    },
+    "txt_yxzt": {
+      "__uuid__": "e3Tcn/3phBYIApp3sjl6QY"
+    },
+    "yxzt": {
+      "__uuid__": "21jH+3UN1Obq75xw2RVSnZ"
+    }
+  }
+}

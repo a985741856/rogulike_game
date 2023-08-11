@@ -1,0 +1,14 @@
+[
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Boss3ZombieAttack2",
+    "_native": ".mp3",
+    "duration": 0.444082
+  },
+  {
+    "__type__": "cc.AudioClip",
+    "_name": "Boss3ZombieDie",
+    "_native": ".mp3",
+    "duration": 0.679184
+  }
+]

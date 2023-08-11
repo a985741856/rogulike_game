@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "huangfa_icon_sw",
+    "texture": "ef7UKOJUFJZ67B11fMm6nF",
+    "rect": [
+      2,
+      719,
+      281,
+      184
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      281,
+      186
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

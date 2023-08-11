@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet_poison",
+    "texture": "f1EC+ulQ5ImZ8IxIiO3GNU",
+    "rect": [
+      0,
+      0,
+      285,
+      287
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      285,
+      287
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

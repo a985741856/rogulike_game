@@ -1,0 +1,132 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "bullet_gj",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bullet_gj",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.CircleCollider",
+        "node": {
+          "__id__": 1
+        },
+        "_radius": 300
+      },
+      {
+        "__type__": "50404UIfWNMdr6ERRkIVC1x",
+        "node": {
+          "__id__": 1
+        },
+        "bulletId": 14,
+        "canMove": false,
+        "canBreak": false,
+        "hitEffect": {
+          "__uuid__": "52AnLwqH1IyJNO6bEi4Cvx"
+        },
+        "hitAudio": null,
+        "hitEffectType": 1
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "7aNX0FAVxKWIeWuXt8AlKe"
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 158,
+      "height": 109
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_groupIndex": 2,
+    "groupIndex": 2
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "w",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "node": {
+          "__id__": 2
+        },
+        "_materials": [
+          {
+            "__uuid__": "7a/QZLET9IDreTiBfRn2PD"
+          }
+        ],
+        "defaultSkin": "default",
+        "defaultAnimation": "animation",
+        "_preCacheMode": 0,
+        "premultipliedAlpha": false,
+        "_animationName": "animation",
+        "_N$skeletonData": {
+          "__uuid__": "9d2eqSgFpMb68tVnWo+0Qy"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "7aNX0FAVxKWIeWuXt8AlKe"
+      },
+      "fileId": "6acqkqFsJLNYXut5sIb7EI"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 217,
+      "height": 221
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        76.935,
+        0,
+        0,
+        0,
+        0,
+        1,
+        -2,
+        2,
+        1
+      ]
+    }
+  }
+]

@@ -1,0 +1,43 @@
+{
+    "paths": {},
+    "uuids": [
+        "60g0qtoFdFNIr1FTsYVyHi",
+        "8dXqLbW7JNyZFwWugqS89u",
+        "9fZzXGlXpCnptJoN3qo2ch",
+        "ecpdLyjvZBwrvm+cedCcQy"
+    ],
+    "scenes": {
+        "db://assets/scene/Start.fire": "9fZzXGlXpCnptJoN3qo2ch"
+    },
+    "redirect": [
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0
+    ],
+    "deps": [
+        "internal"
+    ],
+    "packs": {
+        "096e75357": [
+            "8dXqLbW7JNyZFwWugqS89u",
+            "9fZzXGlXpCnptJoN3qo2ch"
+        ]
+    },
+    "name": "start-scene",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "096e75357",
+            "820a0",
+            "60g0qtoFdFNIr1FTsYVyHi",
+            "29262"
+        ],
+        "native": [
+            "60g0qtoFdFNIr1FTsYVyHi",
+            "782c1"
+        ]
+    }
+}

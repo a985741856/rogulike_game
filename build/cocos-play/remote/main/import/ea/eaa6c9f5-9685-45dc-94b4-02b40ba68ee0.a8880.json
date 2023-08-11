@@ -1,0 +1,141 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "common_img.plist",
+  "_spriteFrames": {
+    "Recommend": {
+      "__uuid__": "6cE8VSj9BHx4cF8L7IFE1e"
+    },
+    "app_mask": {
+      "__uuid__": "15ApHi44tB6baMoKXLqoAn"
+    },
+    "background": {
+      "__uuid__": "20BLsm3JNGNYoSXV9TqVX+"
+    },
+    "bg_border": {
+      "__uuid__": "9cz4U9yWhAEomBtYZbU1vf"
+    },
+    "border": {
+      "__uuid__": "5dj6VWP1hL+J0dEbTZ/1TV"
+    },
+    "btn": {
+      "__uuid__": "5bkOs7bHBIXq34wnllIqmp"
+    },
+    "clickInstall": {
+      "__uuid__": "8cG6eL1uNJlaJ0L4hp4HKA"
+    },
+    "close": {
+      "__uuid__": "6b1GQ3puxJha2IQeoofNmR"
+    },
+    "game_title": {
+      "__uuid__": "6bkYEfORNGxIjE564tLQsf"
+    },
+    "handImg": {
+      "__uuid__": "c5kcHpBIRCvaWn5awYXpA/"
+    },
+    "icon_mask": {
+      "__uuid__": "c6xI8rX0JFNbckNNY6Xd1Q"
+    },
+    "interstitial_bg": {
+      "__uuid__": "51GYIRShtMuqnVPJP4nTvl"
+    },
+    "itemBg": {
+      "__uuid__": "ffMgLW3n5FgqYyrndinsr2"
+    },
+    "kuang": {
+      "__uuid__": "99xgZS9CBHKJ6LDdqr6ml+"
+    },
+    "like": {
+      "__uuid__": "a9i+SBArNNF4nhWNqJ2t1N"
+    },
+    "loadingCircleBg": {
+      "__uuid__": "f5DDKpfdVOz4kE73NXb/Yt"
+    },
+    "mark": {
+      "__uuid__": "efuCfmVBtNQpgI9vPP1g1V"
+    },
+    "mask_2": {
+      "__uuid__": "a9NQGn5stJ9Ktd/CZx8ZDH"
+    },
+    "moreGameTitle": {
+      "__uuid__": "e9ZklsTjJCKJNYAmOxxJ6i"
+    },
+    "more_game": {
+      "__uuid__": "b1gdgYocdFLKlTo9bvcLWk"
+    },
+    "more_game_1": {
+      "__uuid__": "21psksj2tHepRnBMgDvrvX"
+    },
+    "more_game_3": {
+      "__uuid__": "43DqotLW1D9YYlbq7dMNPS"
+    },
+    "more_text": {
+      "__uuid__": "11oBFHpg9PoY6xNWJWCapk"
+    },
+    "recordBtn1": {
+      "__uuid__": "adKzAd+otLWoBOQNs55C2s"
+    },
+    "recordBtn2": {
+      "__uuid__": "e934OmdUlHL7JfUbDQ3/8L"
+    },
+    "recordBtnBg": {
+      "__uuid__": "f82eBW809ER6QiOB6Ebztj"
+    },
+    "rectBg": {
+      "__uuid__": "e8TswvsTBHY4vq0cgP1gf7"
+    },
+    "redpoint": {
+      "__uuid__": "35vt0XXkdCM56FKl4yMgjL"
+    },
+    "share_record_penel_1": {
+      "__uuid__": "8d9ysuYzBPyb+sedWyKQtY"
+    },
+    "share_record_penel_2": {
+      "__uuid__": "ff8rSI/N1B5qs1tAf4QA3R"
+    },
+    "share_record_penel_3": {
+      "__uuid__": "f00oRObaRHxJmYe1Sp3s09"
+    },
+    "share_record_penel_4": {
+      "__uuid__": "2ed/3g0IxNvqiBKklm2Myt"
+    },
+    "share_record_penel_5": {
+      "__uuid__": "f4fkwGgKND+rlNk6pKAI8+"
+    },
+    "share_record_penel_6": {
+      "__uuid__": "14Oo6MAUBKVrmn9yw+F4cb"
+    },
+    "share_record_penel_7": {
+      "__uuid__": "6dPnh1BQNGB6u5jKd5uYLh"
+    },
+    "share_record_penel_8": {
+      "__uuid__": "0aY7dYuFNFPonYB+jiXJbM"
+    },
+    "shortcut": {
+      "__uuid__": "64aIn1VatHJLWR8e+R4Zz9"
+    },
+    "star": {
+      "__uuid__": "5aB+/c3FRHXbMqghC/GNAT"
+    },
+    "statement_ad_1": {
+      "__uuid__": "5dvLjrHYlB447SH1CJKw28"
+    },
+    "statement_ad_2": {
+      "__uuid__": "11AOa4bZdJ0a8ugRtOJv6m"
+    },
+    "statement_ad_3": {
+      "__uuid__": "f0xtG6tUBBkbZ02m/lwZVl"
+    },
+    "titleBackground": {
+      "__uuid__": "5c54LdpHJBW7pt27ZDbpPJ"
+    },
+    "x1": {
+      "__uuid__": "b0fgIM/GZJnri9/jHKOd/Z"
+    },
+    "x2": {
+      "__uuid__": "d3W1oIod5L0qpnUO4FQxZ5"
+    },
+    "x3": {
+      "__uuid__": "d3K18tOQFDPb/WA9gVZJbb"
+    }
+  }
+}

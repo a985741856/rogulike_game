@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "greybeard_icon_bj",
+    "texture": "ef7UKOJUFJZ67B11fMm6nF",
+    "rect": [
+      1560,
+      346,
+      200,
+      162
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      200,
+      164
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

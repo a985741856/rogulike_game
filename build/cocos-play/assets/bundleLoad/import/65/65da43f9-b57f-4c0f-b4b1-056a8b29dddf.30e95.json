@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo",
+    "texture": "e0xWrQz+9D1Y9bdtylxI7s",
+    "rect": [
+      844,
+      0,
+      844,
+      433
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      844,
+      433
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

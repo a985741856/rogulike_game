@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cjbx-en",
+    "texture": "f0Lxpby+pGpp1kXf+efKsS",
+    "rect": [
+      970,
+      1770,
+      165,
+      23
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      165,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

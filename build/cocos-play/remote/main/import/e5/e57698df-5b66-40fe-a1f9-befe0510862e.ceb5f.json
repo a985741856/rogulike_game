@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dj_tb_00010010",
+    "texture": "ef7UKOJUFJZ67B11fMm6nF",
+    "rect": [
+      1924,
+      688,
+      56,
+      51
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      78,
+      67
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

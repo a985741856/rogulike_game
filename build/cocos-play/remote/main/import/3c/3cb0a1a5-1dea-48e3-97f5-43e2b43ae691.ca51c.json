@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "common_gold",
+    "texture": "0d8i0gwHNIUYPUsFqO4iev",
+    "rect": [
+      2,
+      0,
+      643,
+      78
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      649,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

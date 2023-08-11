@@ -1,0 +1,465 @@
+[
+  {
+    "__type__": "cc.SceneAsset",
+    "_name": "Game",
+    "scene": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": null
+  },
+  {
+    "__type__": "cc.Scene",
+    "_name": "New Node",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_active": false,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2"
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "autoReleaseAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Canvas",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 8
+      },
+      {
+        "__id__": 9
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Canvas",
+        "node": {
+          "__id__": 2
+        },
+        "_designResolution": {
+          "__type__": "cc.Size",
+          "width": 1080,
+          "height": 1920
+        },
+        "_fitWidth": true,
+        "_fitHeight": false
+      },
+      {
+        "__type__": "cc.Widget",
+        "node": {
+          "__id__": 2
+        },
+        "_alignFlags": 45
+      },
+      {
+        "__type__": "ba7855a2NtE/b6oGliHwfNV",
+        "node": {
+          "__id__": 2
+        },
+        "red": {
+          "__id__": 9
+        },
+        "hpTip": {
+          "__uuid__": "08WF1M63RKda1obMIygrfs"
+        },
+        "effect_fire": {
+          "__uuid__": "13fcE8yWJMh4q+FmByYoWU"
+        },
+        "effect_hit": {
+          "__uuid__": "5a404aJ4ZHl7m+YZW1Htn0"
+        },
+        "itemEffect": [
+          {
+            "__uuid__": "f7dbpwaMBC1qd5ksF2cyYh"
+          }
+        ],
+        "spark": {
+          "__uuid__": "07XXfHQ0tHZJyJsWZ84dyS"
+        },
+        "blood": {
+          "__uuid__": "0aKGSFjulGH4cQ/rbAy1Jy"
+        },
+        "testPoint": {
+          "__uuid__": "81pY/Vc/1NUZDkXhIU0G8N"
+        },
+        "player": {
+          "__uuid__": "335AeXT4JPrY+wdEJZnTmU"
+        },
+        "jiaoyin": {
+          "__uuid__": "20d1B7FBdC0pxox9qPMA5N"
+        },
+        "fj": {
+          "__id__": 7
+        },
+        "fjTip": {
+          "__id__": 8
+        },
+        "mainCamereRootNode": {
+          "__id__": 3
+        },
+        "mainCamera": {
+          "__id__": 5
+        }
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1080,
+      "height": 1920
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        540,
+        960,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_id": "a5esZu+45LA5mBpvttspPD"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "mainCamereRootNode",
+    "_parent": {
+      "__id__": 2
+    },
+    "_children": [
+      {
+        "__id__": 4
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1080,
+      "height": 1920
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Main Camera",
+    "_objFlags": 512,
+    "_parent": {
+      "__id__": 3
+    },
+    "_components": [
+      {
+        "__id__": 5
+      }
+    ],
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        654.1686605257661,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Camera",
+    "node": {
+      "__id__": 4
+    },
+    "_cullingMask": -3,
+    "_clearFlags": 7,
+    "_depth": -1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "UI Camera",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Camera",
+        "node": {
+          "__id__": 6
+        },
+        "_cullingMask": -14,
+        "_orthoSize": 960,
+        "_nearClip": 0.1
+      }
+    ],
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        654.1686605257661,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_groupIndex": 1,
+    "groupIndex": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "fj",
+    "_parent": {
+      "__id__": 2
+    },
+    "_active": false,
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "node": {
+          "__id__": 7
+        },
+        "_materials": [
+          {
+            "__uuid__": "7a/QZLET9IDreTiBfRn2PD"
+          }
+        ],
+        "defaultSkin": "default",
+        "defaultAnimation": "animation0",
+        "_preCacheMode": 0,
+        "premultipliedAlpha": false,
+        "_animationName": "animation0",
+        "_N$skeletonData": {
+          "__uuid__": "c5Vr+oJYxME4UC9yQhA5EC"
+        }
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 984,
+      "height": 1247.1
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "fjTip",
+    "_parent": {
+      "__id__": 2
+    },
+    "_active": false,
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 8
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "deQqm0JPBKWqJt1OvuvLKL"
+        }
+      },
+      {
+        "__type__": "f34ac2GGiVOBbG6XlfvgYP4",
+        "node": {
+          "__id__": 8
+        },
+        "spriteFrameSet": [
+          {
+            "__type__": "SpriteFrameSet",
+            "language": "zh",
+            "spriteFrame": {
+              "__uuid__": "deQqm0JPBKWqJt1OvuvLKL"
+            }
+          },
+          {
+            "__type__": "SpriteFrameSet",
+            "language": "en",
+            "spriteFrame": {
+              "__uuid__": "34jw5A9WBBUb/DE60Pgapf"
+            }
+          }
+        ]
+      },
+      {
+        "__type__": "54110rONwJBArNNreXEArQY",
+        "node": {
+          "__id__": 8
+        },
+        "type": 3,
+        "easeType": 9,
+        "delay": 0.5,
+        "isReverse": true,
+        "num": -255
+      },
+      {
+        "__type__": "cc.Widget",
+        "node": {
+          "__id__": 8
+        },
+        "_alignFlags": 1,
+        "_top": 119
+      }
+    ],
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 416,
+      "height": 41
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        800,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        1
+      ]
+    },
+    "_groupIndex": 1,
+    "groupIndex": 1
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "red",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 9
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "2dO3uZs4JJ0or/jWfX1512"
+        },
+        "_sizeMode": 0
+      },
+      {
+        "__type__": "cc.Widget",
+        "node": {
+          "__id__": 9
+        },
+        "_alignFlags": 45,
+        "_originalWidth": 1920,
+        "_originalHeight": 1080
+      }
+    ],
+    "_opacity": 0,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 25,
+      "b": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 1080,
+      "height": 1920
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_groupIndex": 1,
+    "groupIndex": 1
+  }
+]

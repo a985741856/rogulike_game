@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "toutiao_16",
+    "texture": "e4uZ9LEAVFM7Uv2lcsQiJG",
+    "rect": [
+      0,
+      0,
+      679,
+      761
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      679,
+      761
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

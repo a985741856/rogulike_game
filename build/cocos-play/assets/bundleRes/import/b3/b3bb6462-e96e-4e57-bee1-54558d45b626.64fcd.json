@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zuanshibuzu_txt2-yy",
+    "texture": "1d+vCZp5hKIIdVUrVfc6jq",
+    "rect": [
+      2,
+      1256,
+      737,
+      47
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      749,
+      47
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

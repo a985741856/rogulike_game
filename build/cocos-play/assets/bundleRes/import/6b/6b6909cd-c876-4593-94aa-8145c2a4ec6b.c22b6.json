@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_title",
+    "texture": "08gD8EBflKcoR3m7qcwMqX",
+    "rect": [
+      581,
+      2,
+      783,
+      128
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      783,
+      130
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

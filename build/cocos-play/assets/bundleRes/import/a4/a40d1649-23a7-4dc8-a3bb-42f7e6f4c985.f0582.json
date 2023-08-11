@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yiqiandao-en",
+    "texture": "f0Lxpby+pGpp1kXf+efKsS",
+    "rect": [
+      1102,
+      1280,
+      94,
+      98
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      94,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

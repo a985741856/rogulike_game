@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gjwq-yy",
+    "texture": "a56C3OCjJPM5m8HqMm+CMw",
+    "rect": [
+      766,
+      1785,
+      99,
+      35
+    ],
+    "offset": [
+      -2,
+      0
+    ],
+    "originalSize": [
+      131,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

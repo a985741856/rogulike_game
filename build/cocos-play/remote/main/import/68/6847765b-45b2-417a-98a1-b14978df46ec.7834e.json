@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AAA_icon_bg",
+    "texture": "ef7UKOJUFJZ67B11fMm6nF",
+    "rect": [
+      1422,
+      852,
+      156,
+      154
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      156,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

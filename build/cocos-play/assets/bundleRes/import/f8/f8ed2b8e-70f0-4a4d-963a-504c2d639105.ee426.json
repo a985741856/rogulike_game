@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.Material",
+  "_name": "fire",
+  "_effectAsset": {
+    "__uuid__": "442TizGo9AkaDeHmEVaYZS"
+  },
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true
+      },
+      "props": {
+        "curTex": 1
+      }
+    }
+  }
+}
