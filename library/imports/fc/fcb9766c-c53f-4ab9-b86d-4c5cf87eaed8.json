@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redcap_icon_gj",
+    "texture": "28d2a348-d1aa-4e4d-a9f2-a2189555fbd2",
+    "atlas": "cc002da0-2177-4b3a-a8b8-ca381960d82f",
+    "rect": [
+      340,
+      990,
+      249,
+      265
+    ],
+    "offset": [
+      0,
+      38
+    ],
+    "originalSize": [
+      325,
+      353
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -117,7 +117,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 222,
+      "width": 232,
       "height": 95
     },
     "_anchorPoint": {
@@ -181,8 +181,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 59,
-      "height": 39
+      "width": 43,
+      "height": 55
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -198,10 +198,10 @@
         0,
         0,
         0,
-        0,
-        1,
+        -0.7071067811865475,
+        0.7071067811865476,
         0.5,
-        0.8,
+        0.5,
         1
       ]
     },
@@ -209,7 +209,7 @@
       "__type__": "cc.Vec3",
       "x": 0,
       "y": 0,
-      "z": 0
+      "z": -90
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -234,7 +234,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "92ee7ba8-01b5-4273-99aa-b297eee77c80"
+      "__uuid__": "7572bf73-a325-4c08-b8ee-e8f3c0592730"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -248,7 +248,7 @@
     "_fillRange": 0,
     "_isTrimmedMode": true,
     "_atlas": {
-      "__uuid__": "57a8ca77-807b-4384-af53-381c96faab6b"
+      "__uuid__": "24cb7830-28dc-4bc3-ab34-f7d59921513a"
     },
     "_id": ""
   },
@@ -290,8 +290,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 59,
-      "height": 39
+      "width": 51,
+      "height": 50
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -307,8 +307,8 @@
         0,
         0,
         0,
-        0,
-        1,
+        0.7071067811865475,
+        0.7071067811865476,
         1,
         1,
         1
@@ -318,7 +318,7 @@
       "__type__": "cc.Vec3",
       "x": 0,
       "y": 0,
-      "z": 0
+      "z": 90
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -343,7 +343,7 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_spriteFrame": {
-      "__uuid__": "92ee7ba8-01b5-4273-99aa-b297eee77c80"
+      "__uuid__": "44799063-9f04-4b16-bf67-39be45b85f80"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -357,7 +357,7 @@
     "_fillRange": 0,
     "_isTrimmedMode": true,
     "_atlas": {
-      "__uuid__": "57a8ca77-807b-4384-af53-381c96faab6b"
+      "__uuid__": "24cb7830-28dc-4bc3-ab34-f7d59921513a"
     },
     "_id": ""
   },

@@ -1,5 +1,5 @@
 import PlatUtils from "../../common-plugin/Scripts/PlatUtils";
-import { cocosz } from "../Framework/CocosZ";
+import CocosZ, { cocosz } from "../Framework/CocosZ";
 import Constant, { PanelName, ZindexLayer } from "../Framework/Constant";
 import GameDate from "./gameDate";
 import { gameMgr } from "./gameMgr";

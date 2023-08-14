@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "black_icon_bm",
+    "texture": "a662d40d-ce0f-4479-84d5-2711b8e0e686",
+    "atlas": "24cb7830-28dc-4bc3-ab34-f7d59921513a",
+    "rect": [
+      1,
+      1821,
+      218,
+      190
+    ],
+    "offset": [
+      1,
+      2
+    ],
+    "originalSize": [
+      220,
+      216
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

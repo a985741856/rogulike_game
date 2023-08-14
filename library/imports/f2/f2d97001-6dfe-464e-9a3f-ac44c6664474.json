@@ -5,14 +5,12 @@
   "_native": "",
   "_skeletonJson": {
     "skeleton": {
-      "hash": "0zpP4Vja5iY8ZygibVH0StBekic",
+      "hash": "kFgOE9Gtxj3DMmm3xocvhm6C/2I",
       "spine": "3.8.99",
       "x": -89.89,
       "y": -37.12,
       "width": 185,
-      "height": 239,
-      "images": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\获取道具特效\\images",
-      "audio": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\获取道具特效\\images"
+      "height": 239
     },
     "bones": [
       {
@@ -26,8 +24,7 @@
         "name": "hq1_gq",
         "parent": "hq1_d1",
         "x": 0.51,
-        "y": 37.01,
-        "color": "ff0000ff"
+        "y": 37.01
       },
       {
         "name": "hq1_gx",
@@ -82,47 +79,56 @@
       {
         "name": "hq1_gz",
         "bone": "hq1_gz",
-        "attachment": "hq1_gz"
+        "attachment": "hq1_gz",
+        "blend": "additive"
       },
       {
         "name": "hq1_gq",
         "bone": "hq1_gq",
-        "attachment": "hq1_gq"
+        "attachment": "hq1_gq",
+        "blend": "additive"
       },
       {
         "name": "hq1_gx",
         "bone": "hq1_gx",
-        "attachment": "hq1_gx"
+        "attachment": "hq1_gx",
+        "blend": "additive"
       },
       {
         "name": "hq1_d6",
         "bone": "hq1_d6",
-        "attachment": "hq1_d6"
+        "attachment": "hq1_d6",
+        "blend": "additive"
       },
       {
         "name": "hq1_d5",
         "bone": "hq1_d5",
-        "attachment": "hq1_d5"
+        "attachment": "hq1_d5",
+        "blend": "additive"
       },
       {
         "name": "hq1_d4",
         "bone": "hq1_d4",
-        "attachment": "hq1_d4"
+        "attachment": "hq1_d4",
+        "blend": "additive"
       },
       {
         "name": "hq1_d3",
         "bone": "hq1_d3",
-        "attachment": "hq1_d3"
+        "attachment": "hq1_d3",
+        "blend": "additive"
       },
       {
         "name": "hq1_d2",
         "bone": "hq1_d7",
-        "attachment": "hq1_d2"
+        "attachment": "hq1_d2",
+        "blend": "additive"
       },
       {
         "name": "hq1_d1",
         "bone": "hq1_d8",
-        "attachment": "hq1_d1"
+        "attachment": "hq1_d1",
+        "blend": "additive"
       }
     ],
     "skins": [
@@ -325,6 +331,81 @@
           }
         },
         "bones": {
+          "hq1_d8": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1,
+                "y": 67.62
+              }
+            ]
+          },
+          "hq1_d7": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1,
+                "x": -38.64,
+                "y": 96.6
+              }
+            ]
+          },
+          "hq1_d3": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1,
+                "y": 67.62
+              }
+            ]
+          },
+          "hq1_d4": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1,
+                "x": 32.66,
+                "y": 81.88
+              }
+            ]
+          },
+          "hq1_d5": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1,
+                "y": 67.62
+              }
+            ]
+          },
+          "hq1_d6": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 1,
+                "x": -48.3,
+                "y": 85.56
+              }
+            ]
+          },
           "hq1_gq": {
             "scale": [
               {
@@ -378,87 +459,12 @@
                 "time": 1
               }
             ]
-          },
-          "hq1_d6": {
-            "translate": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 1,
-                "x": -48.3,
-                "y": 85.56
-              }
-            ]
-          },
-          "hq1_d5": {
-            "translate": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 1,
-                "y": 67.62
-              }
-            ]
-          },
-          "hq1_d4": {
-            "translate": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 1,
-                "x": 32.66,
-                "y": 81.88
-              }
-            ]
-          },
-          "hq1_d3": {
-            "translate": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 1,
-                "y": 67.62
-              }
-            ]
-          },
-          "hq1_d7": {
-            "translate": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 1,
-                "x": -38.64,
-                "y": 96.6
-              }
-            ]
-          },
-          "hq1_d8": {
-            "translate": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 1,
-                "y": 67.62
-              }
-            ]
           }
         }
       }
     }
   },
-  "_atlasText": "\r\ndjtx.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nhq1_d1\r\n  rotate: false\r\n  xy: 10, 4\r\n  size: 4, 4\r\n  orig: 5, 6\r\n  offset: 0, 1\r\n  index: -1\r\nhq1_d2\r\n  rotate: false\r\n  xy: 16, 4\r\n  size: 4, 4\r\n  orig: 6, 6\r\n  offset: 1, 1\r\n  index: -1\r\nhq1_d3\r\n  rotate: false\r\n  xy: 22, 4\r\n  size: 4, 4\r\n  orig: 5, 5\r\n  offset: 1, 0\r\n  index: -1\r\nhq1_d4\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 6, 6\r\n  orig: 6, 6\r\n  offset: 0, 0\r\n  index: -1\r\nhq1_d5\r\n  rotate: false\r\n  xy: 28, 4\r\n  size: 4, 4\r\n  orig: 6, 6\r\n  offset: 1, 1\r\n  index: -1\r\nhq1_d6\r\n  rotate: false\r\n  xy: 34, 4\r\n  size: 4, 4\r\n  orig: 5, 5\r\n  offset: 0, 0\r\n  index: -1\r\nhq1_gq\r\n  rotate: false\r\n  xy: 2, 10\r\n  size: 160, 142\r\n  orig: 185, 144\r\n  offset: 12, 2\r\n  index: -1\r\nhq1_gx\r\n  rotate: true\r\n  xy: 164, 30\r\n  size: 122, 142\r\n  orig: 149, 163\r\n  offset: 15, 12\r\n  index: -1\r\nhq1_gz\r\n  rotate: true\r\n  xy: 164, 2\r\n  size: 26, 178\r\n  orig: 30, 183\r\n  offset: 2, 3\r\n  index: -1\r\n",
+  "_atlasText": "\ndjtx.png\nsize: 158,212\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nhq1_d1\n  rotate: true\n  xy: 21, 37\n  size: 3, 4\n  orig: 5, 6\n  offset: 1, 1\n  index: -1\nhq1_d2\n  rotate: false\n  xy: 9, 36\n  size: 4, 4\n  orig: 6, 6\n  offset: 1, 1\n  index: -1\nhq1_d3\n  rotate: false\n  xy: 2, 24\n  size: 3, 3\n  orig: 5, 5\n  offset: 1, 1\n  index: -1\nhq1_d4\n  rotate: false\n  xy: 2, 35\n  size: 5, 5\n  orig: 6, 6\n  offset: 0, 1\n  index: -1\nhq1_d5\n  rotate: false\n  xy: 15, 36\n  size: 4, 4\n  orig: 6, 6\n  offset: 1, 1\n  index: -1\nhq1_d6\n  rotate: true\n  xy: 2, 29\n  size: 4, 3\n  orig: 5, 5\n  offset: 0, 1\n  index: -1\nhq1_gq\n  rotate: false\n  xy: 24, 99\n  size: 132, 111\n  orig: 185, 144\n  offset: 26, 17\n  index: -1\nhq1_gx\n  rotate: true\n  xy: 27, 2\n  size: 95, 118\n  orig: 149, 163\n  offset: 29, 27\n  index: -1\nhq1_gz\n  rotate: false\n  xy: 2, 42\n  size: 20, 168\n  orig: 30, 183\n  offset: 5, 5\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "ce0df81d-7891-42c6-862b-988241f0857c"

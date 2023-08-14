@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tower_shuijing_blue",
+    "texture": "a662d40d-ce0f-4479-84d5-2711b8e0e686",
+    "atlas": "24cb7830-28dc-4bc3-ab34-f7d59921513a",
+    "rect": [
+      310,
+      908,
+      29,
+      29
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      29,
+      29
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

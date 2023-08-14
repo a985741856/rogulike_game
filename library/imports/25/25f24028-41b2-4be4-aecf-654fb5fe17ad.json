@@ -5,14 +5,12 @@
   "_native": "",
   "_skeletonJson": {
     "skeleton": {
-      "hash": "O/vqIKtC+PAnSksMzDCxY7rooew",
+      "hash": "wwRfiHiAQuWWdAVdjRyoFhzE6/s",
       "spine": "3.8.99",
-      "x": -162.64,
-      "y": -180.17,
-      "width": 327.88,
-      "height": 348.33,
-      "images": "./images/",
-      "audio": "D:/动画/通用动画/爆炸1/images"
+      "x": -157.95,
+      "y": -175.57,
+      "width": 320.05,
+      "height": 339.12
     },
     "bones": [
       {
@@ -91,6 +89,12 @@
         "parent": "root",
         "x": -56.5,
         "y": 117.38
+      },
+      {
+        "name": "boom1",
+        "parent": "root",
+        "x": -8.92,
+        "y": -8.42
       }
     ],
     "slots": [
@@ -143,346 +147,424 @@
         "name": "b_1",
         "bone": "b_1",
         "attachment": "b_1"
+      },
+      {
+        "name": "Beijibaozha_0001",
+        "bone": "boom1"
       }
     ],
     "skins": [
       {
         "name": "default",
         "attachments": {
+          "Beijibaozha_0001": {
+            "Beijibaozha_0001": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0002": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0003": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0004": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0005": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0006": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0007": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0008": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0009": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0010": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0011": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            },
+            "Beijibaozha_0012": {
+              "x": 8.92,
+              "y": 8.92,
+              "width": 178,
+              "height": 153
+            }
+          },
           "b_1": {
             "b_1": {
               "x": -2.01,
               "y": 6.19,
-              "width": 100,
-              "height": 119
+              "width": 90,
+              "height": 107
             },
             "b_2": {
               "x": 1.75,
               "y": 4.73,
-              "width": 136,
-              "height": 132
+              "width": 122,
+              "height": 119
             },
             "b_3": {
               "x": 5.24,
               "y": 2.56,
-              "width": 152,
-              "height": 148
+              "width": 137,
+              "height": 133
             },
             "b_4": {
               "x": 10.58,
               "y": 3.41,
-              "width": 160,
-              "height": 152
+              "width": 144,
+              "height": 137
             },
             "b_5": {
               "x": 8.52,
               "y": 1.58,
-              "width": 156,
-              "height": 152
+              "width": 140,
+              "height": 137
             },
             "b_6": {
               "x": 5.67,
               "y": 0.87,
-              "width": 140,
-              "height": 135
+              "width": 126,
+              "height": 122
             },
             "b_7": {
               "x": 9.01,
               "y": 0.5,
-              "width": 144,
-              "height": 129
+              "width": 130,
+              "height": 116
             },
             "b_8": {
               "x": -0.98,
               "y": 3.11,
-              "width": 133,
-              "height": 129
+              "width": 120,
+              "height": 116
             },
             "b_9": {
               "x": 2.6,
               "y": -1.26,
-              "width": 89,
-              "height": 120
+              "width": 80,
+              "height": 108
             }
           },
           "b_2": {
             "b_1": {
               "x": -2.01,
               "y": 6.19,
-              "width": 100,
-              "height": 119
+              "width": 90,
+              "height": 107
             },
             "b_2": {
               "x": 1.75,
               "y": 4.73,
-              "width": 136,
-              "height": 132
+              "width": 122,
+              "height": 119
             },
             "b_3": {
               "x": 5.24,
               "y": 2.56,
-              "width": 152,
-              "height": 148
+              "width": 137,
+              "height": 133
             },
             "b_4": {
               "x": 10.58,
               "y": 3.41,
-              "width": 160,
-              "height": 152
+              "width": 144,
+              "height": 137
             },
             "b_5": {
               "x": 8.52,
               "y": 1.58,
-              "width": 156,
-              "height": 152
+              "width": 140,
+              "height": 137
             },
             "b_6": {
               "x": 5.67,
               "y": 0.87,
-              "width": 140,
-              "height": 135
+              "width": 126,
+              "height": 122
             },
             "b_7": {
               "x": 9.01,
               "y": 0.5,
-              "width": 144,
-              "height": 129
+              "width": 130,
+              "height": 116
             },
             "b_8": {
               "x": -0.98,
               "y": 3.11,
-              "width": 133,
-              "height": 129
+              "width": 120,
+              "height": 116
             },
             "b_9": {
               "x": 2.6,
               "y": -1.26,
-              "width": 89,
-              "height": 120
+              "width": 80,
+              "height": 108
             }
           },
           "b_3": {
             "b_1": {
               "x": -2.01,
               "y": 6.19,
-              "width": 100,
-              "height": 119
+              "width": 90,
+              "height": 107
             },
             "b_2": {
               "x": 1.75,
               "y": 4.73,
-              "width": 136,
-              "height": 132
+              "width": 122,
+              "height": 119
             },
             "b_3": {
               "x": 5.24,
               "y": 2.56,
-              "width": 152,
-              "height": 148
+              "width": 137,
+              "height": 133
             },
             "b_4": {
               "x": 10.58,
               "y": 3.41,
-              "width": 160,
-              "height": 152
+              "width": 144,
+              "height": 137
             },
             "b_5": {
               "x": 8.52,
               "y": 1.58,
-              "width": 156,
-              "height": 152
+              "width": 140,
+              "height": 137
             },
             "b_6": {
               "x": 5.67,
               "y": 0.87,
-              "width": 140,
-              "height": 135
+              "width": 126,
+              "height": 122
             },
             "b_7": {
               "x": 9.01,
               "y": 0.5,
-              "width": 144,
-              "height": 129
+              "width": 130,
+              "height": 116
             },
             "b_8": {
               "x": -0.98,
               "y": 3.11,
-              "width": 133,
-              "height": 129
+              "width": 120,
+              "height": 116
             },
             "b_9": {
               "x": 2.6,
               "y": -1.26,
-              "width": 89,
-              "height": 120
+              "width": 80,
+              "height": 108
             }
           },
           "b_4": {
             "b_1": {
               "x": -2.01,
               "y": 6.19,
-              "width": 100,
-              "height": 119
+              "width": 90,
+              "height": 107
             },
             "b_2": {
               "x": 1.75,
               "y": 4.73,
-              "width": 136,
-              "height": 132
+              "width": 122,
+              "height": 119
             },
             "b_3": {
               "x": 5.24,
               "y": 2.56,
-              "width": 152,
-              "height": 148
+              "width": 137,
+              "height": 133
             },
             "b_4": {
               "x": 10.58,
               "y": 3.41,
-              "width": 160,
-              "height": 152
+              "width": 144,
+              "height": 137
             },
             "b_5": {
               "x": 8.52,
               "y": 1.58,
-              "width": 156,
-              "height": 152
+              "width": 140,
+              "height": 137
             },
             "b_6": {
               "x": 5.67,
               "y": 0.87,
-              "width": 140,
-              "height": 135
+              "width": 126,
+              "height": 122
             },
             "b_7": {
               "x": 9.01,
               "y": 0.5,
-              "width": 144,
-              "height": 129
+              "width": 130,
+              "height": 116
             },
             "b_8": {
               "x": -0.98,
               "y": 3.11,
-              "width": 133,
-              "height": 129
+              "width": 120,
+              "height": 116
             },
             "b_9": {
               "x": 2.6,
               "y": -1.26,
-              "width": 89,
-              "height": 120
+              "width": 80,
+              "height": 108
             }
           },
           "b_5": {
             "b_1": {
               "x": -2.01,
               "y": 6.19,
-              "width": 100,
-              "height": 119
+              "width": 90,
+              "height": 107
             },
             "b_2": {
               "x": 1.75,
               "y": 4.73,
-              "width": 136,
-              "height": 132
+              "width": 122,
+              "height": 119
             },
             "b_3": {
               "x": 5.24,
               "y": 2.56,
-              "width": 152,
-              "height": 148
+              "width": 137,
+              "height": 133
             },
             "b_4": {
               "x": 10.58,
               "y": 3.41,
-              "width": 160,
-              "height": 152
+              "width": 144,
+              "height": 137
             },
             "b_5": {
               "x": 8.52,
               "y": 1.58,
-              "width": 156,
-              "height": 152
+              "width": 140,
+              "height": 137
             },
             "b_6": {
               "x": 5.67,
               "y": 0.87,
-              "width": 140,
-              "height": 135
+              "width": 126,
+              "height": 122
             },
             "b_7": {
               "x": 9.01,
               "y": 0.5,
-              "width": 144,
-              "height": 129
+              "width": 130,
+              "height": 116
             },
             "b_8": {
               "x": -0.98,
               "y": 3.11,
-              "width": 133,
-              "height": 129
+              "width": 120,
+              "height": 116
             },
             "b_9": {
               "x": 2.6,
               "y": -1.26,
-              "width": 89,
-              "height": 120
+              "width": 80,
+              "height": 108
             }
           },
           "b_6": {
             "b_1": {
               "x": -2.01,
               "y": 6.19,
-              "width": 100,
-              "height": 119
+              "width": 90,
+              "height": 107
             },
             "b_2": {
               "x": 1.75,
               "y": 4.73,
-              "width": 136,
-              "height": 132
+              "width": 122,
+              "height": 119
             },
             "b_3": {
               "x": 5.24,
               "y": 2.56,
-              "width": 152,
-              "height": 148
+              "width": 137,
+              "height": 133
             },
             "b_4": {
               "x": 10.58,
               "y": 3.41,
-              "width": 160,
-              "height": 152
+              "width": 144,
+              "height": 137
             },
             "b_5": {
               "x": 8.52,
               "y": 1.58,
-              "width": 156,
-              "height": 152
+              "width": 140,
+              "height": 137
             },
             "b_6": {
               "x": 5.67,
               "y": 0.87,
-              "width": 140,
-              "height": 135
+              "width": 126,
+              "height": 122
             },
             "b_7": {
               "x": 9.01,
               "y": 0.5,
-              "width": 144,
-              "height": 129
+              "width": 130,
+              "height": 116
             },
             "b_8": {
               "x": -0.98,
               "y": 3.11,
-              "width": 133,
-              "height": 129
+              "width": 120,
+              "height": 116
             },
             "b_9": {
               "x": 2.6,
               "y": -1.26,
-              "width": 89,
-              "height": 120
+              "width": 80,
+              "height": 108
             }
           },
           "g": {
@@ -492,8 +574,8 @@
               "y": -3.53,
               "scaleX": 0.3863,
               "scaleY": 0.3863,
-              "width": 495,
-              "height": 499
+              "width": 446,
+              "height": 449
             }
           },
           "g2": {
@@ -503,8 +585,8 @@
               "y": -3.53,
               "scaleX": 0.3863,
               "scaleY": 0.3863,
-              "width": 495,
-              "height": 499
+              "width": 446,
+              "height": 449
             }
           },
           "g3": {
@@ -514,8 +596,8 @@
               "y": -3.53,
               "scaleX": 0.3863,
               "scaleY": 0.3863,
-              "width": 495,
-              "height": 499
+              "width": 446,
+              "height": 449
             }
           },
           "g4": {
@@ -525,8 +607,8 @@
               "y": -3.53,
               "scaleX": 0.3863,
               "scaleY": 0.3863,
-              "width": 495,
-              "height": 499
+              "width": 446,
+              "height": 449
             }
           }
         }
@@ -535,6 +617,61 @@
     "animations": {
       "animation": {
         "slots": {
+          "Beijibaozha_0001": {
+            "attachment": [
+              {
+                "name": "Beijibaozha_0001"
+              },
+              {
+                "time": 0.0333,
+                "name": "Beijibaozha_0002"
+              },
+              {
+                "time": 0.0667,
+                "name": "Beijibaozha_0003"
+              },
+              {
+                "time": 0.1,
+                "name": "Beijibaozha_0004"
+              },
+              {
+                "time": 0.1333,
+                "name": "Beijibaozha_0005"
+              },
+              {
+                "time": 0.1667,
+                "name": "Beijibaozha_0006"
+              },
+              {
+                "time": 0.2,
+                "name": "Beijibaozha_0007"
+              },
+              {
+                "time": 0.2333,
+                "name": "Beijibaozha_0008"
+              },
+              {
+                "time": 0.2667,
+                "name": "Beijibaozha_0009"
+              },
+              {
+                "time": 0.3,
+                "name": "Beijibaozha_0010"
+              },
+              {
+                "time": 0.3333,
+                "name": "Beijibaozha_0011"
+              },
+              {
+                "time": 0.3667,
+                "name": "Beijibaozha_0012"
+              },
+              {
+                "time": 0.4,
+                "name": null
+              }
+            ]
+          },
           "b_1": {
             "color": [
               {
@@ -1087,12 +1224,27 @@
                 "y": 2.531
               }
             ]
+          },
+          "boom1": {
+            "scale": [
+              {},
+              {
+                "time": 0.1,
+                "x": 1.837,
+                "y": 1.837
+              },
+              {
+                "time": 0.2,
+                "x": 2.588,
+                "y": 2.588
+              }
+            ]
           }
         }
       }
     }
   },
-  "_atlasText": "\r\nbaozha.png\r\nsize: 1024,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nb_1\r\n  rotate: false\r\n  xy: 710, 274\r\n  size: 90, 107\r\n  orig: 90, 107\r\n  offset: 0, 0\r\n  index: -1\r\nb_2\r\n  rotate: true\r\n  xy: 589, 259\r\n  size: 122, 119\r\n  orig: 122, 119\r\n  offset: 0, 0\r\n  index: -1\r\nb_3\r\n  rotate: true\r\n  xy: 450, 84\r\n  size: 137, 133\r\n  orig: 137, 133\r\n  offset: 0, 0\r\n  index: -1\r\nb_4\r\n  rotate: true\r\n  xy: 450, 365\r\n  size: 144, 137\r\n  orig: 144, 137\r\n  offset: 0, 0\r\n  index: -1\r\nb_5\r\n  rotate: true\r\n  xy: 450, 223\r\n  size: 140, 137\r\n  orig: 140, 137\r\n  offset: 0, 0\r\n  index: -1\r\nb_6\r\n  rotate: true\r\n  xy: 589, 383\r\n  size: 126, 122\r\n  orig: 126, 122\r\n  offset: 0, 0\r\n  index: -1\r\nb_7\r\n  rotate: true\r\n  xy: 585, 91\r\n  size: 130, 116\r\n  orig: 130, 116\r\n  offset: 0, 0\r\n  index: -1\r\nb_8\r\n  rotate: true\r\n  xy: 703, 137\r\n  size: 120, 116\r\n  orig: 120, 116\r\n  offset: 0, 0\r\n  index: -1\r\nb_9\r\n  rotate: true\r\n  xy: 450, 2\r\n  size: 80, 108\r\n  orig: 80, 108\r\n  offset: 0, 0\r\n  index: -1\r\ng\r\n  rotate: false\r\n  xy: 2, 60\r\n  size: 446, 449\r\n  orig: 446, 449\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nbaozha.png\nsize: 916,476\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nBeijibaozha_0001\n  rotate: false\n  xy: 699, 95\n  size: 57, 58\n  orig: 178, 153\n  offset: 52, 39\n  index: -1\nBeijibaozha_0002\n  rotate: true\n  xy: 837, 389\n  size: 85, 75\n  orig: 178, 153\n  offset: 40, 30\n  index: -1\nBeijibaozha_0003\n  rotate: true\n  xy: 465, 341\n  size: 133, 131\n  orig: 178, 153\n  offset: 24, 14\n  index: -1\nBeijibaozha_0004\n  rotate: true\n  xy: 317, 2\n  size: 146, 141\n  orig: 178, 153\n  offset: 19, 6\n  index: -1\nBeijibaozha_0005\n  rotate: true\n  xy: 327, 327\n  size: 147, 136\n  orig: 178, 153\n  offset: 18, 6\n  index: -1\nBeijibaozha_0006\n  rotate: false\n  xy: 2, 5\n  size: 154, 143\n  orig: 178, 153\n  offset: 12, 0\n  index: -1\nBeijibaozha_0007\n  rotate: false\n  xy: 158, 11\n  size: 157, 137\n  orig: 178, 153\n  offset: 12, 8\n  index: -1\nBeijibaozha_0008\n  rotate: true\n  xy: 327, 166\n  size: 159, 119\n  orig: 178, 153\n  offset: 11, 11\n  index: -1\nBeijibaozha_0009\n  rotate: true\n  xy: 448, 170\n  size: 155, 119\n  orig: 178, 153\n  offset: 11, 11\n  index: -1\nBeijibaozha_0010\n  rotate: true\n  xy: 460, 37\n  size: 131, 119\n  orig: 178, 153\n  offset: 17, 11\n  index: -1\nBeijibaozha_0011\n  rotate: false\n  xy: 798, 14\n  size: 82, 83\n  orig: 178, 153\n  offset: 49, 25\n  index: -1\nBeijibaozha_0012\n  rotate: true\n  xy: 699, 155\n  size: 64, 82\n  orig: 178, 153\n  offset: 61, 26\n  index: -1\nb_1\n  rotate: true\n  xy: 581, 2\n  size: 82, 105\n  orig: 90, 107\n  offset: 7, 1\n  index: -1\nb_2\n  rotate: true\n  xy: 813, 247\n  size: 104, 100\n  orig: 122, 119\n  offset: 10, 9\n  index: -1\nb_3\n  rotate: true\n  xy: 719, 353\n  size: 121, 116\n  orig: 137, 133\n  offset: 9, 9\n  index: -1\nb_4\n  rotate: true\n  xy: 598, 347\n  size: 127, 119\n  orig: 144, 137\n  offset: 8, 9\n  index: -1\nb_5\n  rotate: false\n  xy: 569, 216\n  size: 123, 123\n  orig: 140, 137\n  offset: 8, 7\n  index: -1\nb_6\n  rotate: true\n  xy: 694, 221\n  size: 124, 117\n  orig: 126, 122\n  offset: 0, 2\n  index: -1\nb_7\n  rotate: true\n  xy: 581, 86\n  size: 128, 116\n  orig: 130, 116\n  offset: 1, 0\n  index: -1\nb_8\n  rotate: true\n  xy: 798, 99\n  size: 120, 116\n  orig: 120, 116\n  offset: 0, 0\n  index: -1\nb_9\n  rotate: true\n  xy: 688, 5\n  size: 79, 108\n  orig: 80, 108\n  offset: 1, 0\n  index: -1\ng\n  rotate: false\n  xy: 2, 150\n  size: 323, 324\n  orig: 446, 449\n  offset: 63, 62\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "2f7a3ffd-1e99-4fca-970f-bd56aebbfcf1"

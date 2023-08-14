@@ -1,41 +1,90 @@
 
 zd.png
-size: 512,128
+size: 240,513
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-zd_1
-  rotate: false
-  xy: 326, 26
-  size: 87, 87
-  orig: 97, 97
-  offset: 5, 5
+effect/baodian01
+  rotate: true
+  xy: 2, 184
+  size: 95, 124
+  orig: 124, 124
+  offset: 20, 0
   index: -1
-zd_2
+effect/baodian02
   rotate: false
-  xy: 118, 8
-  size: 110, 105
-  orig: 122, 117
-  offset: 5, 5
+  xy: 2, 396
+  size: 124, 115
+  orig: 124, 124
+  offset: 0, 3
   index: -1
-zd_3
+effect/baodian03
+  rotate: false
+  xy: 2, 281
+  size: 124, 113
+  orig: 124, 124
+  offset: 0, 3
+  index: -1
+effect/baodian04
+  rotate: true
+  xy: 128, 388
+  size: 123, 110
+  orig: 124, 124
+  offset: 0, 5
+  index: -1
+effect/baodian05
+  rotate: true
+  xy: 128, 181
+  size: 118, 104
+  orig: 124, 124
+  offset: 2, 12
+  index: -1
+effect/baodian06
+  rotate: false
+  xy: 154, 40
+  size: 80, 58
+  orig: 124, 124
+  offset: 26, 29
+  index: -1
+effect/dian
+  rotate: false
+  xy: 196, 154
+  size: 25, 25
+  orig: 29, 29
+  offset: 2, 2
+  index: -1
+effect/kuosan01
+  rotate: false
+  xy: 108, 100
+  size: 86, 79
+  orig: 109, 85
+  offset: 9, 4
+  index: -1
+effect/kuosan02
   rotate: true
   xy: 2, 2
-  size: 111, 114
-  orig: 122, 127
-  offset: 5, 5
+  size: 96, 73
+  orig: 109, 85
+  offset: 2, 5
   index: -1
-zd_4
+effect/kuosan03
   rotate: false
-  xy: 230, 23
-  size: 94, 90
-  orig: 99, 100
-  offset: 4, 5
-  index: -1
-zd_5
-  rotate: true
-  xy: 415, 20
-  size: 93, 65
-  orig: 95, 66
+  xy: 2, 100
+  size: 104, 82
+  orig: 109, 85
   offset: 1, 1
+  index: -1
+effect/kuosan04
+  rotate: false
+  xy: 128, 301
+  size: 109, 85
+  orig: 109, 85
+  offset: 0, 0
+  index: -1
+effect/kuosan05
+  rotate: true
+  xy: 77, 8
+  size: 90, 75
+  orig: 109, 85
+  offset: 7, 2
   index: -1

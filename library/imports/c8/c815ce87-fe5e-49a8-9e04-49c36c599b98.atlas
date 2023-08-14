@@ -1,83 +1,83 @@
 
 cjj.png
-size: 1024,512
+size: 573,509
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 cjj_b1
   rotate: true
-  xy: 520, 34
-  size: 30, 101
+  xy: 2, 479
+  size: 28, 98
   orig: 33, 103
-  offset: 2, 1
+  offset: 3, 3
   index: -1
 cjj_b1_1
   rotate: true
-  xy: 520, 2
-  size: 30, 101
+  xy: 102, 479
+  size: 28, 99
   orig: 33, 103
-  offset: 2, 1
+  offset: 3, 2
   index: -1
 cjj_b2
   rotate: true
-  xy: 458, 153
-  size: 51, 147
+  xy: 203, 459
+  size: 48, 144
   orig: 54, 150
-  offset: 1, 2
+  offset: 3, 3
   index: -1
 cjj_b2_1
   rotate: true
-  xy: 371, 13
-  size: 51, 147
+  xy: 349, 459
+  size: 48, 145
   orig: 54, 150
-  offset: 1, 1
+  offset: 3, 2
   index: -1
 cjj_b3
   rotate: true
-  xy: 210, 136
-  size: 68, 246
+  xy: 248, 391
+  size: 66, 243
   orig: 71, 249
-  offset: 1, 1
+  offset: 2, 3
   index: -1
 cjj_b3_1
   rotate: true
-  xy: 371, 66
-  size: 68, 246
+  xy: 2, 392
+  size: 65, 244
   orig: 71, 249
-  offset: 1, 2
+  offset: 3, 3
   index: -1
 cjj_b4
   rotate: true
-  xy: 2, 16
-  size: 96, 367
+  xy: 2, 296
+  size: 93, 365
   orig: 99, 370
-  offset: 2, 1
+  offset: 3, 2
   index: -1
 cjj_b4_1
   rotate: true
-  xy: 210, 206
-  size: 96, 367
+  xy: 2, 201
+  size: 93, 365
   orig: 99, 370
-  offset: 2, 2
+  offset: 3, 3
   index: -1
 cjj_s
-  rotate: true
-  xy: 408, 304
-  size: 196, 195
+  rotate: false
+  xy: 369, 198
+  size: 192, 191
   orig: 198, 197
-  offset: 1, 1
+  offset: 3, 3
   index: -1
 cjj_sx
-  rotate: false
-  xy: 2, 114
-  size: 206, 386
+  rotate: true
+  xy: 195, 2
+  size: 194, 376
   orig: 231, 387
-  offset: 0, 0
+  offset: 0, 1
   index: -1
 cjj_x
   rotate: false
-  xy: 210, 304
-  size: 196, 196
+  xy: 2, 8
+  size: 191, 191
   orig: 198, 198
-  offset: 1, 1
+  offset: 3, 3
   index: -1

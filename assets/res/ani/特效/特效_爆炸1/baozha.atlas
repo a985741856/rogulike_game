@@ -1,76 +1,160 @@
 
 baozha.png
-size: 1024,512
+size: 916,476
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-b_1
+Beijibaozha_0001
   rotate: false
-  xy: 710, 274
-  size: 90, 107
+  xy: 699, 95
+  size: 57, 58
+  orig: 178, 153
+  offset: 52, 39
+  index: -1
+Beijibaozha_0002
+  rotate: true
+  xy: 837, 389
+  size: 85, 75
+  orig: 178, 153
+  offset: 40, 30
+  index: -1
+Beijibaozha_0003
+  rotate: true
+  xy: 465, 341
+  size: 133, 131
+  orig: 178, 153
+  offset: 24, 14
+  index: -1
+Beijibaozha_0004
+  rotate: true
+  xy: 317, 2
+  size: 146, 141
+  orig: 178, 153
+  offset: 19, 6
+  index: -1
+Beijibaozha_0005
+  rotate: true
+  xy: 327, 327
+  size: 147, 136
+  orig: 178, 153
+  offset: 18, 6
+  index: -1
+Beijibaozha_0006
+  rotate: false
+  xy: 2, 5
+  size: 154, 143
+  orig: 178, 153
+  offset: 12, 0
+  index: -1
+Beijibaozha_0007
+  rotate: false
+  xy: 158, 11
+  size: 157, 137
+  orig: 178, 153
+  offset: 12, 8
+  index: -1
+Beijibaozha_0008
+  rotate: true
+  xy: 327, 166
+  size: 159, 119
+  orig: 178, 153
+  offset: 11, 11
+  index: -1
+Beijibaozha_0009
+  rotate: true
+  xy: 448, 170
+  size: 155, 119
+  orig: 178, 153
+  offset: 11, 11
+  index: -1
+Beijibaozha_0010
+  rotate: true
+  xy: 460, 37
+  size: 131, 119
+  orig: 178, 153
+  offset: 17, 11
+  index: -1
+Beijibaozha_0011
+  rotate: false
+  xy: 798, 14
+  size: 82, 83
+  orig: 178, 153
+  offset: 49, 25
+  index: -1
+Beijibaozha_0012
+  rotate: true
+  xy: 699, 155
+  size: 64, 82
+  orig: 178, 153
+  offset: 61, 26
+  index: -1
+b_1
+  rotate: true
+  xy: 581, 2
+  size: 82, 105
   orig: 90, 107
-  offset: 0, 0
+  offset: 7, 1
   index: -1
 b_2
   rotate: true
-  xy: 589, 259
-  size: 122, 119
+  xy: 813, 247
+  size: 104, 100
   orig: 122, 119
-  offset: 0, 0
+  offset: 10, 9
   index: -1
 b_3
   rotate: true
-  xy: 450, 84
-  size: 137, 133
+  xy: 719, 353
+  size: 121, 116
   orig: 137, 133
-  offset: 0, 0
+  offset: 9, 9
   index: -1
 b_4
   rotate: true
-  xy: 450, 365
-  size: 144, 137
+  xy: 598, 347
+  size: 127, 119
   orig: 144, 137
-  offset: 0, 0
+  offset: 8, 9
   index: -1
 b_5
-  rotate: true
-  xy: 450, 223
-  size: 140, 137
+  rotate: false
+  xy: 569, 216
+  size: 123, 123
   orig: 140, 137
-  offset: 0, 0
+  offset: 8, 7
   index: -1
 b_6
   rotate: true
-  xy: 589, 383
-  size: 126, 122
+  xy: 694, 221
+  size: 124, 117
   orig: 126, 122
-  offset: 0, 0
+  offset: 0, 2
   index: -1
 b_7
   rotate: true
-  xy: 585, 91
-  size: 130, 116
+  xy: 581, 86
+  size: 128, 116
   orig: 130, 116
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 b_8
   rotate: true
-  xy: 703, 137
+  xy: 798, 99
   size: 120, 116
   orig: 120, 116
   offset: 0, 0
   index: -1
 b_9
   rotate: true
-  xy: 450, 2
-  size: 80, 108
+  xy: 688, 5
+  size: 79, 108
   orig: 80, 108
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 g
   rotate: false
-  xy: 2, 60
-  size: 446, 449
+  xy: 2, 150
+  size: 323, 324
   orig: 446, 449
-  offset: 0, 0
+  offset: 63, 62
   index: -1

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xhr_animation057",
+    "texture": "28d2a348-d1aa-4e4d-a9f2-a2189555fbd2",
+    "atlas": "cc002da0-2177-4b3a-a8b8-ca381960d82f",
+    "rect": [
+      1234,
+      238,
+      122,
+      52
+    ],
+    "offset": [
+      -5,
+      -9
+    ],
+    "originalSize": [
+      134,
+      70
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

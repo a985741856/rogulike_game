@@ -174,8 +174,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 278.62,
-      "height": 376.57
+      "width": 278.83,
+      "height": 399.31
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -226,7 +226,7 @@
     ],
     "paused": false,
     "defaultSkin": "default",
-    "defaultAnimation": "run",
+    "defaultAnimation": "idle",
     "_preCacheMode": 0,
     "_cacheMode": 0,
     "loop": true,
@@ -237,7 +237,7 @@
     "_frameCache": null,
     "_curFrame": null,
     "_skeletonCache": null,
-    "_animationName": "run",
+    "_animationName": "idle",
     "_animationQueue": [],
     "_headAniInfo": null,
     "_playTimes": 0,
@@ -328,7 +328,7 @@
     },
     "_size": {
       "__type__": "cc.Size",
-      "width": 100,
+      "width": 120,
       "height": 150
     },
     "_id": ""

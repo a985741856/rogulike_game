@@ -5,10 +5,8 @@
   "_native": "",
   "_skeletonJson": {
     "skeleton": {
-      "hash": "36/4vhVo1ZUx690V3l4VGY+KhQ0",
-      "spine": "3.8.99",
-      "images": "./images/",
-      "audio": "C:/Users/QianHu002/Desktop/动画/火线枪战躲猫猫/武器特效/ak攻击/images"
+      "hash": "X4BuJSv9bpyQYG3E+VwY6blCKNI",
+      "spine": "3.8.99"
     },
     "bones": [
       {
@@ -340,6 +338,24 @@
         },
         "bones": {
           "root": {
+            "translate": [
+              {},
+              {
+                "time": 0.3333,
+                "x": -8.63,
+                "y": -7.11
+              },
+              {
+                "time": 0.4,
+                "x": -17.55,
+                "y": -4.18
+              },
+              {
+                "time": 0.5,
+                "x": -19.28,
+                "y": -3.67
+              }
+            ],
             "scale": [
               {
                 "curve": 0.25,
@@ -394,11 +410,20 @@
               }
             ]
           }
+        },
+        "bones": {
+          "root": {
+            "scale": [
+              {
+                "x": 0.835
+              }
+            ]
+          }
         }
       }
     }
   },
-  "_atlasText": "\r\nak.png\r\nsize: 512,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nak_h1\r\n  rotate: false\r\n  xy: 83, 92\r\n  size: 76, 79\r\n  orig: 76, 79\r\n  offset: 0, 0\r\n  index: -1\r\nak_h10\r\n  rotate: false\r\n  xy: 161, 19\r\n  size: 57, 74\r\n  orig: 57, 74\r\n  offset: 0, 0\r\n  index: -1\r\nak_h11\r\n  rotate: false\r\n  xy: 236, 113\r\n  size: 57, 62\r\n  orig: 57, 62\r\n  offset: 0, 0\r\n  index: -1\r\nak_h2\r\n  rotate: false\r\n  xy: 143, 175\r\n  size: 73, 79\r\n  orig: 73, 79\r\n  offset: 0, 0\r\n  index: -1\r\nak_h3\r\n  rotate: false\r\n  xy: 2, 167\r\n  size: 61, 87\r\n  orig: 61, 87\r\n  offset: 0, 0\r\n  index: -1\r\nak_h4\r\n  rotate: false\r\n  xy: 2, 84\r\n  size: 79, 81\r\n  orig: 79, 81\r\n  offset: 0, 0\r\n  index: -1\r\nak_h5\r\n  rotate: false\r\n  xy: 65, 173\r\n  size: 76, 81\r\n  orig: 76, 81\r\n  offset: 0, 0\r\n  index: -1\r\nak_h6\r\n  rotate: false\r\n  xy: 82, 3\r\n  size: 77, 79\r\n  orig: 77, 79\r\n  offset: 0, 0\r\n  index: -1\r\nak_h7\r\n  rotate: false\r\n  xy: 218, 177\r\n  size: 75, 77\r\n  orig: 75, 77\r\n  offset: 0, 0\r\n  index: -1\r\nak_h8\r\n  rotate: true\r\n  xy: 2, 2\r\n  size: 80, 78\r\n  orig: 80, 78\r\n  offset: 0, 0\r\n  index: -1\r\nak_h9\r\n  rotate: false\r\n  xy: 220, 23\r\n  size: 58, 70\r\n  orig: 58, 70\r\n  offset: 0, 0\r\n  index: -1\r\nak_q1\r\n  rotate: true\r\n  xy: 280, 53\r\n  size: 58, 55\r\n  orig: 58, 55\r\n  offset: 0, 0\r\n  index: -1\r\nak_q2\r\n  rotate: false\r\n  xy: 161, 95\r\n  size: 73, 78\r\n  orig: 73, 78\r\n  offset: 0, 0\r\n  index: -1\r\nak_q3\r\n  rotate: false\r\n  xy: 280, 14\r\n  size: 33, 37\r\n  orig: 33, 37\r\n  offset: 0, 0\r\n  index: -1\r\nak_q4\r\n  rotate: false\r\n  xy: 295, 186\r\n  size: 23, 33\r\n  orig: 23, 33\r\n  offset: 0, 0\r\n  index: -1\r\nak_q5\r\n  rotate: false\r\n  xy: 315, 17\r\n  size: 34, 34\r\n  orig: 34, 34\r\n  offset: 0, 0\r\n  index: -1\r\nak_q6\r\n  rotate: false\r\n  xy: 295, 221\r\n  size: 31, 33\r\n  orig: 31, 33\r\n  offset: 0, 0\r\n  index: -1\r\nak_q7\r\n  rotate: true\r\n  xy: 295, 155\r\n  size: 29, 28\r\n  orig: 29, 28\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nak.png\nsize: 304,273\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nak_h1\n  rotate: false\n  xy: 163, 111\n  size: 75, 78\n  orig: 76, 79\n  offset: 0, 1\n  index: -1\nak_h10\n  rotate: false\n  xy: 240, 123\n  size: 57, 74\n  orig: 57, 74\n  offset: 0, 0\n  index: -1\nak_h11\n  rotate: false\n  xy: 244, 59\n  size: 57, 62\n  orig: 57, 62\n  offset: 0, 0\n  index: -1\nak_h2\n  rotate: false\n  xy: 2, 33\n  size: 73, 78\n  orig: 73, 79\n  offset: 0, 1\n  index: -1\nak_h3\n  rotate: true\n  xy: 157, 49\n  size: 60, 85\n  orig: 61, 87\n  offset: 0, 1\n  index: -1\nak_h4\n  rotate: true\n  xy: 2, 192\n  size: 79, 80\n  orig: 79, 81\n  offset: 0, 0\n  index: -1\nak_h5\n  rotate: true\n  xy: 81, 114\n  size: 75, 80\n  orig: 76, 81\n  offset: 0, 0\n  index: -1\nak_h6\n  rotate: false\n  xy: 2, 113\n  size: 77, 77\n  orig: 77, 79\n  offset: 0, 1\n  index: -1\nak_h7\n  rotate: false\n  xy: 81, 37\n  size: 74, 75\n  orig: 75, 77\n  offset: 0, 1\n  index: -1\nak_h8\n  rotate: true\n  xy: 84, 191\n  size: 80, 78\n  orig: 80, 78\n  offset: 0, 0\n  index: -1\nak_h9\n  rotate: false\n  xy: 244, 201\n  size: 58, 70\n  orig: 58, 70\n  offset: 0, 0\n  index: -1\nak_q1\n  rotate: false\n  xy: 244, 2\n  size: 58, 55\n  orig: 58, 55\n  offset: 0, 0\n  index: -1\nak_q2\n  rotate: true\n  xy: 164, 199\n  size: 72, 78\n  orig: 73, 78\n  offset: 0, 0\n  index: -1\nak_q3\n  rotate: true\n  xy: 193, 15\n  size: 32, 36\n  orig: 33, 37\n  offset: 0, 1\n  index: -1\nak_q4\n  rotate: true\n  xy: 2, 9\n  size: 22, 32\n  orig: 23, 33\n  offset: 0, 1\n  index: -1\nak_q5\n  rotate: false\n  xy: 157, 14\n  size: 34, 33\n  orig: 34, 34\n  offset: 0, 0\n  index: -1\nak_q6\n  rotate: true\n  xy: 77, 5\n  size: 30, 33\n  orig: 31, 33\n  offset: 0, 0\n  index: -1\nak_q7\n  rotate: false\n  xy: 112, 8\n  size: 28, 27\n  orig: 29, 28\n  offset: 0, 0\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "77d28905-b62e-48ba-9bf8-a2c2043ee8eb"

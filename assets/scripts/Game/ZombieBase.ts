@@ -64,6 +64,9 @@ export default class ZombieBase extends Person {
             this.node.scale = 1;
         } else {
             this.node.scale = 0.8;
+            if(this.isElite){
+                this.totleHp = this.node.scale * this.totleHp;
+            }
         }
         // 刚体
         this.rig = this.node.getComponent(cc.RigidBody);
@@ -1017,7 +1020,7 @@ export default class ZombieBase extends Person {
     
     /** 死亡 */
     death() {
-        if(this.isBoss && gameMgr.bossArr.length == 0 && gameMgr.Rein < 2 && cocosz.gameMode == 8){
+        if(this.isBoss && gameMgr.bossArr.length == 0 && gameMgr.Rein < 2 && cocosz.gameMode == 6){
             console.log('--------boss创建完了并且击毙--------巡回变成2');
             gameMgr.Rein = 2;
             gameMgr.boss2Arr = [];

@@ -84,6 +84,9 @@ var ZombieBase = /** @class */ (function (_super) {
         }
         else {
             this.node.scale = 0.8;
+            if (this.isElite) {
+                this.totleHp = this.node.scale * this.totleHp;
+            }
         }
         // 刚体
         this.rig = this.node.getComponent(cc.RigidBody);
@@ -1054,7 +1057,7 @@ var ZombieBase = /** @class */ (function (_super) {
     /** 死亡 */
     ZombieBase.prototype.death = function () {
         var _this = this;
-        if (this.isBoss && gameMgr_1.gameMgr.bossArr.length == 0 && gameMgr_1.gameMgr.Rein < 2 && CocosZ_1.cocosz.gameMode == 8) {
+        if (this.isBoss && gameMgr_1.gameMgr.bossArr.length == 0 && gameMgr_1.gameMgr.Rein < 2 && CocosZ_1.cocosz.gameMode == 6) {
             console.log('--------boss创建完了并且击毙--------巡回变成2');
             gameMgr_1.gameMgr.Rein = 2;
             gameMgr_1.gameMgr.boss2Arr = [];

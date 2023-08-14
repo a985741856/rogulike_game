@@ -5,47 +5,57 @@
   "_native": "",
   "_skeletonJson": {
     "skeleton": {
-      "hash": "+Er0udFy9mhMAh1LHIg8AHhs7U4",
+      "hash": "SYnCttUqJ6Uq76jh/nmQVML9Mr8",
       "spine": "3.8.99",
-      "x": -47,
-      "y": -50.52,
-      "width": 99,
-      "height": 94,
-      "images": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\激光击中特效\\images",
-      "audio": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\激光击中特效\\images"
+      "x": -57.9,
+      "y": -58.51,
+      "width": 118.8,
+      "height": 112.8
     },
     "bones": [
       {
         "name": "root"
+      },
+      {
+        "name": "66",
+        "parent": "root",
+        "scaleX": 0.6,
+        "scaleY": 0.6
       }
     ],
     "slots": [
       {
         "name": "jg_s2",
-        "bone": "root"
+        "bone": "66",
+        "blend": "additive"
       },
       {
         "name": "jg_s",
-        "bone": "root",
-        "attachment": "jg_s"
+        "bone": "66",
+        "attachment": "jg_s",
+        "blend": "additive"
       },
       {
         "name": "jg_w2",
-        "bone": "root"
+        "bone": "66",
+        "blend": "additive"
       },
       {
         "name": "jg_w",
-        "bone": "root",
-        "attachment": "jg_w"
+        "bone": "66",
+        "attachment": "jg_w",
+        "blend": "additive"
       },
       {
         "name": "jg_z2",
-        "bone": "root"
+        "bone": "66",
+        "blend": "additive"
       },
       {
         "name": "jg_z",
-        "bone": "root",
-        "attachment": "jg_z"
+        "bone": "66",
+        "attachment": "jg_z",
+        "blend": "additive"
       }
     ],
     "skins": [
@@ -56,42 +66,42 @@
             "jg_s": {
               "x": 2.5,
               "y": -2.02,
-              "width": 49,
-              "height": 61
+              "width": 120,
+              "height": 150
             },
             "jg_s2": {
               "x": 1.5,
               "y": -2.02,
-              "width": 61,
-              "height": 49
+              "width": 150,
+              "height": 128
             }
           },
           "jg_w": {
             "jg_w": {
               "x": 2.5,
               "y": -3.52,
-              "width": 99,
-              "height": 94
+              "width": 198,
+              "height": 188
             },
             "jg_w2": {
               "x": 1.5,
               "y": -3.52,
-              "width": 99,
-              "height": 94
+              "width": 198,
+              "height": 188
             }
           },
           "jg_z": {
             "jg_z": {
               "x": 1,
               "y": -1.52,
-              "width": 72,
-              "height": 76
+              "width": 144,
+              "height": 152
             },
             "jg_z2": {
               "x": -1,
               "y": -1.52,
-              "width": 72,
-              "height": 76
+              "width": 144,
+              "height": 152
             }
           }
         }
@@ -250,7 +260,7 @@
       }
     }
   },
-  "_atlasText": "\r\njgjz.png\r\nsize: 512,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\njg_s\r\n  rotate: true\r\n  xy: 182, 2\r\n  size: 49, 60\r\n  orig: 49, 61\r\n  offset: 0, 1\r\n  index: -1\r\njg_s2\r\n  rotate: false\r\n  xy: 244, 2\r\n  size: 60, 49\r\n  orig: 61, 49\r\n  offset: 1, 0\r\n  index: -1\r\njg_w\r\n  rotate: true\r\n  xy: 2, 24\r\n  size: 95, 88\r\n  orig: 99, 94\r\n  offset: 2, 3\r\n  index: -1\r\njg_w2\r\n  rotate: true\r\n  xy: 92, 24\r\n  size: 95, 88\r\n  orig: 99, 94\r\n  offset: 2, 3\r\n  index: -1\r\njg_z\r\n  rotate: false\r\n  xy: 182, 53\r\n  size: 63, 66\r\n  orig: 72, 76\r\n  offset: 4, 5\r\n  index: -1\r\njg_z2\r\n  rotate: false\r\n  xy: 247, 53\r\n  size: 63, 66\r\n  orig: 72, 76\r\n  offset: 5, 5\r\n  index: -1\r\n",
+  "_atlasText": "\njgjz.png\nsize: 482,301\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\njg_s\n  rotate: false\n  xy: 360, 155\n  size: 120, 144\n  orig: 120, 150\n  offset: 0, 4\n  index: -1\njg_s2\n  rotate: false\n  xy: 2, 2\n  size: 144, 124\n  orig: 150, 128\n  offset: 4, 2\n  index: -1\njg_w\n  rotate: false\n  xy: 2, 128\n  size: 183, 171\n  orig: 198, 188\n  offset: 8, 9\n  index: -1\njg_w2\n  rotate: true\n  xy: 187, 116\n  size: 183, 171\n  orig: 198, 188\n  offset: 7, 8\n  index: -1\njg_z\n  rotate: true\n  xy: 148, 6\n  size: 108, 114\n  orig: 144, 152\n  offset: 19, 20\n  index: -1\njg_z2\n  rotate: false\n  xy: 360, 38\n  size: 109, 115\n  orig: 144, 152\n  offset: 17, 19\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "991b8381-7497-487e-b456-fbc29ecf1af8"

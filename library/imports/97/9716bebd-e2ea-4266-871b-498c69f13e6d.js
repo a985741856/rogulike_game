@@ -348,7 +348,7 @@ var GameDate = /** @class */ (function () {
     };
     GameDate.SkinMess = {
         "1": {
-            name: "小黑人",
+            name: "子鼠",
             xuedi: 3,
             hp: [330, 350, 360, 370, 380, 400, 450],
             atk: [1, 2, 4, 6, 8, 9, 10],
@@ -357,7 +357,7 @@ var GameDate = /** @class */ (function () {
             price: 0
         },
         "2": {
-            name: "螺丝脑",
+            name: "丑牛",
             xuedi: 3,
             hp: [350, 370, 380, 390, 420, 430, 440],
             atk: [2, 4, 5, 6, 8, 10, 12],
@@ -366,7 +366,7 @@ var GameDate = /** @class */ (function () {
             price: 1000
         },
         "3": {
-            name: "蝙蝠头",
+            name: "寅虎",
             xuedi: 4,
             hp: [360, 370, 380, 390, 400, 420, 450],
             atk: [4, 6, 8, 10, 12, 14, 18],
@@ -375,7 +375,7 @@ var GameDate = /** @class */ (function () {
             price: 2500
         },
         "4": {
-            name: "铁盔头",
+            name: "卯兔",
             xuedi: 6,
             hp: [400, 420, 440, 460, 480, 500, 520],
             atk: [1, 2, 4, 6, 8, 10, 12],
@@ -385,7 +385,7 @@ var GameDate = /** @class */ (function () {
             // videoCount: 2
         },
         "5": {
-            name: "牛头",
+            name: "辰龙",
             xuedi: 5,
             hp: [366, 374, 382, 396, 420, 450, 480],
             atk: [3, 5, 7, 11, 14, 15, 18],
@@ -395,7 +395,7 @@ var GameDate = /** @class */ (function () {
             // videoCount: 1
         },
         "6": {
-            name: "骷髅头",
+            name: "巳蛇",
             xuedi: 4,
             hp: [363, 372, 384, 397, 420, 444, 453],
             atk: [1, 3, 7, 9, 11, 14, 16],
@@ -404,7 +404,7 @@ var GameDate = /** @class */ (function () {
             price: 300
         },
         "7": {
-            name: "海兵头",
+            name: "午马",
             xuedi: 4,
             hp: [363, 372, 386, 393, 424, 452, 463],
             atk: [2, 3, 6, 8, 11, 13, 14],
@@ -413,7 +413,7 @@ var GameDate = /** @class */ (function () {
             price: 2000
         },
         "8": {
-            name: "小女孩",
+            name: "未羊",
             xuedi: 4,
             hp: [362, 377, 386, 393, 429, 444, 458],
             atk: [1, 2, 4, 6, 8, 10, 12],
@@ -422,7 +422,7 @@ var GameDate = /** @class */ (function () {
             price: 2000
         },
         "9": {
-            name: "小盒子",
+            name: "申猴",
             xuedi: 4,
             hp: [364, 376, 387, 392, 421, 447, 463],
             atk: [1, 3, 6, 9, 12, 15, 16],
@@ -431,7 +431,7 @@ var GameDate = /** @class */ (function () {
             price: 250
         },
         "10": {
-            name: "小红帽",
+            name: "酉鸡",
             xuedi: 3,
             hp: [362, 373, 385, 396, 421, 456, 480],
             atk: [2, 5, 8, 12, 14, 15, 16],
@@ -440,7 +440,7 @@ var GameDate = /** @class */ (function () {
             price: 1500
         },
         "11": {
-            name: "拳皇",
+            name: "戌狗",
             xuedi: 5,
             hp: [368, 376, 384, 396, 425, 458, 468],
             atk: [1, 5, 8, 10, 15, 17, 20],
@@ -450,7 +450,7 @@ var GameDate = /** @class */ (function () {
             // videoCount: 1
         },
         "12": {
-            name: "灰胡子",
+            name: "亥猪",
             xuedi: 4,
             hp: [353, 372, 385, 403, 421, 444, 459],
             atk: [1, 2, 3, 5, 6, 9, 11],

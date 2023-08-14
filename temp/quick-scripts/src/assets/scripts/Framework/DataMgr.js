@@ -5,6 +5,7 @@ cc._RF.push(module, '0b76fObtN5FOKzSrvF3Frcp', 'DataMgr');
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var weapon_1 = require("../Game/weapon");
+var CocosZ_1 = require("./CocosZ");
 var Constant_1 = require("./Constant");
 /**
  * 数据管理类
@@ -30,9 +31,9 @@ var DataMgr = /** @class */ (function () {
         }
         else {
             // 初始金币
-            this._dataPool[Constant_1.default.ST_CoinCount] = "1000";
+            this._dataPool[Constant_1.default.ST_CoinCount] = "9000";
             // 初始钻石
-            this._dataPool[Constant_1.default.ST_DiamondCount] = "0";
+            this._dataPool[Constant_1.default.ST_DiamondCount] = "9000";
             // 初始钻石
             this._dataPool[Constant_1.default.ST_PhysicalCount] = "3";
             //初始化皮肤
@@ -411,7 +412,12 @@ var DataMgr = /** @class */ (function () {
         * 当前远程武器
         */
         get: function () {
-            return parseInt(this.getItem(Constant_1.default.ST_CurRangeId, "0"));
+            if (CocosZ_1.cocosz.gameMode == 6) {
+                return 0;
+            }
+            else {
+                return parseInt(this.getItem(Constant_1.default.ST_CurRangeId, "0"));
+            }
         },
         set: function (id) {
             if (id == this.CurRange || !weapon_1.default.rangeWeapon.includes(id + 1)) {

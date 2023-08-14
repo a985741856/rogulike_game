@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "helmethead_icon_bm",
+    "texture": "a662d40d-ce0f-4479-84d5-2711b8e0e686",
+    "atlas": "24cb7830-28dc-4bc3-ab34-f7d59921513a",
+    "rect": [
+      764,
+      718,
+      260,
+      235
+    ],
+    "offset": [
+      0,
+      8
+    ],
+    "originalSize": [
+      276,
+      287
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

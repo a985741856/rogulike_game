@@ -18,23 +18,23 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 510.1339416503906,
+                "height": 510.2410888671875,
                 "type": "panel",
-                "width": 410.02679443359375
+                "width": 295.9107360839844
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 558.1517944335938,
+                "height": 557.2589721679688,
                 "type": "panel",
-                "width": 410.02679443359375
+                "width": 295.9107360839844
               }
             ],
-            "height": 1071.2857666015625,
+            "height": 1070.5,
             "type": "dock-v",
-            "width": 410.02679443359375
+            "width": 295.9107360839844
           },
           {
             "children": [
@@ -43,25 +43,25 @@
                 "children": [
                   "scene"
                 ],
-                "height": 657.5625,
+                "height": 793.3750610351562,
                 "type": "panel",
-                "width": 1264.0804443359375
+                "width": 1577.509033203125
               },
               {
-                "active": 0,
+                "active": 1,
                 "children": [
                   "console",
                   "timeline",
                   "game-window"
                 ],
-                "height": 410.7232360839844,
+                "height": 274.125,
                 "type": "panel",
-                "width": 1264.0804443359375
+                "width": 1577.509033203125
               }
             ],
-            "height": 1071.2857666015625,
+            "height": 1070.5,
             "type": "dock-v",
-            "width": 1264.0804443359375
+            "width": 1577.509033203125
           },
           {
             "active": 0,
@@ -69,9 +69,9 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 1071.2857666015625,
+            "height": 1070.5,
             "type": "panel",
-            "width": 501.02679443359375
+            "width": 304
           }
         ],
         "type": "dock-h"
@@ -87,7 +87,6 @@
         "cocos-services"
       ]
     },
-    "window-1691745122090": {},
     "worker": {}
   },
   "panels": {

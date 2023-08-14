@@ -1,62 +1,62 @@
 
 ym.png
-size: 256,64
+size: 47,185
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 ym_1
-  rotate: false
-  xy: 88, 26
-  size: 55, 33
+  rotate: true
+  xy: 2, 33
+  size: 52, 31
   orig: 57, 35
-  offset: 0, 2
+  offset: 0, 1
   index: -1
 ym_2
-  rotate: true
-  xy: 144, 7
-  size: 17, 13
+  rotate: false
+  xy: 2, 2
+  size: 17, 12
   orig: 19, 14
   offset: 1, 1
   index: -1
 ym_3
-  rotate: false
-  xy: 125, 4
+  rotate: true
+  xy: 25, 9
   size: 17, 20
   orig: 18, 22
   offset: 1, 1
   index: -1
 ym_4
-  rotate: false
-  xy: 79, 3
-  size: 26, 10
+  rotate: true
+  xy: 35, 28
+  size: 24, 9
   orig: 26, 10
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 ym_5
-  rotate: true
-  xy: 107, 2
-  size: 22, 16
+  rotate: false
+  xy: 2, 16
+  size: 21, 15
   orig: 23, 17
-  offset: 0, 1
+  offset: 1, 1
   index: -1
 ym_6
-  rotate: false
-  xy: 43, 2
-  size: 34, 11
+  rotate: true
+  xy: 35, 54
+  size: 31, 9
   orig: 36, 12
-  offset: 1, 0
+  offset: 2, 1
   index: -1
 ym_7
   rotate: true
-  xy: 43, 15
+  xy: 2, 139
   size: 44, 43
   orig: 45, 45
-  offset: 0, 1
+  offset: 0, 2
   index: -1
 ym_8
   rotate: true
-  xy: 2, 7
-  size: 52, 39
+  xy: 2, 87
+  size: 50, 36
   orig: 54, 41
-  offset: 1, 1
+  offset: 0, 2
   index: -1

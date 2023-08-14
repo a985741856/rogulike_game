@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jio_daiji_black",
+    "texture": "28d2a348-d1aa-4e4d-a9f2-a2189555fbd2",
+    "atlas": "cc002da0-2177-4b3a-a8b8-ca381960d82f",
+    "rect": [
+      1067,
+      1172,
+      70,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

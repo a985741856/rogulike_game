@@ -5,18 +5,23 @@
   "_native": "",
   "_skeletonJson": {
     "skeleton": {
-      "hash": "jM+Llil6iyWfjL8ZUDPgekhVXQc",
+      "hash": "RVcN1myilpDm45RUivcyqWHpQ40",
       "spine": "3.8.99",
-      "x": -112.59,
-      "y": -133.11,
-      "width": 217,
-      "height": 221,
-      "images": "./images/",
-      "audio": "C:/Users/QianHu002/Desktop/动画/火线枪战躲猫猫/攻击特效/images"
+      "x": -101.59,
+      "y": -122.11,
+      "width": 195,
+      "height": 212.95
     },
     "bones": [
       {
         "name": "root"
+      },
+      {
+        "name": "gongji",
+        "parent": "root",
+        "rotation": 180,
+        "scaleX": 0.7764,
+        "scaleY": 0.7764
       }
     ],
     "slots": [
@@ -52,6 +57,11 @@
         "name": "w_1",
         "bone": "root",
         "attachment": "w_1"
+      },
+      {
+        "name": "zxdg_0",
+        "bone": "gongji",
+        "attachment": "zxdg_0"
       }
     ],
     "skins": [
@@ -62,50 +72,88 @@
             "w_1": {
               "x": -4.09,
               "y": -22.61,
-              "width": 217,
-              "height": 221
+              "width": 195,
+              "height": 199
             },
             "w_2": {
               "x": -24.59,
               "y": -1.11,
-              "width": 202,
-              "height": 230
+              "width": 182,
+              "height": 207
             },
             "w_3": {
               "x": -9.59,
               "y": 14.89,
-              "width": 232,
-              "height": 228
+              "width": 209,
+              "height": 205
             },
             "w_4": {
               "x": 6.91,
               "y": 32.89,
-              "width": 233,
-              "height": 192
+              "width": 210,
+              "height": 173
             },
             "w_5": {
               "x": 16.91,
               "y": 18.39,
-              "width": 213,
-              "height": 221
+              "width": 192,
+              "height": 199
             },
             "w_6": {
               "x": 50.41,
               "y": 16.39,
-              "width": 128,
-              "height": 217
+              "width": 115,
+              "height": 195
             },
             "w_7": {
               "x": 38.41,
               "y": -13.61,
-              "width": 206,
-              "height": 157
+              "width": 185,
+              "height": 141
             },
             "w_8": {
               "x": -15.09,
               "y": -65.11,
-              "width": 195,
-              "height": 96
+              "width": 176,
+              "height": 86
+            }
+          },
+          "zxdg_0": {
+            "zxdg_0": {
+              "x": 0.5,
+              "y": 0.5,
+              "width": 235,
+              "height": 235
+            },
+            "zxdg_1": {
+              "x": 0.5,
+              "y": 0.5,
+              "width": 235,
+              "height": 235
+            },
+            "zxdg_2": {
+              "x": 0.5,
+              "y": 0.5,
+              "width": 235,
+              "height": 235
+            },
+            "zxdg_3": {
+              "x": 0.5,
+              "y": 0.5,
+              "width": 235,
+              "height": 235
+            },
+            "zxdg_4": {
+              "x": 0.5,
+              "y": 0.5,
+              "width": 235,
+              "height": 235
+            },
+            "zxdg_5": {
+              "x": 0.5,
+              "y": 0.5,
+              "width": 235,
+              "height": 235
             }
           }
         }
@@ -167,12 +215,66 @@
                 "name": "w_8"
               }
             ]
+          },
+          "zxdg_0": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.0333,
+                "color": "ffffffff"
+              }
+            ],
+            "attachment": [
+              {
+                "time": 0.0667,
+                "name": "zxdg_1"
+              },
+              {
+                "time": 0.1333,
+                "name": "zxdg_2"
+              },
+              {
+                "time": 0.2,
+                "name": "zxdg_3"
+              },
+              {
+                "time": 0.2667,
+                "name": "zxdg_4"
+              },
+              {
+                "time": 0.3333,
+                "name": "zxdg_5"
+              },
+              {
+                "time": 0.4,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "gongji": {
+            "rotate": [
+              {},
+              {
+                "time": 0.3333,
+                "angle": -180
+              }
+            ],
+            "scale": [
+              {
+                "x": 1.137,
+                "y": 1.137
+              }
+            ]
           }
         }
       }
     }
   },
-  "_atlasText": "\r\nw.png\r\nsize: 2048,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nw_1\r\n  rotate: true\r\n  xy: 727, 18\r\n  size: 186, 176\r\n  orig: 195, 199\r\n  offset: 5, 11\r\n  index: -1\r\nw_2\r\n  rotate: false\r\n  xy: 556, 8\r\n  size: 169, 196\r\n  orig: 182, 207\r\n  offset: 6, 4\r\n  index: -1\r\nw_3\r\n  rotate: false\r\n  xy: 2, 7\r\n  size: 197, 197\r\n  orig: 209, 205\r\n  offset: 4, 3\r\n  index: -1\r\nw_4\r\n  rotate: true\r\n  xy: 384, 3\r\n  size: 201, 170\r\n  orig: 210, 173\r\n  offset: 4, 2\r\n  index: -1\r\nw_5\r\n  rotate: false\r\n  xy: 201, 14\r\n  size: 181, 190\r\n  orig: 192, 199\r\n  offset: 6, 6\r\n  index: -1\r\nw_6\r\n  rotate: false\r\n  xy: 905, 15\r\n  size: 108, 189\r\n  orig: 115, 195\r\n  offset: 5, 1\r\n  index: -1\r\nw_7\r\n  rotate: false\r\n  xy: 1015, 74\r\n  size: 126, 130\r\n  orig: 185, 141\r\n  offset: 31, 4\r\n  index: -1\r\nw_8\r\n  rotate: false\r\n  xy: 1015, 2\r\n  size: 166, 70\r\n  orig: 176, 86\r\n  offset: 5, 1\r\n  index: -1\r\n",
+  "_atlasText": "\nw.png\nsize: 848,653\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nw_1\n  rotate: true\n  xy: 440, 8\n  size: 170, 166\n  orig: 195, 199\n  offset: 12, 18\n  index: -1\nw_2\n  rotate: false\n  xy: 690, 461\n  size: 156, 190\n  orig: 182, 207\n  offset: 9, 9\n  index: -1\nw_3\n  rotate: true\n  xy: 170, 3\n  size: 174, 184\n  orig: 209, 205\n  offset: 9, 10\n  index: -1\nw_4\n  rotate: true\n  xy: 608, 12\n  size: 195, 160\n  orig: 210, 173\n  offset: 8, 8\n  index: -1\nw_5\n  rotate: false\n  xy: 2, 2\n  size: 166, 175\n  orig: 192, 199\n  offset: 16, 17\n  index: -1\nw_6\n  rotate: false\n  xy: 356, 4\n  size: 82, 174\n  orig: 115, 195\n  offset: 26, 9\n  index: -1\nw_7\n  rotate: true\n  xy: 474, 334\n  size: 89, 114\n  orig: 185, 141\n  offset: 61, 10\n  index: -1\nw_8\n  rotate: true\n  xy: 474, 199\n  size: 133, 43\n  orig: 176, 86\n  offset: 31, 5\n  index: -1\nzxdg_0\n  rotate: true\n  xy: 473, 425\n  size: 226, 215\n  orig: 235, 235\n  offset: 0, 20\n  index: -1\nzxdg_1\n  rotate: false\n  xy: 2, 416\n  size: 234, 235\n  orig: 235, 235\n  offset: 0, 0\n  index: -1\nzxdg_2\n  rotate: false\n  xy: 238, 180\n  size: 234, 234\n  orig: 235, 235\n  offset: 0, 0\n  index: -1\nzxdg_3\n  rotate: true\n  xy: 238, 416\n  size: 235, 233\n  orig: 235, 235\n  offset: 0, 0\n  index: -1\nzxdg_4\n  rotate: true\n  xy: 2, 179\n  size: 235, 234\n  orig: 235, 235\n  offset: 0, 0\n  index: -1\nzxdg_5\n  rotate: false\n  xy: 608, 209\n  size: 226, 214\n  orig: 235, 235\n  offset: 1, 8\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "5a644279-db29-423e-92aa-a732b952b929"

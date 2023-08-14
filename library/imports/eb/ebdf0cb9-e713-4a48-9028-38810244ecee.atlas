@@ -1,62 +1,90 @@
 
 lsq.png
-size: 1024,64
+size: 766, 179
 format: RGBA8888
-filter: Linear,Linear
+filter: Linear, Linear
 repeat: none
-ls_b1
+effect/liudong_01
   rotate: false
-  xy: 426, 36
-  size: 215, 18
-  orig: 215, 18
-  offset: 0, 0
+  xy: 575, 61
+  size: 188, 57
+  orig: 190, 57
+  offset: 2, 0
   index: -1
-lsg_b1
+effect/liudong_01a
   rotate: false
-  xy: 426, 36
-  size: 215, 18
-  orig: 215, 18
-  offset: 0, 0
+  xy: 575, 2
+  size: 188, 57
+  orig: 190, 57
+  offset: 2, 0
   index: -1
-ls_b2
+effect/liudong_02
   rotate: false
-  xy: 426, 16
-  size: 138, 18
-  orig: 138, 18
-  offset: 0, 0
+  xy: 2, 120
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
   index: -1
-lsg_b2
+effect/liudong_02a
   rotate: false
-  xy: 426, 16
-  size: 138, 18
-  orig: 138, 18
-  offset: 0, 0
+  xy: 2, 61
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
   index: -1
-ls_h1
+effect/liudong_03
+  rotate: false
+  xy: 193, 120
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
+  index: -1
+effect/liudong_03a
   rotate: false
   xy: 2, 2
-  size: 210, 52
-  orig: 210, 52
-  offset: 0, 0
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
   index: -1
-ls_h2
+effect/liudong_04
   rotate: false
-  xy: 643, 2
-  size: 132, 52
-  orig: 132, 52
-  offset: 0, 0
+  xy: 193, 61
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
   index: -1
-lsg_h1
+effect/liudong_04a
   rotate: false
-  xy: 214, 2
-  size: 210, 52
-  orig: 210, 52
-  offset: 0, 0
+  xy: 384, 120
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
   index: -1
-lsg_h2
+effect/liudong_05
   rotate: false
-  xy: 777, 2
-  size: 132, 52
-  orig: 132, 52
-  offset: 0, 0
+  xy: 193, 2
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
+  index: -1
+effect/liudong_05a
+  rotate: false
+  xy: 384, 61
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
+  index: -1
+effect/liudong_06
+  rotate: false
+  xy: 575, 120
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
+  index: -1
+effect/liudong_06a
+  rotate: false
+  xy: 384, 2
+  size: 189, 57
+  orig: 190, 57
+  offset: 1, 0
   index: -1

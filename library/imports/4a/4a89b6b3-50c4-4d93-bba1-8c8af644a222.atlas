@@ -1,62 +1,62 @@
 
 sd.png
-size: 1024,1024
+size: 786,648
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 sd_1
-  rotate: false
-  xy: 848, 113
-  size: 112, 110
+  rotate: true
+  xy: 617, 2
+  size: 111, 109
   orig: 112, 110
-  offset: 0, 0
+  offset: 0, 1
   index: -1
 sd_2
-  rotate: false
-  xy: 619, 68
+  rotate: true
+  xy: 617, 115
   size: 227, 155
   orig: 227, 155
   offset: 0, 0
   index: -1
 sd_3
   rotate: false
-  xy: 356, 277
+  xy: 2, 15
   size: 336, 277
   orig: 336, 277
   offset: 0, 0
   index: -1
 sd_4
-  rotate: false
-  xy: 2, 279
+  rotate: true
+  xy: 2, 294
   size: 352, 275
   orig: 352, 275
   offset: 0, 0
   index: -1
 sd_5
   rotate: true
-  xy: 694, 225
+  xy: 279, 317
   size: 329, 259
   orig: 329, 259
   offset: 0, 0
   index: -1
 sd_6
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 340, 4
   size: 311, 275
   orig: 311, 275
   offset: 0, 0
   index: -1
 sd_7
-  rotate: true
-  xy: 343, 31
+  rotate: false
+  xy: 540, 372
   size: 244, 274
   orig: 244, 274
   offset: 0, 0
   index: -1
 sd_zd
-  rotate: true
-  xy: 315, 60
-  size: 217, 26
-  orig: 217, 26
-  offset: 0, 0
+  rotate: false
+  xy: 540, 344
+  size: 238, 26
+  orig: 259, 30
+  offset: 0, 2
   index: -1

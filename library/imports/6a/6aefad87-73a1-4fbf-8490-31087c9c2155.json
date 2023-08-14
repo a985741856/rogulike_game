@@ -5,64 +5,78 @@
   "_native": "",
   "_skeletonJson": {
     "skeleton": {
-      "hash": "Bk282DgbdUI6HzIzem/5nqJ7hRI",
-      "spine": "3.8.99",
-      "images": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\血3\\images",
-      "audio": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\血3\\images"
+      "hash": "yWdEB4lwQzl9xUYmchm4t45Tcmg",
+      "spine": "3.8.99"
     },
     "bones": [
       {
         "name": "root"
+      },
+      {
+        "name": "xxx",
+        "parent": "root",
+        "scaleX": 0.3832,
+        "scaleY": 0.3832
       }
     ],
     "slots": [
       {
-        "name": "4",
-        "bone": "root"
-      },
-      {
-        "name": "3",
-        "bone": "root"
-      },
-      {
-        "name": "2",
-        "bone": "root"
-      },
-      {
-        "name": "1",
-        "bone": "root"
+        "name": "xue_0",
+        "bone": "xxx"
       }
     ],
     "skins": [
       {
         "name": "default",
         "attachments": {
-          "1": {
-            "1": {
-              "x": 4.75,
-              "y": 6,
-              "width": 32,
-              "height": 35
+          "xue_0": {
+            "xue_0": {
+              "width": 200,
+              "height": 200
             },
-            "3": {
-              "x": -2.75,
-              "y": -0.5,
-              "width": 35,
-              "height": 38
+            "xue_1": {
+              "width": 200,
+              "height": 200
             },
-            "4": {
-              "x": 5.75,
-              "y": -5,
-              "width": 100,
-              "height": 67
-            }
-          },
-          "2": {
-            "2": {
-              "x": 6.25,
-              "y": -0.5,
-              "width": 69,
-              "height": 42
+            "xue_2": {
+              "width": 200,
+              "height": 200
+            },
+            "xue_3": {
+              "width": 200,
+              "height": 200
+            },
+            "xue_4": {
+              "width": 200,
+              "height": 200
+            },
+            "xue_5": {
+              "width": 200,
+              "height": 200
+            },
+            "xue_6": {
+              "width": 200,
+              "height": 200
+            },
+            "xue_7": {
+              "width": 200,
+              "height": 200
+            },
+            "xue_8": {
+              "width": 200,
+              "height": 200
+            },
+            "xue_9": {
+              "width": 200,
+              "height": 200
+            },
+            "xue_10": {
+              "width": 200,
+              "height": 200
+            },
+            "xue_11": {
+              "width": 200,
+              "height": 200
             }
           }
         }
@@ -71,51 +85,58 @@
     "animations": {
       "animation": {
         "slots": {
-          "1": {
+          "xue_0": {
             "attachment": [
               {
-                "name": "1"
+                "name": "xue_2"
+              },
+              {
+                "time": 0.0333,
+                "name": "xue_3"
+              },
+              {
+                "time": 0.0667,
+                "name": "xue_4"
               },
               {
                 "time": 0.1,
-                "name": "3"
+                "name": "xue_5"
+              },
+              {
+                "time": 0.1333,
+                "name": "xue_6"
+              },
+              {
+                "time": 0.1667,
+                "name": "xue_7"
               },
               {
                 "time": 0.2,
-                "name": "4"
+                "name": "xue_8"
+              },
+              {
+                "time": 0.2333,
+                "name": "xue_9"
+              },
+              {
+                "time": 0.2667,
+                "name": "xue_10"
               },
               {
                 "time": 0.3,
-                "name": null
-              }
-            ]
-          },
-          "2": {
-            "attachment": [
-              {
-                "time": 0.1,
-                "name": "2"
-              },
-              {
-                "time": 0.2,
-                "name": null
+                "name": "xue_11"
               }
             ]
           }
         },
         "bones": {
-          "root": {
+          "xxx": {
             "scale": [
+              {},
               {
-                "x": 0.815,
-                "y": 0.815,
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 0.3,
-                "x": 1.293,
-                "y": 1.293
+                "time": 0.0667,
+                "x": 1.441,
+                "y": 1.441
               }
             ]
           }
@@ -123,7 +144,7 @@
       }
     }
   },
-  "_atlasText": "\r\nx3.png\r\nsize: 64,32\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n1\r\n  rotate: true\r\n  xy: 49, 2\r\n  size: 10, 11\r\n  orig: 10, 11\r\n  offset: 0, 0\r\n  index: -1\r\n2\r\n  rotate: true\r\n  xy: 2, 4\r\n  size: 21, 13\r\n  orig: 21, 13\r\n  offset: 0, 0\r\n  index: -1\r\n3\r\n  rotate: false\r\n  xy: 49, 14\r\n  size: 11, 11\r\n  orig: 11, 11\r\n  offset: 0, 0\r\n  index: -1\r\n4\r\n  rotate: false\r\n  xy: 17, 5\r\n  size: 30, 20\r\n  orig: 30, 20\r\n  offset: 0, 0\r\n  index: -1\r\n",
+  "_atlasText": "\nx3.png\nsize: 481,466\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nxue_0\n  rotate: false\n  xy: 160, 305\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\nxue_1\n  rotate: false\n  xy: 160, 305\n  size: 1, 1\n  orig: 1, 1\n  offset: 0, 0\n  index: -1\nxue_10\n  rotate: true\n  xy: 163, 305\n  size: 159, 156\n  orig: 200, 200\n  offset: 18, 22\n  index: -1\nxue_11\n  rotate: true\n  xy: 2, 147\n  size: 159, 156\n  orig: 200, 200\n  offset: 18, 22\n  index: -1\nxue_2\n  rotate: true\n  xy: 389, 46\n  size: 97, 90\n  orig: 200, 200\n  offset: 53, 57\n  index: -1\nxue_3\n  rotate: false\n  xy: 277, 36\n  size: 110, 107\n  orig: 200, 200\n  offset: 47, 51\n  index: -1\nxue_4\n  rotate: false\n  xy: 151, 15\n  size: 124, 130\n  orig: 200, 200\n  offset: 38, 37\n  index: -1\nxue_5\n  rotate: false\n  xy: 2, 2\n  size: 147, 143\n  orig: 200, 200\n  offset: 23, 29\n  index: -1\nxue_6\n  rotate: false\n  xy: 321, 315\n  size: 152, 149\n  orig: 200, 200\n  offset: 20, 26\n  index: -1\nxue_7\n  rotate: true\n  xy: 319, 145\n  size: 158, 154\n  orig: 200, 200\n  offset: 18, 23\n  index: -1\nxue_8\n  rotate: false\n  xy: 160, 147\n  size: 157, 156\n  orig: 200, 200\n  offset: 19, 22\n  index: -1\nxue_9\n  rotate: false\n  xy: 2, 308\n  size: 159, 156\n  orig: 200, 200\n  offset: 18, 22\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "196f4920-8e51-43fe-8589-830c7c27c2fb"

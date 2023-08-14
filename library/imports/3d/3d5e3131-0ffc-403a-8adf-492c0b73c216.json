@@ -5,14 +5,12 @@
   "_native": "",
   "_skeletonJson": {
     "skeleton": {
-      "hash": "X6deMDywCqUfSq1F29L01cbeBbc",
+      "hash": "mH6o3ggGxRzGuQtHj9weaxv916g",
       "spine": "3.8.99",
       "x": -25.52,
       "y": -2.31,
       "width": 47,
-      "height": 51,
-      "images": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\击中障碍物效果\\images",
-      "audio": "C:\\Users\\QianHu002\\Desktop\\动画\\火线枪战躲猫猫\\击中障碍物效果\\images"
+      "height": 51
     },
     "bones": [
       {
@@ -87,24 +85,30 @@
             "k1": {
               "x": 0.26,
               "y": -0.52,
-              "width": 8,
-              "height": 7
+              "scaleX": 0.0844,
+              "scaleY": 0.0844,
+              "width": 66,
+              "height": 71
             }
           },
           "k2": {
             "k2": {
               "x": 0.32,
               "y": -0.32,
-              "width": 11,
-              "height": 9
+              "scaleX": 0.0844,
+              "scaleY": 0.0844,
+              "width": 173,
+              "height": 179
             }
           },
           "k3": {
             "k3": {
               "x": 0.56,
               "y": -1.28,
-              "width": 19,
-              "height": 17
+              "scaleX": 0.0844,
+              "scaleY": 0.0844,
+              "width": 261,
+              "height": 221
             }
           },
           "y1": {
@@ -248,7 +252,7 @@
           }
         },
         "bones": {
-          "k3": {
+          "k5": {
             "scale": [
               {
                 "x": -0.026,
@@ -274,7 +278,7 @@
               }
             ]
           },
-          "k5": {
+          "k3": {
             "scale": [
               {
                 "x": -0.026,
@@ -304,7 +308,7 @@
       }
     }
   },
-  "_atlasText": "\r\njzzaw.png\r\nsize: 128,128\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\nk1\r\n  rotate: false\r\n  xy: 2, 80\r\n  size: 8, 7\r\n  orig: 8, 7\r\n  offset: 0, 0\r\n  index: -1\r\nk2\r\n  rotate: false\r\n  xy: 12, 78\r\n  size: 11, 9\r\n  orig: 11, 9\r\n  offset: 0, 0\r\n  index: -1\r\nk3\r\n  rotate: false\r\n  xy: 25, 70\r\n  size: 19, 17\r\n  orig: 19, 17\r\n  offset: 0, 0\r\n  index: -1\r\ny1\r\n  rotate: false\r\n  xy: 2, 25\r\n  size: 41, 43\r\n  orig: 42, 43\r\n  offset: 1, 0\r\n  index: -1\r\ny2\r\n  rotate: true\r\n  xy: 45, 2\r\n  size: 43, 49\r\n  orig: 46, 51\r\n  offset: 1, 0\r\n  index: -1\r\ny3\r\n  rotate: true\r\n  xy: 46, 47\r\n  size: 40, 43\r\n  orig: 43, 43\r\n  offset: 1, 0\r\n  index: -1\r\n",
+  "_atlasText": "\njzzaw.png\nsize: 472,208\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nk1\n  rotate: false\n  xy: 404, 139\n  size: 66, 67\n  orig: 66, 71\n  offset: 0, 2\n  index: -1\nk2\n  rotate: false\n  xy: 246, 51\n  size: 156, 155\n  orig: 173, 179\n  offset: 9, 11\n  index: -1\nk3\n  rotate: false\n  xy: 2, 2\n  size: 242, 204\n  orig: 261, 221\n  offset: 1, 9\n  index: -1\ny1\n  rotate: false\n  xy: 404, 94\n  size: 41, 43\n  orig: 42, 43\n  offset: 1, 0\n  index: -1\ny2\n  rotate: true\n  xy: 246, 9\n  size: 40, 48\n  orig: 46, 51\n  offset: 3, 0\n  index: -1\ny3\n  rotate: true\n  xy: 296, 11\n  size: 38, 41\n  orig: 43, 43\n  offset: 2, 1\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "3510717e-b76e-44f8-84f4-384ce6b42c2c"

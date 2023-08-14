@@ -1,27 +1,27 @@
 
 bs.png
-size: 512,256
+size: 317,195
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bs_xy
   rotate: false
-  xy: 2, 161
+  xy: 195, 35
   size: 36, 36
   orig: 36, 36
   offset: 0, 0
   index: -1
 bs_y1
   rotate: false
-  xy: 40, 73
-  size: 124, 124
+  xy: 195, 73
+  size: 120, 120
   orig: 126, 126
-  offset: 1, 1
+  offset: 3, 3
   index: -1
 bs_y2
   rotate: false
-  xy: 166, 2
-  size: 195, 195
+  xy: 2, 2
+  size: 191, 191
   orig: 195, 195
-  offset: 0, 0
+  offset: 2, 2
   index: -1

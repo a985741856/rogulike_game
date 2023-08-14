@@ -1,153 +1,153 @@
 
 hqq.png
-size: 1024,128
+size: 544,136
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 h_hqq_d1
   rotate: false
-  xy: 18, 20
+  xy: 536, 68
   size: 4, 4
   orig: 5, 6
   offset: 1, 1
   index: -1
 h_hqq_d2
   rotate: false
-  xy: 2, 32
-  size: 8, 8
+  xy: 536, 128
+  size: 6, 6
   orig: 8, 8
-  offset: 0, 0
+  offset: 1, 1
   index: -1
 h_hqq_d3
   rotate: false
-  xy: 20, 36
-  size: 4, 4
+  xy: 536, 44
+  size: 3, 4
   orig: 5, 6
-  offset: 0, 1
+  offset: 1, 1
   index: -1
 h_hqq_d4
   rotate: false
-  xy: 2, 14
-  size: 6, 6
+  xy: 536, 112
+  size: 5, 6
   orig: 6, 6
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 h_hqq_d5
   rotate: false
-  xy: 2, 6
-  size: 6, 6
+  xy: 536, 104
+  size: 5, 6
   orig: 6, 6
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 h_hqq_d6
   rotate: false
-  xy: 24, 24
-  size: 3, 4
+  xy: 536, 33
+  size: 3, 3
   orig: 4, 4
-  offset: 0, 0
+  offset: 0, 1
   index: -1
 h_hqq_d7
   rotate: false
-  xy: 20, 30
+  xy: 536, 62
   size: 4, 4
   orig: 5, 6
   offset: 0, 1
   index: -1
 h_hqq_d8
   rotate: false
-  xy: 10, 14
-  size: 6, 6
+  xy: 536, 81
+  size: 5, 5
   orig: 6, 6
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 h_hqq_di
   rotate: false
-  xy: 295, 10
+  xy: 2, 14
   size: 123, 39
   orig: 123, 39
   offset: 0, 0
   index: -1
 h_hqq_g
   rotate: false
-  xy: 295, 51
-  size: 271, 75
+  xy: 285, 69
+  size: 249, 65
   orig: 278, 78
-  offset: 3, 0
+  offset: 14, 0
   index: -1
 hqq_d1
   rotate: false
-  xy: 18, 14
+  xy: 536, 56
   size: 4, 4
   orig: 5, 6
   offset: 1, 1
   index: -1
 hqq_d2
   rotate: false
-  xy: 2, 22
-  size: 8, 8
+  xy: 536, 120
+  size: 6, 6
   orig: 8, 8
-  offset: 0, 0
+  offset: 1, 1
   index: -1
 hqq_d3
   rotate: false
-  xy: 18, 8
-  size: 4, 4
+  xy: 536, 38
+  size: 3, 4
   orig: 5, 6
-  offset: 0, 1
+  offset: 1, 1
   index: -1
 hqq_d4
   rotate: false
-  xy: 10, 6
-  size: 6, 6
+  xy: 536, 96
+  size: 5, 6
   orig: 6, 6
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 hqq_d5
   rotate: false
-  xy: 12, 34
-  size: 6, 6
+  xy: 536, 88
+  size: 5, 6
   orig: 6, 6
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 hqq_d6
   rotate: false
-  xy: 26, 36
-  size: 3, 4
+  xy: 536, 28
+  size: 3, 3
   orig: 4, 4
-  offset: 0, 0
+  offset: 0, 1
   index: -1
 hqq_d7
   rotate: false
-  xy: 18, 2
+  xy: 536, 50
   size: 4, 4
   orig: 5, 6
   offset: 0, 1
   index: -1
 hqq_d8
   rotate: false
-  xy: 12, 26
-  size: 6, 6
+  xy: 536, 74
+  size: 5, 5
   orig: 6, 6
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 hqq_di
   rotate: false
-  xy: 420, 10
+  xy: 127, 14
   size: 123, 39
   orig: 123, 39
   offset: 0, 0
   index: -1
 hqq_g
   rotate: false
-  xy: 568, 51
-  size: 271, 75
+  xy: 285, 2
+  size: 249, 65
   orig: 278, 78
-  offset: 3, 0
+  offset: 14, 0
   index: -1
 hqq_xt
   rotate: false
-  xy: 2, 42
-  size: 291, 84
+  xy: 2, 55
+  size: 281, 79
   orig: 295, 85
-  offset: 2, 0
+  offset: 7, 0
   index: -1

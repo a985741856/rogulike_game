@@ -5,14 +5,12 @@
   "_native": "",
   "_skeletonJson": {
     "skeleton": {
-      "hash": "WtcO22vumg1etXlK7lNHOI4uohk",
+      "hash": "oIcv6Y7FVPDUuhhp80ImBG7iO6o",
       "spine": "3.8.99",
       "x": -1.86,
       "y": -200.33,
       "width": 264,
-      "height": 400,
-      "images": "./images/",
-      "audio": "C:/Users/QianHu002/Desktop/动画/火线枪战躲猫猫/武器特效/cjj攻击/images"
+      "height": 400
     },
     "bones": [
       {
@@ -72,53 +70,64 @@
       {
         "name": "cjj_sx",
         "bone": "cjj_sx",
-        "attachment": "cjj_sx"
+        "attachment": "cjj_sx",
+        "blend": "additive"
       },
       {
         "name": "cjj_b4",
         "bone": "cjj_b4",
-        "attachment": "cjj_b4"
+        "attachment": "cjj_b4",
+        "blend": "additive"
       },
       {
         "name": "cjj_b4_1",
-        "bone": "root"
+        "bone": "root",
+        "blend": "additive"
       },
       {
         "name": "cjj_b3",
         "bone": "cjj_b3",
-        "attachment": "cjj_b3"
+        "attachment": "cjj_b3",
+        "blend": "additive"
       },
       {
         "name": "cjj_b3_1",
-        "bone": "root"
+        "bone": "root",
+        "blend": "additive"
       },
       {
         "name": "cjj_b2",
         "bone": "cjj_b5",
-        "attachment": "cjj_b2"
+        "attachment": "cjj_b2",
+        "blend": "additive"
       },
       {
         "name": "cjj_b2_1",
-        "bone": "root"
+        "bone": "root",
+        "blend": "additive"
       },
       {
         "name": "cjj_b1",
         "bone": "cjj_b6",
-        "attachment": "cjj_b1"
+        "attachment": "cjj_b1",
+        "blend": "additive"
       },
       {
         "name": "cjj_b1_1",
-        "bone": "root"
+        "bone": "root",
+        "blend": "additive"
       },
       {
         "name": "cjj_s",
         "bone": "cjj_s",
-        "attachment": "cjj_s"
+        "attachment": "cjj_s",
+        "blend": "additive"
       },
       {
         "name": "cjj_x",
         "bone": "cjj_x",
-        "attachment": "cjj_x"
+        "attachment": "cjj_x",
+        "blend": "additive"
       }
     ],
     "skins": [
@@ -383,55 +392,6 @@
           }
         },
         "bones": {
-          "cjj_b1": {
-            "translate": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 0.2667,
-                "x": 19.69
-              }
-            ],
-            "scale": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 0.2667,
-                "x": 1.446,
-                "y": 1.446
-              }
-            ]
-          },
-          "cjj_x": {
-            "translate": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 0.2667,
-                "x": 102.98,
-                "y": -102.73
-              }
-            ]
-          },
-          "cjj_s": {
-            "translate": [
-              {
-                "curve": 0.25,
-                "c3": 0.75
-              },
-              {
-                "time": 0.2667,
-                "x": 101.27,
-                "y": 102.26
-              }
-            ]
-          },
           "cjj_b6": {
             "translate": [
               {
@@ -454,27 +414,27 @@
               }
             ]
           },
-          "cjj_b4": {
+          "cjj_b5": {
             "translate": [
               {
-                "time": 0.3,
+                "time": 0.1,
                 "curve": 0.25,
                 "c3": 0.75
               },
               {
-                "time": 0.4,
-                "x": 63.46
+                "time": 0.2,
+                "x": 49.82
               }
             ],
             "scale": [
               {
-                "time": 0.3,
+                "time": 0.1,
                 "curve": 0.25,
                 "c3": 0.75
               },
               {
-                "time": 0.4,
-                "y": 1.155
+                "time": 0.2,
+                "y": 1.607
               }
             ]
           },
@@ -502,27 +462,76 @@
               }
             ]
           },
-          "cjj_b5": {
+          "cjj_b4": {
             "translate": [
               {
-                "time": 0.1,
+                "time": 0.3,
                 "curve": 0.25,
                 "c3": 0.75
               },
               {
-                "time": 0.2,
-                "x": 49.82
+                "time": 0.4,
+                "x": 63.46
               }
             ],
             "scale": [
               {
-                "time": 0.1,
+                "time": 0.3,
                 "curve": 0.25,
                 "c3": 0.75
               },
               {
-                "time": 0.2,
-                "y": 1.607
+                "time": 0.4,
+                "y": 1.155
+              }
+            ]
+          },
+          "cjj_s": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2667,
+                "x": 101.27,
+                "y": 102.26
+              }
+            ]
+          },
+          "cjj_x": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2667,
+                "x": 102.98,
+                "y": -102.73
+              }
+            ]
+          },
+          "cjj_b1": {
+            "translate": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2667,
+                "x": 19.69
+              }
+            ],
+            "scale": [
+              {
+                "curve": 0.25,
+                "c3": 0.75
+              },
+              {
+                "time": 0.2667,
+                "x": 1.446,
+                "y": 1.446
               }
             ]
           }
@@ -530,7 +539,7 @@
       }
     }
   },
-  "_atlasText": "\r\ncjj.png\r\nsize: 1024,512\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\ncjj_b1\r\n  rotate: true\r\n  xy: 520, 34\r\n  size: 30, 101\r\n  orig: 33, 103\r\n  offset: 2, 1\r\n  index: -1\r\ncjj_b1_1\r\n  rotate: true\r\n  xy: 520, 2\r\n  size: 30, 101\r\n  orig: 33, 103\r\n  offset: 2, 1\r\n  index: -1\r\ncjj_b2\r\n  rotate: true\r\n  xy: 458, 153\r\n  size: 51, 147\r\n  orig: 54, 150\r\n  offset: 1, 2\r\n  index: -1\r\ncjj_b2_1\r\n  rotate: true\r\n  xy: 371, 13\r\n  size: 51, 147\r\n  orig: 54, 150\r\n  offset: 1, 1\r\n  index: -1\r\ncjj_b3\r\n  rotate: true\r\n  xy: 210, 136\r\n  size: 68, 246\r\n  orig: 71, 249\r\n  offset: 1, 1\r\n  index: -1\r\ncjj_b3_1\r\n  rotate: true\r\n  xy: 371, 66\r\n  size: 68, 246\r\n  orig: 71, 249\r\n  offset: 1, 2\r\n  index: -1\r\ncjj_b4\r\n  rotate: true\r\n  xy: 2, 16\r\n  size: 96, 367\r\n  orig: 99, 370\r\n  offset: 2, 1\r\n  index: -1\r\ncjj_b4_1\r\n  rotate: true\r\n  xy: 210, 206\r\n  size: 96, 367\r\n  orig: 99, 370\r\n  offset: 2, 2\r\n  index: -1\r\ncjj_s\r\n  rotate: true\r\n  xy: 408, 304\r\n  size: 196, 195\r\n  orig: 198, 197\r\n  offset: 1, 1\r\n  index: -1\r\ncjj_sx\r\n  rotate: false\r\n  xy: 2, 114\r\n  size: 206, 386\r\n  orig: 231, 387\r\n  offset: 0, 0\r\n  index: -1\r\ncjj_x\r\n  rotate: false\r\n  xy: 210, 304\r\n  size: 196, 196\r\n  orig: 198, 198\r\n  offset: 1, 1\r\n  index: -1\r\n",
+  "_atlasText": "\ncjj.png\nsize: 573,509\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ncjj_b1\n  rotate: true\n  xy: 2, 479\n  size: 28, 98\n  orig: 33, 103\n  offset: 3, 3\n  index: -1\ncjj_b1_1\n  rotate: true\n  xy: 102, 479\n  size: 28, 99\n  orig: 33, 103\n  offset: 3, 2\n  index: -1\ncjj_b2\n  rotate: true\n  xy: 203, 459\n  size: 48, 144\n  orig: 54, 150\n  offset: 3, 3\n  index: -1\ncjj_b2_1\n  rotate: true\n  xy: 349, 459\n  size: 48, 145\n  orig: 54, 150\n  offset: 3, 2\n  index: -1\ncjj_b3\n  rotate: true\n  xy: 248, 391\n  size: 66, 243\n  orig: 71, 249\n  offset: 2, 3\n  index: -1\ncjj_b3_1\n  rotate: true\n  xy: 2, 392\n  size: 65, 244\n  orig: 71, 249\n  offset: 3, 3\n  index: -1\ncjj_b4\n  rotate: true\n  xy: 2, 296\n  size: 93, 365\n  orig: 99, 370\n  offset: 3, 2\n  index: -1\ncjj_b4_1\n  rotate: true\n  xy: 2, 201\n  size: 93, 365\n  orig: 99, 370\n  offset: 3, 3\n  index: -1\ncjj_s\n  rotate: false\n  xy: 369, 198\n  size: 192, 191\n  orig: 198, 197\n  offset: 3, 3\n  index: -1\ncjj_sx\n  rotate: true\n  xy: 195, 2\n  size: 194, 376\n  orig: 231, 387\n  offset: 0, 1\n  index: -1\ncjj_x\n  rotate: false\n  xy: 2, 8\n  size: 191, 191\n  orig: 198, 198\n  offset: 3, 3\n  index: -1\n",
   "textures": [
     {
       "__uuid__": "0115acd6-2612-40d6-8394-9e02a900578a"

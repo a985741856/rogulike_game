@@ -1,4 +1,5 @@
 import Weapon from "../Game/weapon";
+import { cocosz } from "./CocosZ";
 import Constant, { SkinInfo, Levelitem, SkillInfo, GunInfo } from "./Constant";
 
 /**
@@ -23,9 +24,9 @@ export default class DataMgr {
             this._dataPool = JSON.parse(cc.sys.localStorage.getItem(Constant.ST_GameData));
         } else {
             // 初始金币
-            this._dataPool[Constant.ST_CoinCount] = "1000";
+            this._dataPool[Constant.ST_CoinCount] = "9000";
             // 初始钻石
-            this._dataPool[Constant.ST_DiamondCount] = "0";
+            this._dataPool[Constant.ST_DiamondCount] = "9000";
             // 初始钻石
             this._dataPool[Constant.ST_PhysicalCount] = "3";
             //初始化皮肤
@@ -374,7 +375,11 @@ export default class DataMgr {
     * 当前远程武器
     */
     public get CurRange() {
-        return parseInt(this.getItem(Constant.ST_CurRangeId, "0"));
+        if(cocosz.gameMode == 6){
+            return 0;
+        }else{
+            return parseInt(this.getItem(Constant.ST_CurRangeId, "0"));
+        }
     }
     private set CurRange(id: number) {
         if (id == this.CurRange || !Weapon.rangeWeapon.includes(id + 1)) {
