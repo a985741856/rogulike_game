@@ -435,8 +435,8 @@
     "relativePath": "bundleRes\\prefab_skin\\skin9.prefab"
   },
   "1faaa632-a5ba-452f-8122-bb2179e36ace": {
-    "asset": 1692002147658,
-    "meta": 1692002147659,
+    "asset": 1692007113078,
+    "meta": 1692007113079,
     "relativePath": "bundleRes\\prefab_weapon\\weapon_ak.prefab"
   },
   "ab32d294-be88-45c7-9f2e-8cebe1ad0fb8": {
@@ -4650,8 +4650,8 @@
     "relativePath": "scene\\Load.fire"
   },
   "2eebca53-f35d-4668-81b9-f34b97756660": {
-    "asset": 1691975928528,
-    "meta": 1691975928538,
+    "asset": 1692006718470,
+    "meta": 1692006718480,
     "relativePath": "scene\\Home.fire"
   },
   "e17dc11d-62d1-433f-96ce-b173b1a84ff1": {
